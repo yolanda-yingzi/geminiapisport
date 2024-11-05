@@ -1,0 +1,914 @@
+[
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/5-healthy-aging-tips-women",
+        "text": "Healthy aging"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-and-anxiety",
+        "text": "Anxiety"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/birth-control",
+        "text": "birth control"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/caring-others-resources-help-you",
+        "text": "Tips for Caregivers"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/cholesterol-medicines-guide",
+        "text": "Cholesterol Medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-clinical-trials",
+        "text": "Women in Clinical Trials"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/contact-lens-care",
+        "text": "Contact lens care"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/cosmetics-tips-women",
+        "text": "Cosmetics"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/depression-medicines",
+        "text": "Depression Medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-and-diabetes",
+        "text": "Diabetes"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/dietary-supplements-tips-women",
+        "text": "Dietary supplements"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/food-safety-home",
+        "text": "Food safety"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/heart-health-women",
+        "text": "Heart Health for Women"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/high-blood-pressure",
+        "text": "High blood pressure"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-and-hiv-get-facts-hiv-testing-prevention-and-treatment",
+        "text": "HIV treatment"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/hpv-human-papillomavirus",
+        "text": "HPV"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/mammography",
+        "text": "mammogram"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/medication-safety-women",
+        "text": "Medication safety tips for women"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/medicine-and-pregnancy",
+        "text": "Medicine and pregnancy tips"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+        "text": "Menopause"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/osteoporosis",
+        "text": "osteoporosis"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-and-pain-medicines",
+        "text": "Pain medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/pregnancy",
+        "text": "Pregnancy tips"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/sleep-problems",
+        "text": "Sleep problems"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/smoking-medicines-help-you-quit",
+        "text": "Smoking cessation resources"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/tattoos-and-permanent-make",
+        "text": "Tattoos and permanent makeup"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/uterine-fibroids",
+        "text": "Uterine fibroids"
+    },
+    {
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-older-adults-and-people-cancer-diabetes-hivaids-organ-transplants-and-autoimmune",
+        "text": "Food Safety for People with Diabetes"
+    },
+    {
+        "url": "https://www.fda.gov/food/labeling-nutrition/use-nutrition-facts-label-reduce-your-intake-sodium-your-diet",
+        "text": "Sodium in Your Diet"
+    },
+    {
+        "url": "https://www.fda.gov/food/labeling-nutrition/using-nutrition-facts-label-how-guide-older-adults",
+        "text": "Using the Nutrition Facts Label"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/food-serving-sizes-get-reality-check",
+        "text": "Food Serving Sizes: Get a Reality Check"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/sepa-como-tomar-sus-medicamentos-use-medicines-wisely",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/resources-you/medicines-and-you-guide-older-adults",
+        "text": "Medicines and You: A Guide for Older Adults"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/some-medications-and-driving-dont-mix",
+        "text": "Some Medicines and Driving Don't Mix"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/index-drug-specific-information",
+        "text": "Find information about the drugs you take"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/ensuring-safe-use-medicine/tablet-splitting",
+        "text": "Tablet Splitting"
+    },
+    {
+        "url": "https://www.fda.gov/buying-medicines-over-internet",
+        "text": "Buying Medicines Online"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/salud-cardiaca-heart-health",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/high-blood-pressure-hypertension",
+        "text": "High Blood Pressure"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/presion-arterial-alta-hipertension-high-blood-pressure-hypertension",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/women-and-depression",
+        "text": "Depression"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/depresion-depression-0",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/osteoporosis",
+        "text": "Osteoporosis"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/osteoporosis-en-espanol-0",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/coping-memory-loss",
+        "text": "Coping with Memory Loss"
+    },
+    {
+        "url": "https://www.fda.gov/hearing-aids",
+        "text": "Hearing Aids"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/home-use-devices/unique-considerations-home",
+        "text": "Things to Consider when Using a Medical Device in Your Home"
+    },
+    {
+        "url": "https://www.fda.gov/about-fda/page-not-found",
+        "text": "OTC Drug Facts Label"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/mamografias-mammograms",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications/publications-other-languages",
+        "text": "My Medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/colorectal-cancer-what-you-should-know-about-screening",
+        "text": "Colon Cancer Screening"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/articulos-en-espanol/lo-que-debe-saber-sobre-el-cancer-colorrectal",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/dont-double-acetaminophen",
+        "text": "Don't Double Up on Acetaminophen"
+    },
+    {
+        "url": "https://www.fda.gov/free-publications",
+        "text": "Get Other FDA Publications for Women"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health",
+        "text": "www.fda.gov/womens"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/las-mujeres-y-la-ansiedad-women-and-anxiety",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/diverse-women-clinical-trials/women-clinical-trials-resources-researchers-and-health-professionals",
+        "text": "Resources for researchers and health professionals\nLearn about OWH's Diverse Women in Clinical Trials campaign and find resources to share with your patients and communities."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/knowledge-and-news-women-owh-blog/national-minority-mental-health-awareness-month",
+        "text": "Knowledge & News on Women: National Minority Mental Health Awareness Month"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/control-de-la-natalidad-birth-control",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/cuidando-de-otros-recursos-para-ayudarle-usted",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/resources-drugs/information-consumers-and-patients-drugs",
+        "text": "Drug information for consumers and patients"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/safe-use-over-counter-pain-relievers-and-fever-reducers",
+        "text": "Safe use of over-the-counter pain relievers and fever reducers"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/consumer-products/safely-using-sharps-needles-and-syringes-home-work-and-travel",
+        "text": "Safely using sharps (needles and syringes) at home, at work and on travel"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices",
+        "text": "Consumer updates on medical devices"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/quick-tips-buying-medicines-over-internet/besaferx-your-source-online-pharmacy-information",
+        "text": "How to be safe when buying drugs online"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/adult-portable-bed-rail-safety/recommendations-consumers-and-caregivers-about-adult-portable-bed-rails",
+        "text": "Recommendations for consumers and caregivers about adult portable bed rails"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/consumer-products/hearing-aids",
+        "text": "Hearing aids"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/food-safety-home",
+        "text": "Basic steps for food safety"
+    },
+    {
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-booklet-pregnant-women-their-unborn-babies-and-children-under-five",
+        "text": "Food safety booklet for pregnant women, their unborn babies, and children under five"
+    },
+    {
+        "url": "https://www.fda.gov/food/nutrition-education-resources-materials/nutrition-facts-label",
+        "text": "The new nutrition facts label"
+    },
+    {
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-safety-your-kitchen",
+        "text": "Food safety in your kitchen"
+    },
+    {
+        "url": "https://www.fda.gov/emergency-preparedness-and-response/mcm-issues/preparedness-information-consumers",
+        "text": "Preparing for emergencies"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/urogynecologic-surgical-mesh-implants/stress-urinary-incontinence-sui",
+        "text": "Facts about the loss of bladder control"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams",
+        "text": "6 Tip-offs to rip-offs: don't fall for health fraud scams"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-ask-your-doctor-taking-opioids",
+        "text": "What to ask your doctor before taking opioids"
+    },
+    {
+        "url": "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/reporting-serious-problems-fda",
+        "text": "Reporting serious problems to FDA"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health/women-and-depression",
+        "text": "depression"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/diverse-women-clinical-trials/women-clinical-trials-patients",
+        "text": "Women in Clinical Trials: for patients\nLearn more about why it is important for women to participate in clinical trials, and find questions to ask your health care provider about whether a clinical trial might be right for you."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/diverse-women-clinical-trials/women-clinical-trials-research-and-policy",
+        "text": "Women in Clinical Trials: research and policy\nOWH was established to advocate for the participation of women in clinical trials and the analyses of data by sex. Learn more about OWH research in this area."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/about-owh/sex-biological-variable",
+        "text": "Sex as a biological variable\nUnderstanding mechanisms of sex differences in medical product development is crucial for regulatory decisions and optimal treatment outcomes."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/pregnancy-exposure-registries",
+        "text": "Pregnancy exposure registries"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health/owh-education-and-training",
+        "text": "Women's health education and training\nFind continuing education opportunities, upcoming events, and subscribe to receive the latest information about future opportunities from OWH."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health/owh-resources-stakeholders",
+        "text": "Resources for stakeholders\nFind resources and toolkits to share women’s health information, including OWH Pink Ribbon Guide and College Women's Campaign."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/cuidado-de-los-lentes-de-contacto-contact-lens-care",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/medwatch-fda-safety-information-and-adverse-event-reporting-program",
+        "text": "www.fda.gov/medwatch"
+    },
+    {
+        "url": "https://www.fda.gov/contact-lenses",
+        "text": "Other Tips on Contact Lenses"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/contact-lenses/decorative-contact-lenses",
+        "text": "Decorative Contact Lenses"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/colored-and-decorative-contact-lenses-prescription-must",
+        "text": "Decorative Contact Lenses: Is Your Vision Worth It?"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-know-if-your-child-wants-contact-lenses",
+        "text": "Mom, Can I Get Contact Lenses, Please?"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/take-time-care-program/college-womens-health",
+        "text": "College Women's Health"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/cosmeticos-cosmetics",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics",
+        "text": "Learn more about Cosmetics from CFSAN"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/minority-health-and-health-equity/skin-facts-what-you-need-know-about-skin-lightening-products",
+        "text": "Skin Facts! What You Need to Know About Skin Lightening Products"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/skin-facts-what-you-need-know-about-skin-lightening-products/skin-facts-resources",
+        "text": "Skin Facts! Resources"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/fragrances-cosmetics",
+        "text": "Fragrances in Cosmetics"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/cosmetics-compliance-enforcement/how-report-cosmetic-product-related-complaint",
+        "text": "How to Report a Cosmetic Related Complaint"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/hair-dye-and-hair-relaxers",
+        "text": "Hair Dye and Hair Relaxers"
+    },
+    {
+        "url": "https://www.fda.gov/pregnancyregistries",
+        "text": "www.fda.gov/pregnancyregistries"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/free-publications-women",
+        "text": "Free Publications For Women"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health/womens-health-topics",
+        "text": "Women's Health Topics"
+    },
+    {
+        "url": "https://www.fda.gov/about-fda/office-commissioner/office-womens-health",
+        "text": "Office of Women's Health"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/owh-resources-stakeholders/collaborate-owh",
+        "text": "An Invitation to Collaborate"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/your-glucose-meter",
+        "text": "Your Glucose Meter - easy-to-read booklet for women"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/blood-glucose-monitoring-devices/how-report-problems-glucose-meters-and-continuous-glucose-monitoring-systems",
+        "text": "How to Report Problems with Glucose Meters"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/women-and-diabetes-diabetes-medicines",
+        "text": "Diabetes Medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/insulin",
+        "text": "Insulin"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/emergency-preparedness/information-regarding-insulin-storage-and-switching-between-products-emergency",
+        "text": "Insulin Storage and Switching Between Products in an Emergency"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/beware-illegally-marketed-diabetes-treatments",
+        "text": "Beware of Illegally Sold Diabetes Treatments"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/medicine-and-pregnancy",
+        "text": "Medicine and Pregnancy"
+    },
+    {
+        "url": "https://www.fda.gov/science-research/womens-health-research/pregnancy-registries",
+        "text": "pregnancy registry studies"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/minority-health-and-health-equity-resources/diabetes",
+        "text": "FDA Minority Health and Health Equity Resource on Diabetes"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/blood-glucose-monitoring-devices",
+        "text": "Blood Glucose Monitoring Devices"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/suplementos-dieteticos-dietary-supplements",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/medwatch",
+        "text": "www.fda.gov/medwatch"
+    },
+    {
+        "url": "https://www.fda.gov/Food/DietarySupplements",
+        "text": "www.fda.gov/Food/DietarySupplements"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-weight-loss",
+        "text": "Weight Loss Fraud"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/health-scams-dont-take-risk",
+        "text": "Health Scams! Don't take the risk."
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/seguridad-alimentaria-en-el-hogar-food-safety-home",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/food/resources-you-food/consumers",
+        "text": "Food Safety Information for Consumers"
+    },
+    {
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-facts-consumers",
+        "text": "Food Facts for Consumers"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/questions-answers/generic-drugs-questions-answers",
+        "text": "questions answered"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/safe-use-aspirin/aspirin-reducing-your-risk-heart-attack-and-stroke-know-facts",
+        "text": "using aspirin to prevent heart attack and stroke"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/knowledge-and-news-women-owh-blog/women-and-heart-health",
+        "text": "OWH Blog Post - Women and Heart Health"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/high-blood-pressure-medicines-help-you",
+        "text": "High Blood Pressure--Medicines to Help You"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/tips-women-prevent-heart-disease",
+        "text": "Tips for Women to Prevent Heart Disease"
+    },
+    {
+        "url": "https://www.fda.gov/tobacco-products/health-effects-tobacco-use/how-smoking-affects-heart-health",
+        "text": "How Smoking Affects Heart Health"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/how-aeds-public-places-can-restart-hearts",
+        "text": "How AEDs in Public Places Can Restart Hearts"
+    },
+    {
+        "url": "https://www.fda.gov//www.nhlbi.nih.gov/health-topics/high-blood-pressure",
+        "text": "High Blood Pressure"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/las-mujeres-y-el-vih-women-and-hiv",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/hiv-and-aids-medicines-help-you",
+        "text": "medicines that people with HIV can take"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications/birth-control#BarrierMethods",
+        "text": "Learn more about using condoms"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-injectable-treatment-hiv-pre-exposure-prevention",
+        "text": "FDA approves first injectable treatment for HIV pre-exposure prevention"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/health-equity-forum-podcast/prep-and-pep-hiv-prevention-older-adults",
+        "text": "PrEP and PEP for HIV Prevention in Older Adults"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/hiv-and-aids-medicines-help-you",
+        "text": "HIV and AIDS: Medicines to Help You"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/information-drug-class/human-immunodeficiency-virus-hiv",
+        "text": "HIV drug information"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/minority-health-and-health-equity-resources/hiv",
+        "text": "HIV information from FDA’s Office of Minority Health and Health Equity"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/hiv-treatment/hiv-treatment-information-pregnant-patients",
+        "text": "HIV Treatment Information for Pregnant Patients"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/virus-del-papiloma-humano-vph-human-papillomavirus-hpv",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-hpv-test-use-surepath-preservative-fluid",
+        "text": "approved"
+    },
+    {
+        "url": "https://www.fda.gov/vaccines-blood-biologics/human-papillomavirus-vaccine",
+        "text": "vaccines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/owh-resources-stakeholders/pink-ribbon-guide-mammography-matters",
+        "text": "Pink Ribbon Guide - Mammography Matters"
+    },
+    {
+        "url": "https://www.fda.gov/radiation-emitting-products/mammography-quality-standards-act-mqsa-and-mqsa-program",
+        "text": "Mammography Quality Standards Act (MQSA)"
+    },
+    {
+        "url": "https://www.fda.gov/findmammography",
+        "text": "Find a certified site near you"
+    },
+    {
+        "url": "https://www.fda.gov/radiation-emitting-products/mammography-information-patients/frequently-asked-questions-about-mqsa",
+        "text": "Frequently asked questions about MQSA"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-updates-mammography-regulations-require-reporting-breast-density-information-and-enhance",
+        "text": "FDA Updates mammography regulations to require reporting of breast density information and enhance facility oversight"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/owh-news-and-updates/knowledge-and-news-women-owh-blog",
+        "text": "Learn more about mammography during breast cancer awareness month"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/mammography-what-you-need-know",
+        "text": "Mammography: what you need to know"
+    },
+    {
+        "url": "https://www.fda.gov/radiation-emitting-products/mammography-information-patients/frequently-asked-questions-about-digital-mammography",
+        "text": "Digital mammography FAQs"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/breast-cancer-screening-thermogram-no-substitute-mammogram",
+        "text": "Breast cancer screening: thermogram no substitute for mammogram"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-know-about-breast-implants",
+        "text": "What to know about breast implants"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/use-medicines-wisely",
+        "text": "Use Medicines Wisely"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications/english-publications",
+        "text": "Medicine Booklets"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/information-consumers-drugs/otc-drug-facts-label",
+        "text": "drug facts label"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines",
+        "text": "How to Dispose of Unused Medicines"
+    },
+    {
+        "url": "https://www.fda.gov/tips-seniors",
+        "text": "Tips for Seniors"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/articulos-en-espanol/giving-medicine-children",
+        "text": "Giving Medicine to Children"
+    },
+    {
+        "url": "https://www.fda.gov/health-fraud",
+        "text": "Avoid Health Scams"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/fda-pharmacists-help-you-use-medicines-safely",
+        "text": "FDA Pharmacists Help You Use Medicines Safely"
+    },
+    {
+        "url": "https://www.fda.gov/information-consumers-drugs",
+        "text": "Drug Information for Consumers"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/how-report-product-problems-and-complaints-fda",
+        "text": "Your Guide to Reporting Problems to FDA"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/medication-guides",
+        "text": "Medication Guide"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding",
+        "text": "cannabis products"
+    },
+    {
+        "url": "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program",
+        "text": "MedWatch"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/pregnant-breastfeeding-fda-aims-improve-drug-information",
+        "text": "consumers"
+    },
+    {
+        "url": "https://www.fda.gov/vaccines-blood-biologics/biologics-rules/pregnancy-and-lactation-labeling-final-rule",
+        "text": "Pregnancy and Lactation Labeling Information for Health Professionals"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/pregnancy-exposure-registries/pregnancy-exposure-registry-information-health-professionals",
+        "text": "Pregnancy Exposure Registry Information for Health Professionals"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/la-menopausia-y-las-hormonas-preguntas-comunes-menopause-hormones-common-questions",
+        "text": "en Español"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/home-use-tests/menopause",
+        "text": "menopause home test kit"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-novel-drug-treat-moderate-severe-hot-flashes-caused-menopause",
+        "text": "medicine"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/health-fraud-scams",
+        "text": "Don’t get scammed"
+    },
+    {
+        "url": "https://www.fda.gov/food/dietary-supplements",
+        "text": "dietary supplements"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-adds-warning-about-rare-occurrence-serious-liver-injury-use-veozah-fezolinetant-hot-flashes-due",
+        "text": "FDA adds warning about rare occurrence of serious liver injury with use of Veozah (fezolinetant) for hot flashes due to menopause"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/women/menopause-medicines-help-you",
+        "text": "Read a booklet on hormone medicines for menopause"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/knowledge-and-news-women-owh-blog/know-your-bones",
+        "text": "Knowledge and News on Women's Health (KNOWH) blog: Know Your Bones"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-investigating-risk-severe-hypocalcemia-patients-dialysis-receiving-osteoporosis-medicine-prolia",
+        "text": "FDA investigating risk of severe hypocalcemia in patients on dialysis receiving osteoporosis medicine Prolia (denosumab)"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-osteoporosis-postmenopausal-women-high-risk-fracture",
+        "text": "FDA approves new treatment for osteoporosis in postmenopausal women at high risk of fracture"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/las-mujeres-y-los-analgesicos-women-and-pain-medicines",
+        "text": "en Español"
+    },
+    {
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be",
+        "text": "Food safety for moms to be"
+    },
+    {
+        "url": "https://www.fda.gov/tobacco-products/health-effects-tobacco-use/how-smoking-affects-reproductive-health",
+        "text": "How smoking affects reproductive health"
+    },
+    {
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-pregnant-women-and-their-unborn-babies",
+        "text": "Food safety for pregnant women"
+    },
+    {
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+        "text": "Advice about eating fish"
+    },
+    {
+        "url": "https://www.fda.gov/food/foodborne-pathogens/listeria-listeriosis",
+        "text": "Learn about Listeria (Listeriosis)"
+    },
+    {
+        "url": "https://www.fda.gov/radiation-emitting-products/medical-imaging/ultrasound-imaging#patients",
+        "text": "Ultrasound imaging - Information for patients including expectant mothers"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-pregnancy",
+        "text": "Cosmetics and pregnancy"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/las-medicinas-y-el-embarazo-medicine-and-pregnancy",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/labeling-information-drug-products/pregnancy-and-lactation-labeling-drugs-final-rule",
+        "text": "health professionals"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/patient-labeling-resources#medication-guides",
+        "text": "Information on specific medicines"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/breast-pumps/types-breast-pumps",
+        "text": "Types of breast pumps"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/what-know-when-buying-or-using-breast-pump",
+        "text": "What to know when buying or using a breast pump"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/breast-pumps/breast-pump-and-breastfeeding-resources",
+        "text": "Breast pump and breastfeeding resources"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/breast-pumps/cleaning-breast-pump",
+        "text": "Cleaning a breast pump"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/breast-pumps/buying-and-renting-breast-pump",
+        "text": "Buying and renting a breast pump"
+    },
+    {
+        "url": "https://www.fda.gov/science-research/pediatrics/use-donor-human-milk",
+        "text": "Using breast milk from another woman"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/use-codeine-and-tramadol-products-breastfeeding-women-questions-and-answers",
+        "text": "Using codeine and tramadol products in breastfeeding women"
+    },
+    {
+        "url": "https://www.fda.gov/food/resources-you-food/infant-formula",
+        "text": "Infant formula"
+    },
+    {
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/handling-infant-formula-safely-what-you-need-know",
+        "text": "Handling infant formula safely: what you need to know"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/infant-formula-safety-dos-and-donts",
+        "text": "Infant formula: safety do's and don'ts"
+    },
+    {
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/once-baby-arrives-food-safety-moms-be",
+        "text": "Food safety - once your baby arrives"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/products/disposable-wipes",
+        "text": "Disposable wipes"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/should-you-put-sunscreen-infants-not-usually",
+        "text": "Should you put sunscreen on infants? Not usually"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/should-your-child-participate-clinical-trial",
+        "text": "Should Your Child Participate in a Clinical Trial?"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds",
+        "text": "Should You Give Kids Medicine for Coughs and Colds?"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/accidental-exposures-fentanyl-patches-continue-be-deadly-children",
+        "text": "Accidental Exposures to Fentanyl Patches Continue to Be Deadly to Children"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/vaccines-protect-children-harmful-infectious-diseases",
+        "text": "Vaccines protect children from harmful infectious diseases"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/safe-use-over-counter-otc-medicines-children",
+        "text": "Tips for parents about safe use of over-the-counter medicines"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/childrens-health",
+        "text": "Children's health"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications/birth-control-chart",
+        "text": "Birth control"
+    },
+    {
+        "url": "https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/cord-blood-banking-information-consumers",
+        "text": "Cord blood banking"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/problemas-del-sueno-sleep-problems",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/patient-labeling-resources",
+        "text": "Medication Guide (MG)"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/always-tired-you-may-have-sleep-apnea",
+        "text": "Always Tired? You May Have Sleep Apnea"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/sleep-disorder-sedative-hypnotic-drug-information",
+        "text": "Sleep Disorder (Sedative-Hypnotic) Drug Information"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/taking-z-drugs-insomnia-know-risks",
+        "text": "Taking Z-drugs for Insomnia? Know the Risks"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/medication-health-fraud/other-fraudulent-products",
+        "text": "Tainted Sleep Aid Products"
+    },
+    {
+        "url": "https://www.fda.gov/drugs/information-consumers-and-patients-drugs/find-information-about-drug",
+        "text": "Find Information About a Drug"
+    },
+    {
+        "url": "https://www.fda.gov/tobacco-products/health-information/womens-health-and-smoking",
+        "text": "Women's Health and Smoking"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/free-publications-women/tatuajes-y-maquillaje-permanente-tattoos-and-permanent-makeup",
+        "text": "en Español"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/think-you-ink-are-tattoos-safe",
+        "text": "Think Before You Ink: Are Tattoos Safe?"
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/products/temporary-tattoos-hennamehndi-and-black-henna-fact-sheet",
+        "text": "Temporary Tattoos, Henna/Mehndi, and \"Black Henna\""
+    },
+    {
+        "url": "https://www.fda.gov/cosmetics/products/tattoos-permanent-makeup-guide-resources",
+        "text": "Other Tips about Tattoos and Permanent Makeup"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/tattoo-removal-options-and-results",
+        "text": "Inked and Regretful: Removing Tattoos"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/consumer-updates/tattoo-you-seven-key-questions-consider",
+        "text": "Inks Used in Certain Tattoo Kits Cause Infections"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/womens-health-topics/los-fibromas-uterinos-uterine-fibroids",
+        "text": "En Español"
+    },
+    {
+        "url": "https://www.fda.gov/radiation-emitting-products/radiation-emitting-products-and-procedures/medical-imaging",
+        "text": "medical imaging"
+    },
+    {
+        "url": "https://www.fda.gov/consumers/knowledge-and-news-women-owh-blog/knowledge-news-women-fibroid-awareness-month",
+        "text": "Knowledge & News on Women: Fibroid Awareness Month"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-option-treat-heavy-menstrual-bleeding-associated-fibroids-women",
+        "text": "FDA Approves New Option to Treat Heavy Menstrual Bleeding Associated with Fibroids in Women"
+    },
+    {
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-takes-new-steps-increase-safety-laparoscopic-power-morcellators-when-used-gynecologic-surgeries",
+        "text": "FDA Takes New Steps to Increase the Safety of Laparoscopic Power Morcellators when used in Gynecologic Surgeries"
+    },
+    {
+        "url": "https://www.fda.gov/medical-devices/surgery-devices/laparoscopic-power-morcellators",
+        "text": "Learn More About Laparoscopic Power Morcellators"
+    }
+]
