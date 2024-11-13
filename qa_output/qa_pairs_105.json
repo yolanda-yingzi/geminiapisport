@@ -1,0 +1,25 @@
+{
+  "index": 105,
+  "timestamp": "2024-11-11 22:51:30",
+  "original_text": "en EspañolInsulin Storage and EffectivenessInsulin for InjectionInsulin from various manufacturers is often made available to patients in an emergency and may be different from a patient's usual insul...",
+  "qa_pairs": [
+    {
+      "text_input": "What type of insulin should I use if I am unable to keep my insulin refrigerated?",
+      "output": "Insulin vials or cartridges supplied by the manufacturer can be left unrefrigerated at a temperature between 59°F and 86°F for up to 28 days.",
+      "index": 105,
+      "timestamp": "2024-11-11 22:51:30"
+    },
+    {
+      "text_input": "Under what circumstances can regular insulin be substituted for rapid-acting insulin?",
+      "output": "In emergency conditions, one brand of regular insulin can be substituted for another brand of regular insulin or for rapid-acting insulins on a unit-per-unit basis.",
+      "index": 105,
+      "timestamp": "2024-11-11 22:51:30"
+    },
+    {
+      "text_input": "What are the steps involved in switching from an intermediate-acting insulin to a long-acting insulin?",
+      "output": "Add up the total units of intermediate-acting insulin used per day and give it as a single dose of long-acting insulin once a day. Monitor blood glucose closely and adjust insulin dosage as needed.",
+      "index": 105,
+      "timestamp": "2024-11-11 22:51:30"
+    }
+  ]
+}

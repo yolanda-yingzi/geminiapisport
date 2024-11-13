@@ -1,0 +1,25 @@
+{
+  "index": 148,
+  "timestamp": "2024-11-11 22:55:00",
+  "original_text": "Print and Share (PDF 2.43MB) en Español Medicines can treat health problems and help you live a healthier life. When used incorrectly, medicines can cause serious injuries or even death. Many of these...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the four ways to avoid common medicine mistakes?",
+      "output": "Ask questions, keep a medicine list, follow directions, and safely store and throw out medicines.",
+      "index": 148,
+      "timestamp": "2024-11-11 22:55:00"
+    },
+    {
+      "text_input": "What information should you ask your doctor or pharmacist about each medicine you take?",
+      "output": "The name of the medicine, the active ingredient(s), what the medicine is for, how much to take and when to take it, what it looks like, when it expires, any side effects or special warnings, what to do if you start having side effects, and whether it can be taken if you are pregnant or breastfeeding.",
+      "index": 148,
+      "timestamp": "2024-11-11 22:55:00"
+    },
+    {
+      "text_input": "What can happen if you don't follow the directions for taking your medicine?",
+      "output": "Your medicine may not work properly, or you may get very sick.",
+      "index": 148,
+      "timestamp": "2024-11-11 22:55:00"
+    }
+  ]
+}

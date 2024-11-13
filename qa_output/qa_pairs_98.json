@@ -1,0 +1,25 @@
+{
+  "index": 98,
+  "timestamp": "2024-11-11 22:50:49",
+  "original_text": "OWH offers a variety of resources and free publications on women's health topics. Sub-Topic Paragraphs Featured Women's Health Resources Free publications for women The FDA Office of Women’s Health (O...",
+  "qa_pairs": [
+    {
+      "text_input": "What resources does OWH provide?",
+      "output": "OWH offers a variety of free publications on women's health topics.",
+      "index": 98,
+      "timestamp": "2024-11-11 22:50:49"
+    },
+    {
+      "text_input": "What is the best primary tool for screening breast cancer?",
+      "output": "Mammograms are the best primary tool to screen for breast cancer.",
+      "index": 98,
+      "timestamp": "2024-11-11 22:50:49"
+    },
+    {
+      "text_input": "What are pregnancy exposure registries?",
+      "output": "Pregnancy exposure registries are research studies that collect health information on exposure to medical products during pregnancy.",
+      "index": 98,
+      "timestamp": "2024-11-11 22:50:49"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 161,
+  "timestamp": "2024-11-11 22:56:00",
+  "original_text": "Image Español People who are pregnant or breastfeeding often need to take prescription medications. The use of prescription medication during pregnancy and while breastfeeding has increased over the p...",
+  "qa_pairs": [
+    {
+      "text_input": "What percentage of people take prescription medication during pregnancy?",
+      "output": "Most people take at least one prescription medication at some point during pregnancy.",
+      "index": 161,
+      "timestamp": "2024-11-11 22:56:00"
+    },
+    {
+      "text_input": "What is the FDA's goal for the revised pregnancy and breastfeeding labeling format?",
+      "output": "To improve presentation of pregnancy and breastfeeding-related information.",
+      "index": 161,
+      "timestamp": "2024-11-11 22:56:00"
+    },
+    {
+      "text_input": "What type of research does the Office of Women's Health (OWH) fund?",
+      "output": "Research to expand our knowledge on medication use during pregnancy and lactation.",
+      "index": 161,
+      "timestamp": "2024-11-11 22:56:00"
+    }
+  ]
+}

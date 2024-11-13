@@ -1,0 +1,25 @@
+{
+  "index": 160,
+  "timestamp": "2024-11-11 22:55:55",
+  "original_text": "MedWatch, the FDA’s medical product safety reporting program for health professionals, patients and consumers. Report a Problem Safety Information Stay Informed MedWatch receives reports from the publ...",
+  "qa_pairs": [
+    {
+      "text_input": "What products are covered by the MedWatch program?",
+      "output": "Prescription and over-the-counter medicines, Biologics, Medical devices, Combination products, Special nutritional products, Cosmetics, Food.",
+      "index": 160,
+      "timestamp": "2024-11-11 22:55:55"
+    },
+    {
+      "text_input": "Does MedWatch cover tobacco products?",
+      "output": "Yes, tobacco products are regulated by the FDA and reports concerning them should be submitted directly to the appropriate portals.",
+      "index": 160,
+      "timestamp": "2024-11-11 22:55:55"
+    },
+    {
+      "text_input": "Where can I submit reports concerning animal drug, device, pet food and livestock feed?",
+      "output": "Reports concerning animal drug, device, pet food and livestock feed should be submitted directly to the appropriate portals.",
+      "index": 160,
+      "timestamp": "2024-11-11 22:55:55"
+    }
+  ]
+}

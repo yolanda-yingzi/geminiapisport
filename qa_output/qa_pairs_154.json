@@ -1,0 +1,25 @@
+{
+  "index": 154,
+  "timestamp": "2024-11-11 22:55:26",
+  "original_text": "Subscribe to receive FDA health fraud alerts Health fraud scams refer to products that claim to prevent, treat, or cure diseases or other health conditions, but are not proven safe and effective for t...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential consequences of health fraud scams?",
+      "output": "Health fraud scams can waste money, delay proper diagnosis and treatment, and cause serious or fatal injuries.",
+      "index": 154,
+      "timestamp": "2024-11-11 22:55:26"
+    },
+    {
+      "text_input": "What is the FDA's role in addressing health fraud?",
+      "output": "The FDA issues warning letters to companies marketing unapproved products, recalls fraudulent products, and investigates illnesses related to health fraud.",
+      "index": 154,
+      "timestamp": "2024-11-11 22:55:26"
+    },
+    {
+      "text_input": "What types of products are commonly involved in health fraud scams?",
+      "output": "Products claiming to prevent, treat, or cure diseases or health conditions but are not proven safe and effective, including supplements, inhalants, and cannabis-derived products.",
+      "index": 154,
+      "timestamp": "2024-11-11 22:55:26"
+    }
+  ]
+}

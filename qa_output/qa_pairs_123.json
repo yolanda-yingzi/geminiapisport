@@ -1,0 +1,25 @@
+{
+  "index": 123,
+  "timestamp": "2024-11-11 22:52:53",
+  "original_text": "Image Español More women die from heart disease than from any other cause: about one in five American women, according to the Centers for Disease Control and Prevention. You can take action now to red...",
+  "qa_pairs": [
+    {
+      "text_input": "According to the text, what is the leading cause of death for women in America?",
+      "output": "Heart disease",
+      "index": 123,
+      "timestamp": "2024-11-11 22:52:53"
+    },
+    {
+      "text_input": "What is one factor that may contribute to an increased risk of heart disease in women after menopause?",
+      "output": "Decline in estrogen levels",
+      "index": 123,
+      "timestamp": "2024-11-11 22:52:53"
+    },
+    {
+      "text_input": "Is hormone replacement therapy approved by the FDA for reducing heart disease risk?",
+      "output": "No",
+      "index": 123,
+      "timestamp": "2024-11-11 22:52:53"
+    }
+  ]
+}

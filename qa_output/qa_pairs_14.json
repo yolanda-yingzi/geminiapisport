@@ -1,0 +1,25 @@
+{
+  "index": 14,
+  "timestamp": "2024-11-11 22:43:54",
+  "original_text": "REVISED! High Blood Pressure Medicine Booklet Download, Print and Share There are various FDA-approved products that are currently available to treat high blood pressure. Learn more about your options...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the recommended blood pressure level?",
+      "output": "A normal blood pressure level is usually considered to be less than 120/80.",
+      "index": 14,
+      "timestamp": "2024-11-11 22:43:54"
+    },
+    {
+      "text_input": "Can high blood pressure cause kidney failure?",
+      "output": "Yes, high blood pressure can cause kidney failure.",
+      "index": 14,
+      "timestamp": "2024-11-11 22:43:54"
+    },
+    {
+      "text_input": "How is gestational hypertension different from chronic hypertension?",
+      "output": "Gestational hypertension is high blood pressure that develops during pregnancy, while chronic hypertension is high blood pressure that existed before pregnancy or before the 20th week of pregnancy.",
+      "index": 14,
+      "timestamp": "2024-11-11 22:43:54"
+    }
+  ]
+}

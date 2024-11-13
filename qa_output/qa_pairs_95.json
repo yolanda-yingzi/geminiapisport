@@ -1,0 +1,25 @@
+{
+  "index": 95,
+  "timestamp": "2024-11-11 22:50:35",
+  "original_text": "Print and Share (615 KB) En Español Hair dye is used to color your hair. Hair relaxers are used to make your hair straight. Both hair dye and hair relaxers can hurt your skin, hair, and eyes, especial...",
+  "qa_pairs": [
+    {
+      "text_input": "What does hair dye do?",
+      "output": "Hair dye colors your hair.",
+      "index": 95,
+      "timestamp": "2024-11-11 22:50:35"
+    },
+    {
+      "text_input": "What does a hair relaxer do?",
+      "output": "A hair relaxer makes your hair straight.",
+      "index": 95,
+      "timestamp": "2024-11-11 22:50:35"
+    },
+    {
+      "text_input": "Can hair dyes and hair relaxers harm my health?",
+      "output": "Yes, hair dyes and hair relaxers can hurt your skin, hair, and eyes if you are not careful.",
+      "index": 95,
+      "timestamp": "2024-11-11 22:50:35"
+    }
+  ]
+}

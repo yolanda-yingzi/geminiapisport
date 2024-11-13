@@ -1,0 +1,25 @@
+{
+  "index": 67,
+  "timestamp": "2024-11-11 22:48:16",
+  "original_text": "Image Download English PDF (2.13 MB) En Español On this page: 4 basic steps for food safety Think you have a food illness? Who is at risk? Download Food Safety at Home fact sheet in other languages Ea...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the most important thing to do to prevent foodborne illness?",
+      "output": "The most important thing to do to prevent foodborne illness is to wash your hands, food, and surfaces with soap and water.",
+      "index": 67,
+      "timestamp": "2024-11-11 22:48:16"
+    },
+    {
+      "text_input": "Who is at the highest risk of getting foodborne illness?",
+      "output": "Pregnant women, older adults, and people with weakened immune systems are at the highest risk of getting foodborne illness.",
+      "index": 67,
+      "timestamp": "2024-11-11 22:48:16"
+    },
+    {
+      "text_input": "What is the 2-hour rule?",
+      "output": "The 2-hour rule is that food should be refrigerated or frozen within 2 hours after cooking or buying from the store.",
+      "index": 67,
+      "timestamp": "2024-11-11 22:48:16"
+    }
+  ]
+}

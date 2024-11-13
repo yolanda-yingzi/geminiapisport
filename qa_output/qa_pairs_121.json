@@ -1,0 +1,25 @@
+{
+  "index": 121,
+  "timestamp": "2024-11-11 22:52:44",
+  "original_text": "Women and Heart Health The first Friday in February is National Wear Red Day, a day when many people wear red to bring greater attention to heart disease as a leading cause of death for Americans. In ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is one of the common risk factors for heart disease in women?",
+      "output": "One common risk factor for heart disease in women is obesity.",
+      "index": 121,
+      "timestamp": "2024-11-11 22:52:44"
+    },
+    {
+      "text_input": "What is a sign of a heart attack that may be different for women?",
+      "output": "A sign of a heart attack that may be different for women is shortness of breath.",
+      "index": 121,
+      "timestamp": "2024-11-11 22:52:44"
+    },
+    {
+      "text_input": "How can I help protect my heart health as a woman?",
+      "output": "You can help protect your heart health as a woman by aiming to maintain a healthy weight, engaging in regular physical activity, eating heart-healthy foods, and managing existing health conditions.",
+      "index": 121,
+      "timestamp": "2024-11-11 22:52:44"
+    }
+  ]
+}

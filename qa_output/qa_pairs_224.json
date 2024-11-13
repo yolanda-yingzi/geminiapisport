@@ -1,0 +1,25 @@
+{
+  "index": 224,
+  "timestamp": "2024-11-11 23:01:16",
+  "original_text": "For Immediate Release: February 25, 2020 Statement From: Jeff Shuren, M.D., J.D. Director - CDRH Offices: Office of the Center Director Today, we are taking several important steps to make the use of ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the main risk associated with the use of laparoscopic power morcellators (LPMs) in gynecologic surgeries?",
+      "output": "The main risk associated with the use of LPMs in gynecologic surgeries is the spread of cancerous tissue throughout the body, decreasing a woman's long-term survival.",
+      "index": 224,
+      "timestamp": "2024-11-11 23:01:16"
+    },
+    {
+      "text_input": "What is the PneumoLiner containment system?",
+      "output": "The PneumoLiner containment system is a device that contains tissue to be morcellated during certain gynecologic surgeries. It is a first-of-kind tissue containment system that was authorized by the FDA in 2016 for use with certain LPMs to isolate uterine tissue that is not suspected to contain cancer.",
+      "index": 224,
+      "timestamp": "2024-11-11 23:01:16"
+    },
+    {
+      "text_input": "What is the FDA's current recommendation regarding the use of LPMs in gynecologic surgeries?",
+      "output": "The FDA's current recommendation is that LPMs should only be used in certain gynecologic surgeries with a containment system that is compatible with the LPM. The FDA is also recommending that the labeling of LPMs include contraindications and warnings highlighting the risks of use of LPMs in gynecologic surgeries, including the risk of occult cancer, the risk of spreading benign uterine tissue, and the contraindication of LPMs in gynecologic surgery in which the tissue to be morcellated is known or suspected to contain cancer.",
+      "index": 224,
+      "timestamp": "2024-11-11 23:01:16"
+    }
+  ]
+}

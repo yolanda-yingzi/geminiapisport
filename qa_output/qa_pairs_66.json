@@ -1,0 +1,25 @@
+{
+  "index": 66,
+  "timestamp": "2024-11-11 22:48:11",
+  "original_text": "UPDATE - May 3, 2023: The FDA published a new web page with details about over-the-counter (OTC) Hearing Aids: What You Should Know before and after buying an OTC hearing aid. Having trouble hearing? ...",
+  "qa_pairs": [
+    {
+      "text_input": "What percentage of adults in the United States have some degree of hearing loss?",
+      "output": "Close to 30 million adults in the United States have some degree of hearing loss.",
+      "index": 66,
+      "timestamp": "2024-11-11 22:48:11"
+    },
+    {
+      "text_input": "What is the difference between over-the-counter hearing aids and prescription hearing aids?",
+      "output": "Over-the-counter hearing aids are available for purchase without a prescription or fitting by an audiologist. They are intended for people 18 years or older with perceived mild to moderate hearing loss. Prescription hearing aids require a prescription from a healthcare professional and may be more appropriate for people with more severe hearing loss.",
+      "index": 66,
+      "timestamp": "2024-11-11 22:48:11"
+    },
+    {
+      "text_input": "What is the purpose of aural rehabilitation?",
+      "output": "Aural rehabilitation is a patient-centered approach to reduce the impact of hearing loss on communication. It helps a person focus on adjusting to hearing loss and how to use their hearing aids. It also explores assistive listening devices to help improve communication.",
+      "index": 66,
+      "timestamp": "2024-11-11 22:48:11"
+    }
+  ]
+}

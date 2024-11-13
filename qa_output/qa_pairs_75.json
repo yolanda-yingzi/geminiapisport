@@ -1,0 +1,25 @@
+{
+  "index": 75,
+  "timestamp": "2024-11-11 22:48:57",
+  "original_text": "Español MedWatch is the Food and Drug Administration's (FDA) program for ) Press 2 to report into MedWatch or for instructions. Guides to Reporting Problems to FDA MedWatchLearn - Teaching students, h...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of Español MedWatch?",
+      "output": "Español MedWatch is a program run by the Food and Drug Administration (FDA) for reporting problems related to drugs or medical devices.",
+      "index": 75,
+      "timestamp": "2024-11-11 22:48:57"
+    },
+    {
+      "text_input": "How can I report a problem to FDA MedWatch?",
+      "output": "You can report a problem to FDA MedWatch by pressing 2 on your phone or by visiting their website.",
+      "index": 75,
+      "timestamp": "2024-11-11 22:48:57"
+    },
+    {
+      "text_input": "What resources are available to help me report a problem to FDA MedWatch?",
+      "output": "FDA MedWatch provides guides, videos, and other resources to help you report problems.",
+      "index": 75,
+      "timestamp": "2024-11-11 22:48:57"
+    }
+  ]
+}

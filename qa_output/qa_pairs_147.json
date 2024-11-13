@@ -1,0 +1,25 @@
+{
+  "index": 147,
+  "timestamp": "2024-11-11 22:54:54",
+  "original_text": "Image Español UPDATE: In March 2023, the FDA issued a safety communication with updated information about squamous cell carcinoma (SCC) in the scar tissue (capsule) around breast implants. The March 2...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the risks associated with breast implants?",
+      "output": "Risks associated with breast implants include additional surgeries, Breast Implant Associated-Anaplastic Large Cell Lymphoma (BIA-ALCL), Breast Implant Illness (BII), capsular contracture, breast pain, rupture, deflation, and infection.",
+      "index": 147,
+      "timestamp": "2024-11-11 22:54:54"
+    },
+    {
+      "text_input": "What should I ask my surgeon before getting breast implants?",
+      "output": "Questions to ask your surgeon before getting breast implants include: their experience in performing breast implant surgeries, the surgical procedure, the ways the implant might affect your life, and any previous surgeries you have had.",
+      "index": 147,
+      "timestamp": "2024-11-11 22:54:54"
+    },
+    {
+      "text_input": "What are the different types of breast implants approved by the FDA?",
+      "output": "The two types of FDA-approved breast implants are saline-filled (saltwater solution) and silicone gel-filled. Both have a silicone outer shell and vary in size, shell thickness, shell surface texture, and shape (contour).",
+      "index": 147,
+      "timestamp": "2024-11-11 22:54:54"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 41,
+  "timestamp": "2024-11-11 22:46:04",
+  "original_text": "En Espanol Everyone feels sad at times. People with depression feel sad most days. Depression can make it hard to care for yourself and your family. It can also affect you at work or school. Read this...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some signs of depression?",
+      "output": "Feeling sad, tired all the time, nervous, cranky, crying a lot, eating too much or not at all, feeling guilty, and having trouble paying attention.",
+      "index": 41,
+      "timestamp": "2024-11-11 22:46:04"
+    },
+    {
+      "text_input": "What are some treatment options for depression?",
+      "output": "Medicine or counseling (sometimes both).",
+      "index": 41,
+      "timestamp": "2024-11-11 22:46:04"
+    },
+    {
+      "text_input": "What is the difference between baby blues and postpartum depression?",
+      "output": "Baby blues usually go away after two weeks and are common after having a baby, while postpartum depression is a more severe form of depression that can occur after giving birth.",
+      "index": 41,
+      "timestamp": "2024-11-11 22:46:04"
+    }
+  ]
+}

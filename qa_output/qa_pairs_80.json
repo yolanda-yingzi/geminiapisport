@@ -1,0 +1,25 @@
+{
+  "index": 80,
+  "timestamp": "2024-11-11 22:49:24",
+  "original_text": "Image Pregnant Patients Health Professionals Find a Pregnancy Exposure Registry Medicine and Pregnancy Are you pregnant and taking medicines? You are not alone. There are about 6 million pregnancies i...",
+  "qa_pairs": [
+    {
+      "text_input": "What are pregnancy exposure registries?",
+      "output": "Pregnancy exposure registries are research studies that gather data on the effects of prescription drugs or vaccines taken during pregnancy on both the mother and the developing fetus.",
+      "index": 80,
+      "timestamp": "2024-11-11 22:49:24"
+    },
+    {
+      "text_input": "Why is it important for pregnant women to participate in pregnancy exposure registries?",
+      "output": "Participation in pregnancy exposure registries is essential because the data gathered helps healthcare providers and pregnant individuals better understand the safety of medications and vaccines used during pregnancy.",
+      "index": 80,
+      "timestamp": "2024-11-11 22:49:24"
+    },
+    {
+      "text_input": "What is the approximate percentage of pregnant women in the U.S. who take medications?",
+      "output": "Approximately 80% of pregnant women in the United States take at least one medication during their pregnancy.",
+      "index": 80,
+      "timestamp": "2024-11-11 22:49:24"
+    }
+  ]
+}

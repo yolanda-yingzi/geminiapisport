@@ -1,0 +1,25 @@
+{
+  "index": 186,
+  "timestamp": "2024-11-11 22:58:07",
+  "original_text": "Image Español If you’re giving your baby breast milk, you probably know there can be times when a breast pump can come in handy. Breast pumps are medical devices regulated by the U.S. Food and Drug Ad...",
+  "qa_pairs": [
+    {
+      "text_input": "Can I rent or share a breast pump?",
+      "output": "Renting or sharing breast pumps designed for single users is unsafe due to potential contamination and infection risks.",
+      "index": 186,
+      "timestamp": "2024-11-11 22:58:07"
+    },
+    {
+      "text_input": "What factors should I consider when choosing a breast pump?",
+      "output": "Consider your usage needs, such as frequency and location, when selecting a manual or powered breast pump, whether it should be portable or home-based, and if it requires batteries or an electrical outlet.",
+      "index": 186,
+      "timestamp": "2024-11-11 22:58:07"
+    },
+    {
+      "text_input": "How should I clean a breast pump?",
+      "output": "Clean the breast pump after each use by rinsing and washing all parts that come into contact with breast milk with dishwashing soap, thoroughly rinsing with hot water, and allowing to air dry. You can also wipe the pump body with ethanol or isopropyl alcohol or boil the parts in water.",
+      "index": 186,
+      "timestamp": "2024-11-11 22:58:07"
+    }
+  ]
+}

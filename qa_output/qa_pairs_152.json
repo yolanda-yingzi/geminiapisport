@@ -1,0 +1,25 @@
+{
+  "index": 152,
+  "timestamp": "2024-11-11 22:55:18",
+  "original_text": "As you get older you may be faced with more health conditions that you need to treat on a regular basis. It is important to be aware that more use of medicines and normal body changes caused by aging ...",
+  "qa_pairs": [
+    {
+      "text_input": "What can lead to increased chances of drug interactions in seniors?",
+      "output": "Increased use of medicines and normal body changes caused by aging.",
+      "index": 152,
+      "timestamp": "2024-11-11 22:55:18"
+    },
+    {
+      "text_input": "What is important for seniors to do to avoid problems with medicines?",
+      "output": "Be aware of their medicines and talk with their healthcare professionals.",
+      "index": 152,
+      "timestamp": "2024-11-11 22:55:18"
+    },
+    {
+      "text_input": "What is a tip for talking with a pharmacist about using medicines safely?",
+      "output": "Learn how to use medicines safely.",
+      "index": 152,
+      "timestamp": "2024-11-11 22:55:18"
+    }
+  ]
+}

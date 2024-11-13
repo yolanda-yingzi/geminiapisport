@@ -1,0 +1,25 @@
+{
+  "index": 214,
+  "timestamp": "2024-11-11 23:00:23",
+  "original_text": "Imprimir y Compartir (PDF 391KB) En inglés Algunas mujeres se hacen tatuajes por belleza, expresión personal o eventos culturales. Cualquiera sea su razón, conozca los hechos antes y después de hacers...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the different types of tattoos?",
+      "output": "Permanent tattoos, Permanent makeup, Henna, Black henna, Temporary decal tattoos.",
+      "index": 214,
+      "timestamp": "2024-11-11 23:00:23"
+    },
+    {
+      "text_input": "What are some risks associated with tattoos?",
+      "output": "Infections, Allergic reactions, Other skin problems, Sunburn and scarring, Possible MRI complications.",
+      "index": 214,
+      "timestamp": "2024-11-11 23:00:23"
+    },
+    {
+      "text_input": "How can tattoos be removed?",
+      "output": "Laser removal (FDA-approved), Surgery, Ungüentos y cremas (not FDA-approved).",
+      "index": 214,
+      "timestamp": "2024-11-11 23:00:23"
+    }
+  ]
+}

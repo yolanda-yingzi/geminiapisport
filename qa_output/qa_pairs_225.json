@@ -1,0 +1,25 @@
+{
+  "index": 225,
+  "timestamp": "2024-11-11 23:01:22",
+  "original_text": "UPDATE: On May 26, 2023, the FDA issued the final guidance: Non-Clinical Performance Assessment of Tissue Containment Systems Used During Power Morcellation Procedures. This final guidance provides re...",
+  "qa_pairs": [
+    {
+      "text_input": "What conditions do laparoscopic power morcellators treat?",
+      "output": "Laparoscopic power morcellators are used to treat uterine fibroids (noncancerous growths in the uterus) and hysterectomy (surgical removal of the uterus).",
+      "index": 225,
+      "timestamp": "2024-11-11 23:01:22"
+    },
+    {
+      "text_input": "Why is using laparoscopic power morcellators for women with uterine fibroids risky?",
+      "output": "Using laparoscopic power morcellators for women with uterine fibroids is risky because it can spread cancerous tissue beyond the uterus if the fibroids are actually uterine sarcomas (a type of cancer).",
+      "index": 225,
+      "timestamp": "2024-11-11 23:01:22"
+    },
+    {
+      "text_input": "What is the FDA's recommendation for using laparoscopic power morcellators?",
+      "output": "The FDA recommends that laparoscopic power morcellators be used only in cases where the benefits of minimally invasive surgery outweigh the risks, such as in younger women who wish to maintain their fertility.",
+      "index": 225,
+      "timestamp": "2024-11-11 23:01:22"
+    }
+  ]
+}

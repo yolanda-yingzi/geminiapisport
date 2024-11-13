@@ -1,0 +1,25 @@
+{
+  "index": 206,
+  "timestamp": "2024-11-11 22:59:43",
+  "original_text": "Imprimir y compartir (PDF 1439 KB) En inglés Datos básicos sobre el dormir La mayoría de los adultos necesitan de siete a ocho horas de sueño todas las noches. Pero no todas las personas duermen todo ...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some common causes of occasional sleep difficulties?",
+      "output": "Stress, health issues, medications, excessive work hours/shift work, light or noise, alcohol or heavy meals close to bedtime.",
+      "index": 206,
+      "timestamp": "2024-11-11 22:59:43"
+    },
+    {
+      "text_input": "What type of medication can help with sleep?",
+      "output": "Prescription and over-the-counter (OTC) medications are available to aid sleep.",
+      "index": 206,
+      "timestamp": "2024-11-11 22:59:43"
+    },
+    {
+      "text_input": "What are some ways to improve sleep habits?",
+      "output": "Establish a regular sleep-wake cycle, create a dark and quiet sleep environment, avoid caffeine and nicotine before bed, engage in relaxing activities before sleep, avoid late afternoon naps, and limit food intake close to bedtime.",
+      "index": 206,
+      "timestamp": "2024-11-11 22:59:43"
+    }
+  ]
+}

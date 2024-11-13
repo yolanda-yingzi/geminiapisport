@@ -1,0 +1,25 @@
+{
+  "index": 215,
+  "timestamp": "2024-11-11 23:00:28",
+  "original_text": "Image Español Tattoos are more popular than ever. About 30% of all Americans, and 40% of those aged 18-34 years old, have at least one tattoo, according to polling by the firm Ipsos. While state and l...",
+  "qa_pairs": [
+    {
+      "text_input": "Can you get serious infections from tattoos?",
+      "output": "Yes, serious infections can develop from unhygienic practices, contaminated ink, or non-sterile equipment.",
+      "index": 215,
+      "timestamp": "2024-11-11 23:00:28"
+    },
+    {
+      "text_input": "What are some possible long-term effects of tattoo ink?",
+      "output": "Long-term effects of tattoo ink are still being studied, but the FDA has received reports of allergic reactions, infections, and even problems with MRI scans.",
+      "index": 215,
+      "timestamp": "2024-11-11 23:00:28"
+    },
+    {
+      "text_input": "What should I do if I notice a rash or irritation after getting a tattoo?",
+      "output": "If you develop a rash, redness, or bumps near your tattoo, contact your tattooist and healthcare professional immediately, especially if you have a fever.",
+      "index": 215,
+      "timestamp": "2024-11-11 23:00:28"
+    }
+  ]
+}

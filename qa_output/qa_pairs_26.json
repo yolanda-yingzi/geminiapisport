@@ -1,0 +1,25 @@
+{
+  "index": 26,
+  "timestamp": "2024-11-11 22:44:53",
+  "original_text": "en Español Print and Share (PDF 5.5 MB) Some women get tattoos for beauty, self-expression, or cultural events. Whatever your reason, know the facts before and after you get a tattoo. Types of Tattoos...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some potential risks associated with getting a tattoo?",
+      "output": "Possible risks include infections, allergic reactions, skin problems, pain during removal, and increased risk of scarring.",
+      "index": 26,
+      "timestamp": "2024-11-11 22:44:53"
+    },
+    {
+      "text_input": "How can I safely remove a permanent tattoo?",
+      "output": "You can have it professionally removed by laser surgery or surgically by cutting out the tattooed skin. Ointments and creams are not FDA-approved for tattoo removal.",
+      "index": 26,
+      "timestamp": "2024-11-11 22:44:53"
+    },
+    {
+      "text_input": "What is the FDA's role in regulating tattoos?",
+      "output": "The FDA has not approved any inks for injecting into the skin, including henna hair dye. They also don't approve ointment or cream tattoo removal products.",
+      "index": 26,
+      "timestamp": "2024-11-11 22:44:53"
+    }
+  ]
+}

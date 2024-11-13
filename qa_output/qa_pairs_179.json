@@ -1,0 +1,25 @@
+{
+  "index": 179,
+  "timestamp": "2024-11-11 22:57:29",
+  "original_text": "Listeria monocytogenes (L. monocytogenes) is a species of pathogenic (disease-causing) bacteria that can be found in moist environments, soil, water, decaying vegetation and animals, and can survive a...",
+  "qa_pairs": [
+    {
+      "text_input": "How is listeriosis typically transmitted to humans?",
+      "output": "Listeriosis is generally transmitted when food is harvested, processed, prepared, packed, transported or stored in environments contaminated with L. monocytogenes, such as raw materials, water, soil, and incoming air.",
+      "index": 179,
+      "timestamp": "2024-11-11 22:57:29"
+    },
+    {
+      "text_input": "Which populations are at highest risk for severe listeriosis infection?",
+      "output": "The elderly, people with weakened immune systems or chronic diseases, pregnant women, and newborns are at highest risk for severe listeriosis infection.",
+      "index": 179,
+      "timestamp": "2024-11-11 22:57:29"
+    },
+    {
+      "text_input": "What is an important step consumers can take to prevent foodborne illness from Listeria monocytogenes?",
+      "output": "Consumers should wash the inside walls and shelves of their refrigerator, cutting boards and countertops, and utensils that may have contacted contaminated foods, and then sanitize them with a solution of one tablespoon of chlorine bleach to one gallon of hot water.",
+      "index": 179,
+      "timestamp": "2024-11-11 22:57:29"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 47,
+  "timestamp": "2024-11-11 22:46:34",
+  "original_text": "The home care setting is a challenging environment. Because it is very different from the hospital setting, it often presents additional risks to patients and providers. This section outlines environm...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some environmental challenges for using medical devices in the home setting?",
+      "output": "Pets, unsanitary conditions, children at play, plumbing, temperature extremes, dust, fire hazards, and tripping hazards can present environmental challenges for using medical devices in the home setting.",
+      "index": 47,
+      "timestamp": "2024-11-11 22:46:34"
+    },
+    {
+      "text_input": "How can geographic location impact the availability of home health care services?",
+      "output": "Geographic location can impact the availability of home health care services, as rural areas may have limited access to providers, support staff, back-up supplies, and equipment.",
+      "index": 47,
+      "timestamp": "2024-11-11 22:46:34"
+    },
+    {
+      "text_input": "What factors should be considered when determining the compatibility of a medical device with a patient's home?",
+      "output": "The age and structure of a home can affect the quality of care when using medical devices. For example, older homes may lack necessary electrical outlets, have smaller doorways and rooms, or may not accommodate wheelchairs.",
+      "index": 47,
+      "timestamp": "2024-11-11 22:46:34"
+    }
+  ]
+}

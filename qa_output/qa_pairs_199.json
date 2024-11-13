@@ -1,0 +1,25 @@
+{
+  "index": 199,
+  "timestamp": "2024-11-11 22:59:11",
+  "original_text": "Image Avoid using imported medicines, especially for children. Medications from other countries might not have been evaluated for safety and effectiveness. These products may be addictive or contain o...",
+  "qa_pairs": [
+    {
+      "text_input": "Can imported medicines be harmful to children?",
+      "output": "Yes, imported medicines may not have been evaluated for safety and effectiveness, and may contain addictive or dangerous ingredients.",
+      "index": 199,
+      "timestamp": "2024-11-11 22:59:11"
+    },
+    {
+      "text_input": "When should cough and cold medicine be avoided in children?",
+      "output": "Cough and cold medicine should be avoided in children under the age of 2, as it can cause serious and potentially life-threatening side effects.",
+      "index": 199,
+      "timestamp": "2024-11-11 22:59:11"
+    },
+    {
+      "text_input": "Are homeopathic cough and cold products approved by the FDA?",
+      "output": "No, there are no FDA-approved homeopathic products, and they have not met the FDA's requirements for safety and effectiveness.",
+      "index": 199,
+      "timestamp": "2024-11-11 22:59:11"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 196,
+  "timestamp": "2024-11-11 22:58:55",
+  "original_text": "Disposable wipes are made for baby care, hand washing, feminine and other personal cleansing, removing makeup, and applying products such as deodorants and sunless tanners, among other uses. Many wipe...",
+  "qa_pairs": [
+    {
+      "text_input": "Who regulates wipes intended for killing germs on the skin or treating acne?",
+      "output": "The Center for Drug Evaluation and Research.",
+      "index": 196,
+      "timestamp": "2024-11-11 22:58:55"
+    },
+    {
+      "text_input": "What can be included in cleansing wipes?",
+      "output": "Cleansing wipes contain water, other ingredients such as cleansing and moisturizing agents, and preservatives to prevent bacterial and mold growth.",
+      "index": 196,
+      "timestamp": "2024-11-11 22:58:55"
+    },
+    {
+      "text_input": "What should consumers do if they have sensitive skin before using wipes?",
+      "output": "Consumers with sensitive skin or certain allergies should check the list of ingredients on the label before using wipes.",
+      "index": 196,
+      "timestamp": "2024-11-11 22:58:55"
+    }
+  ]
+}

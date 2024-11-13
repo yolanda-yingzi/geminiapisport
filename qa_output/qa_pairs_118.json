@@ -1,0 +1,25 @@
+{
+  "index": 118,
+  "timestamp": "2024-11-11 22:52:28",
+  "original_text": "Back to Buy, Store & Serve Safe Food Information by Topic Bottled Water: FDA Regulates the Safety of Bottled Water Buffets: Easy Tips for Food Safety When Entertaining Carbonated Soft Drinks: What You...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the FDA's responsibility regarding bottled water?",
+      "output": "The FDA regulates the safety of bottled water.",
+      "index": 118,
+      "timestamp": "2024-11-11 22:52:28"
+    },
+    {
+      "text_input": "What is the FASTER Act about?",
+      "output": "The FASTER Act declared sesame as the ninth major food allergen.",
+      "index": 118,
+      "timestamp": "2024-11-11 22:52:28"
+    },
+    {
+      "text_input": "What are safe handling practices for flour?",
+      "output": "Information on safe handling of flour is provided in the text, but not listed in the question-answer pairs.",
+      "index": 118,
+      "timestamp": "2024-11-11 22:52:28"
+    }
+  ]
+}

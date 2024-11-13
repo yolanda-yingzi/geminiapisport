@@ -1,0 +1,25 @@
+{
+  "index": 15,
+  "timestamp": "2024-11-11 22:43:59",
+  "original_text": "Image Download English PDF (2.37 MB) En Español On this page: What is HIV? How do you get HIV? How do you get tested for HIV? Is there a cure for HIV? What should you know if you are pregnant or want ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is HIV?",
+      "output": "HIV is the virus that causes AIDS and weakens the body's immune system by attacking and destroying certain blood cells called CD4 cells.",
+      "index": 15,
+      "timestamp": "2024-11-11 22:43:59"
+    },
+    {
+      "text_input": "How is HIV transmitted?",
+      "output": "HIV is spread through contact with infected body fluids, such as blood, semen, vaginal fluids, and breast milk. It can be transmitted through unprotected sexual intercourse, sharing needles or syringes, and blood transfusions (although the risk from transfusions is very low due to screening of donated blood).",
+      "index": 15,
+      "timestamp": "2024-11-11 22:43:59"
+    },
+    {
+      "text_input": "What should I do if I am pregnant or want to get pregnant and I have HIV?",
+      "output": "Women with HIV should talk to their doctor before getting pregnant. There are medications available to reduce the risk of transmitting HIV to the baby during pregnancy, labor, delivery, and breastfeeding.",
+      "index": 15,
+      "timestamp": "2024-11-11 22:43:59"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 178,
+  "timestamp": "2024-11-11 22:57:24",
+  "original_text": "FDA and EPA have issued advice regarding eating fish‡. This advice can help those who might become or are pregnant or breastfeeding as well as parents and caregivers who are feeding children make info...",
+  "qa_pairs": [
+    {
+      "text_input": "What nutrients do fish provide that support a child's brain development?",
+      "output": "Omega-3 (called DHA and EPA) and omega-6 fats, iron, iodine (during pregnancy), choline",
+      "index": 178,
+      "timestamp": "2024-11-11 22:57:23"
+    },
+    {
+      "text_input": "What health benefits can eating fish provide beyond supporting a child's brain development?",
+      "output": "Cognitive development for babies, heart health benefits",
+      "index": 178,
+      "timestamp": "2024-11-11 22:57:23"
+    },
+    {
+      "text_input": "How much seafood should pregnant or breastfeeding people consume per week?",
+      "output": "8 to 12 ounces",
+      "index": 178,
+      "timestamp": "2024-11-11 22:57:23"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 71,
+  "timestamp": "2024-11-11 22:48:34",
+  "original_text": "Image Español While FDA and other agencies work hard every day to help prepare the nation for potential threats, everyone can be involved in disaster readiness. Here are a few things you can do now: B...",
+  "qa_pairs": [
+    {
+      "text_input": "What steps can individuals take to prepare for medical emergencies during disasters?",
+      "output": "Make an emergency kit of medical supplies for at least three days.",
+      "index": 71,
+      "timestamp": "2024-11-11 22:48:34"
+    },
+    {
+      "text_input": "How can individuals stay informed about real-time emergency alerts and shelter locations?",
+      "output": "Download the Federal Emergency Management Agency's mobile app.",
+      "index": 71,
+      "timestamp": "2024-11-11 22:48:34"
+    },
+    {
+      "text_input": "What is a recommended time to review and update emergency kits for medical supplies?",
+      "output": "National Preparedness Month (September).",
+      "index": 71,
+      "timestamp": "2024-11-11 22:48:34"
+    }
+  ]
+}

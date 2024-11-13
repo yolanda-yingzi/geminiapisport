@@ -1,0 +1,25 @@
+{
+  "index": 70,
+  "timestamp": "2024-11-11 22:48:30",
+  "original_text": "When you prepare meals and snacks for yourself, your family, and your friends, it is important to follow simple food safety tips to help prevent foodborne illness, also known as “food poisoning.” Whet...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the first step in ensuring food safety?",
+      "output": "Follow food safety tips while preparing meals to prevent foodborne illness.",
+      "index": 70,
+      "timestamp": "2024-11-11 22:48:30"
+    },
+    {
+      "text_input": "Is it important to keep produce separate from other groceries while shopping?",
+      "output": "Yes, keep produce separate from raw meat, poultry, seafood, and eggs while shopping and when storing in grocery bags.",
+      "index": 70,
+      "timestamp": "2024-11-11 22:48:30"
+    },
+    {
+      "text_input": "How can recipe writers help promote food safety?",
+      "output": "By including food safety tips in recipes, they can encourage people to follow safe cooking practices.",
+      "index": 70,
+      "timestamp": "2024-11-11 22:48:30"
+    }
+  ]
+}

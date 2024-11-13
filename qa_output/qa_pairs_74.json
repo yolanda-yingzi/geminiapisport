@@ -1,0 +1,25 @@
+{
+  "index": 74,
+  "timestamp": "2024-11-11 22:48:52",
+  "original_text": "Image Español Every patient should ask questions when getting a new prescription. This is especially important when your doctor, dentist or other health care professional prescribes you an opioid pain...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential side effects of opioid pain medicines?",
+      "output": "Some side effects of opioid pain medicines include dizziness, drowsiness, weakness, nausea and constipation.",
+      "index": 74,
+      "timestamp": "2024-11-11 22:48:52"
+    },
+    {
+      "text_input": "How can I safely dispose of unused opioid pain medicine?",
+      "output": "The FDA recommends flushing certain opioid pain medicines down the toilet when they are no longer needed. You can also check with your pharmacist for other safe disposal options.",
+      "index": 74,
+      "timestamp": "2024-11-11 22:48:52"
+    },
+    {
+      "text_input": "Should I have naloxone on hand?",
+      "output": "Talk to your doctor about naloxone, a drug that can reverse the effects of an opioid overdose. Many states allow naloxone to be prescribed or sold without a prescription.",
+      "index": 74,
+      "timestamp": "2024-11-11 22:48:52"
+    }
+  ]
+}

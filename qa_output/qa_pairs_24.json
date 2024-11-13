@@ -1,0 +1,25 @@
+{
+  "index": 24,
+  "timestamp": "2024-11-11 22:44:43",
+  "original_text": "Image Download English PDF (1,456 KB) En Español On this page: Basic facts about sleep Medicines to help you sleep Tips for better sleep Basic facts about sleep Sleep is essential for overall health a...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the consequences of not getting enough sleep?",
+      "output": "Insufficient sleep can adversely affect cognitive function, mood, and overall health.",
+      "index": 24,
+      "timestamp": "2024-11-11 22:44:43"
+    },
+    {
+      "text_input": "How can I improve my sleep hygiene?",
+      "output": "Establish regular sleep-wake cycles, optimize your sleep environment (dark, quiet, cool), avoid caffeine and nicotine before bed, engage in regular physical activity (but not too close to bedtime), and minimize screen time before sleep.",
+      "index": 24,
+      "timestamp": "2024-11-11 22:44:43"
+    },
+    {
+      "text_input": "What are potential side effects of sleep medicines?",
+      "output": "Both prescription and over-the-counter sleep medicines can have side effects, including drowsiness, dizziness, and potential interference with activities requiring mental alertness.",
+      "index": 24,
+      "timestamp": "2024-11-11 22:44:43"
+    }
+  ]
+}

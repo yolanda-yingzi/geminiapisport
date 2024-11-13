@@ -1,0 +1,25 @@
+{
+  "index": 102,
+  "timestamp": "2024-11-11 22:51:14",
+  "original_text": "This section will provide you with information on how to report problems you may encounter when using your glucose meter or your continuous glucose monitoring system (CGMS). If you would like to notif...",
+  "qa_pairs": [
+    {
+      "text_input": "What types of problems should be reported to the FDA regarding glucose meters or CGMSs?",
+      "output": "Device problems including reagent or instrument failure, defects in product design, product instability, incorrect test results that cause or contribute to incorrect patient diagnosis and/or treatment, unexplained quality control failures, contamination or stability problems with quality control solutions or test strips, and \"near misses\" where under slightly different circumstances, a serious injury or death might have occurred. Use-related problems including inadequate and/or misleading labeling or confusing user instructions, product confusion caused by name, labeling, design, or packaging, inadequate packaging or poor package design, any other user problems that compromise patient health or safety.",
+      "index": 102,
+      "timestamp": "2024-11-11 22:51:14"
+    },
+    {
+      "text_input": "Who is required to report device-related events to the FDA?",
+      "output": "User facilities, including hospitals, ambulatory surgical facilities, nursing homes, outpatient treatment facilities, or outpatient diagnostic facilities are required to report device-related events that have caused, or may have caused or contributed to a death to both the FDA and the manufacturer, and device-related events that have caused, or may have caused or contributed to a serious illness or injury to the manufacturer.",
+      "index": 102,
+      "timestamp": "2024-11-11 22:51:14"
+    },
+    {
+      "text_input": "How does the FDA use reports from users of glucose meters or CGMSs?",
+      "output": "The FDA enters reports from users into the medical device postmarket surveillance database and continually reviews the database to detect problems, trends, and potential hazards. When the FDA detects risks or potential risks associated with the use of a particular product, the agency can take corrective actions and notify the public.",
+      "index": 102,
+      "timestamp": "2024-11-11 22:51:14"
+    }
+  ]
+}

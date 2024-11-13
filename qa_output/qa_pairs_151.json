@@ -1,0 +1,25 @@
+{
+  "index": 151,
+  "timestamp": "2024-11-11 22:55:13",
+  "original_text": "Español Is your medicine cabinet full of expired drugs or medications you no longer use? Your medicine is for you. What’s safe for you might be harmful for someone else. The best way to dispose of you...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the safest way to dispose of expired or unused medications?",
+      "output": "The safest way to dispose of expired or unused medications is through a drug take back program or by following the FDA's guidelines for disposal at home.",
+      "index": 151,
+      "timestamp": "2024-11-11 22:55:13"
+    },
+    {
+      "text_input": "Why is it important to dispose of fentanyl patches by flushing them down the toilet?",
+      "output": "Fentanyl patches contain a powerful opioid medicine that can be dangerous to people who are not prescribed it. Flushing used or leftover patches down the toilet helps prevent accidental exposure and misuse.",
+      "index": 151,
+      "timestamp": "2024-11-11 22:55:13"
+    },
+    {
+      "text_input": "Are there any environmental concerns associated with flushing certain medications down the toilet?",
+      "output": "There are concerns about the small levels of drugs that may be found in surface water and drinking water supplies. However, the FDA has found that the risk of environmental effects caused by flushing recommended drugs is negligible.",
+      "index": 151,
+      "timestamp": "2024-11-11 22:55:13"
+    }
+  ]
+}

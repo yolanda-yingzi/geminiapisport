@@ -1,0 +1,25 @@
+{
+  "index": 43,
+  "timestamp": "2024-11-11 22:46:14",
+  "original_text": "Image Download English PDF (538 KB) En Español On this page: What is osteoporosis? What causes osteoporosis? Who gets osteoporosis? Who is at risk? How do I know if I have osteoporosis? How is it trea...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the cause of osteoporosis in women?",
+      "output": "In women, osteoporosis is often caused by bone loss that occurs with the hormonal changes (low levels of estrogen) that come with menopause.",
+      "index": 43,
+      "timestamp": "2024-11-11 22:46:14"
+    },
+    {
+      "text_input": "How is osteoporosis diagnosed?",
+      "output": "There are tests that use either X-rays or ultrasound (sound waves) to measure bone density and can help determine if you have osteoporosis.",
+      "index": 43,
+      "timestamp": "2024-11-11 22:46:14"
+    },
+    {
+      "text_input": "How can I prevent osteoporosis?",
+      "output": "To help prevent osteoporosis, focus on maintaining a healthy lifestyle. Building strong bones during childhood and the teen years is important to help prevent osteoporosis later in life.",
+      "index": 43,
+      "timestamp": "2024-11-11 22:46:14"
+    }
+  ]
+}

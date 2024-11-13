@@ -1,0 +1,25 @@
+{
+  "index": 35,
+  "timestamp": "2024-11-11 22:45:33",
+  "original_text": "Note: This Index does not include all FDA approved drugs. Please use Drugs@FDA to search for information on a drug not found in the Index. You may also find Information for specific drugs on the Drug ...",
+  "qa_pairs": [
+    {
+      "text_input": "Is Abacavir sulfate an abuse-deterrent opioid analgesic?",
+      "output": "No, Abacavir sulfate is not an abuse-deterrent opioid analgesic.",
+      "index": 35,
+      "timestamp": "2024-11-11 22:45:33"
+    },
+    {
+      "text_input": "What is the generic name for Avastin?",
+      "output": "Bevacizumab",
+      "index": 35,
+      "timestamp": "2024-11-11 22:45:33"
+    },
+    {
+      "text_input": "Is Carbamazepine a medication used to treat epilepsy?",
+      "output": "Yes, Carbamazepine is a medication used to treat epilepsy.",
+      "index": 35,
+      "timestamp": "2024-11-11 22:45:33"
+    }
+  ]
+}

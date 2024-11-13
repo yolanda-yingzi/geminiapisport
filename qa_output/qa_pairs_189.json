@@ -1,0 +1,25 @@
+{
+  "index": 189,
+  "timestamp": "2024-11-11 22:58:20",
+  "original_text": "Breast pumps are often sold at hospitals, baby supply stores and the baby supply sections of toy stores. They are also available at many online retailers. If you buy a breast pump online, make sure yo...",
+  "qa_pairs": [
+    {
+      "text_input": "Where can breast pumps be purchased?",
+      "output": "Breast pumps can be purchased at hospitals, baby supply stores, toy stores, and online retailers, but ensure they are from reputable sources.",
+      "index": 189,
+      "timestamp": "2024-11-11 22:58:20"
+    },
+    {
+      "text_input": "What is the process for renting a breast pump?",
+      "output": "To rent a breast pump, check with hospitals, lactation consultants, or medical supply stores for pumps safe for multiple users. Verify the rental company's trustworthiness and the pump's safety.",
+      "index": 189,
+      "timestamp": "2024-11-11 22:58:20"
+    },
+    {
+      "text_input": "Why is it crucial to avoid sharing or buying used breast pumps?",
+      "output": "Sharing or buying used breast pumps, except for multiple-user pumps, is discouraged because they may carry infectious particles that can pose health risks to the user or baby, and they may not have manufacturer support.",
+      "index": 189,
+      "timestamp": "2024-11-11 22:58:20"
+    }
+  ]
+}

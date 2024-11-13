@@ -1,0 +1,25 @@
+{
+  "index": 143,
+  "timestamp": "2024-11-11 22:54:33",
+  "original_text": "The KNOWH blog offers updates on a variety of timely women’s health topics. Check out the latest posts, or dig into the archives to find information you can use. Older posts are available in the KNOWH...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of the KNOWH blog?",
+      "output": "The KNOWH blog provides updates on various timely women's health topics and features an archive of older posts for further reference.",
+      "index": 143,
+      "timestamp": "2024-11-11 22:54:33"
+    },
+    {
+      "text_input": "What is the most prevalent type of cancer among women?",
+      "output": "Breast cancer is the second most common type of cancer among women.",
+      "index": 143,
+      "timestamp": "2024-11-11 22:54:33"
+    },
+    {
+      "text_input": "What is the focus of National Minority Mental Health Awareness Month?",
+      "output": "National Minority Mental Health Awareness Month highlights the unique mental health challenges faced by racial and ethnic minorities in the United States.",
+      "index": 143,
+      "timestamp": "2024-11-11 22:54:33"
+    }
+  ]
+}

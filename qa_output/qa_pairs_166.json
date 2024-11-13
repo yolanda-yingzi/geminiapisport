@@ -1,0 +1,25 @@
+{
+  "index": 166,
+  "timestamp": "2024-11-11 22:56:25",
+  "original_text": "For Immediate Release: May 12, 2023 Español Today, the U.S. Food and Drug Administration approved Veozah (fezolinetant), an oral medication for the treatment of moderate to severe vasomotor symptoms, ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the name of the medication approved by the FDA for the treatment of moderate to severe hot flashes from menopause?",
+      "output": "Veozah (fezolinetant)",
+      "index": 166,
+      "timestamp": "2024-11-11 22:56:25"
+    },
+    {
+      "text_input": "How does Veozah work to treat hot flashes?",
+      "output": "Veozah works by blocking the activity of the NK3 receptor in the brain, which plays a role in regulating body temperature.",
+      "index": 166,
+      "timestamp": "2024-11-11 22:56:25"
+    },
+    {
+      "text_input": "What should patients taking Veozah be aware of?",
+      "output": "Patients taking Veozah should be aware of the potential for elevated liver enzymes and should have routine blood work done to monitor liver health.",
+      "index": 166,
+      "timestamp": "2024-11-11 22:56:25"
+    }
+  ]
+}

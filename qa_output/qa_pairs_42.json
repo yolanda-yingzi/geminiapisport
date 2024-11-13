@@ -1,0 +1,25 @@
+{
+  "index": 42,
+  "timestamp": "2024-11-11 22:46:10",
+  "original_text": "Todos nos sentimos tristes en algún momento. La gente con depresión se siente mal todo el tiempo. Estos sentimientos pueden entorpecer la vida diaria. Aproximadamente, 1 de cada 5 mujeres en los Estad...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Qué causa la depresión?",
+      "output": "La causa exacta de la depresión es desconocida, pero se cree que puede estar relacionada con la comunicación entre ciertas áreas del cerebro, factores genéticos, enfermedades prolongadas, estrés, consumo de sustancias y el nacimiento de un bebé.",
+      "index": 42,
+      "timestamp": "2024-11-11 22:46:10"
+    },
+    {
+      "text_input": "¿Cuáles son los signos de la depresión?",
+      "output": "Los signos de la depresión incluyen tristeza persistente, pérdida de interés en las actividades, cambios en el apetito y el sueño, fatiga, irritabilidad, llanto excesivo, culpa, desesperanza, dificultad de concentración y pensamientos de muerte o suicidio.",
+      "index": 42,
+      "timestamp": "2024-11-11 22:46:10"
+    },
+    {
+      "text_input": "¿Cómo sé si estoy deprimida?",
+      "output": "Si experimenta varios de los signos de depresión durante más de dos semanas, es importante consultar a un médico o visitar una clínica para una evaluación.",
+      "index": 42,
+      "timestamp": "2024-11-11 22:46:10"
+    }
+  ]
+}

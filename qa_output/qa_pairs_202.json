@@ -1,0 +1,25 @@
+{
+  "index": 202,
+  "timestamp": "2024-11-11 22:59:26",
+  "original_text": "This page includes information resources for parents about the safe use of over-the-counter (OTC) medicine. Articles Got a Sick Kid? Don’t Guess. Read the Label. Make sure you’re giving your children ...",
+  "qa_pairs": [
+    {
+      "text_input": "How can parents ensure they are giving their children the correct medicine and dosage?",
+      "output": "Parents should carefully read the label of over-the-counter (OTC) medicines before giving them to their children.",
+      "index": 202,
+      "timestamp": "2024-11-11 22:59:26"
+    },
+    {
+      "text_input": "What is one important safety measure parents should take to prevent children from accessing OTC medicines?",
+      "output": "Parents should keep OTC medicines locked up and out of reach of children.",
+      "index": 202,
+      "timestamp": "2024-11-11 22:59:26"
+    },
+    {
+      "text_input": "What organization is responsible for ensuring the safety of OTC products?",
+      "output": "The Food and Drug Administration (FDA) is the organization responsible for ensuring the safety of OTC products.",
+      "index": 202,
+      "timestamp": "2024-11-11 22:59:26"
+    }
+  ]
+}

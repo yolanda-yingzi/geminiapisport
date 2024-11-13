@@ -1,0 +1,25 @@
+{
+  "index": 18,
+  "timestamp": "2024-11-11 22:44:14",
+  "original_text": "Millions of people benefit from FDA-approved medicines. However, when medicines are not used correctly, they can cause serious health problems or even death. Many of these problems can be prevented. F...",
+  "qa_pairs": [
+    {
+      "text_input": "What is a common mistake people make when taking medications?",
+      "output": "Many people do not follow the directions for use, which can make the medicine less effective or cause harm.",
+      "index": 18,
+      "timestamp": "2024-11-11 22:44:14"
+    },
+    {
+      "text_input": "What is a recommended step to avoid medication mistakes?",
+      "output": "Keep a record of all medications you are taking, including name, dosage, and side effects.",
+      "index": 18,
+      "timestamp": "2024-11-11 22:44:14"
+    },
+    {
+      "text_input": "Where should you store unused medications?",
+      "output": "Ask your doctor or pharmacist about proper storage and disposal methods to prevent risks.",
+      "index": 18,
+      "timestamp": "2024-11-11 22:44:14"
+    }
+  ]
+}

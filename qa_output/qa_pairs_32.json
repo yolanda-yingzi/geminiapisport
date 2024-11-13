@@ -1,0 +1,25 @@
+{
+  "index": 32,
+  "timestamp": "2024-11-11 22:45:22",
+  "original_text": "Imprimir y Compartir (PDF 2.55 MB) En inglés Los medicamentos pueden tratar problemas de salud y ayudarle a vivir una vida más sana. Cuando se usan incorrectamente, los medicamentos también pueden oca...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the most important question to ask your healthcare provider about a medication?",
+      "output": "What is the name of the medication and what is it for?",
+      "index": 32,
+      "timestamp": "2024-11-11 22:45:22"
+    },
+    {
+      "text_input": "Why is it important to keep a list of all the medications you are taking?",
+      "output": "It helps you keep track of all your medications and ensure you are taking them as prescribed.",
+      "index": 32,
+      "timestamp": "2024-11-11 22:45:22"
+    },
+    {
+      "text_input": "What is the safest way to dispose of unused prescription medications?",
+      "output": "Ask your doctor or pharmacist for the best method for your specific medication.",
+      "index": 32,
+      "timestamp": "2024-11-11 22:45:22"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 63,
+  "timestamp": "2024-11-11 22:47:54",
+  "original_text": "Sharps is a medical term for devices with sharp points or edges that can puncture or cut skin. They may be used at home, at work, and while traveling to manage the medical conditions of people or thei...",
+  "qa_pairs": [
+    {
+      "text_input": "What are examples of sharps?",
+      "output": "Sharps include needles, syringes, lancets, auto injectors, infusion sets, and connection needles/sets.",
+      "index": 63,
+      "timestamp": "2024-11-11 22:47:54"
+    },
+    {
+      "text_input": "What is the recommended way to dispose of used sharps?",
+      "output": "Used sharps should be immediately placed in an FDA-cleared sharps disposal container.",
+      "index": 63,
+      "timestamp": "2024-11-11 22:47:54"
+    },
+    {
+      "text_input": "What are the risks of not disposing of sharps safely?",
+      "output": "Not disposing of sharps safely can injure people and spread infections such as Hepatitis B, Hepatitis C, and Human Immunodeficiency Virus (HIV).",
+      "index": 63,
+      "timestamp": "2024-11-11 22:47:54"
+    }
+  ]
+}

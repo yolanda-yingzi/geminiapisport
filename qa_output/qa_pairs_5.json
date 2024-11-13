@@ -1,0 +1,25 @@
+{
+  "index": 5,
+  "timestamp": "2024-11-11 22:43:07",
+  "original_text": "Cholesterol Medicines Print and Share (PDF 2496KB) Cholesterol is a kind of fat in your blood. Your body makes its own cholesterol, but you also get it from the foods you eat, such as meat; foods frie...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the HDL level that is considered healthy?",
+      "output": "A healthy HDL blood level is 60 mg/dL or higher.",
+      "index": 5,
+      "timestamp": "2024-11-11 22:43:07"
+    },
+    {
+      "text_input": "What are the different types of medicines available for lowering high cholesterol or triglycerides?",
+      "output": "HMG-CoA Reductase Inhibitors (statins), Cholesterol Absorption Inhibitors, Proprotein Convertase Subtilisin Kexin Type 9 (PCSK9 inhibitors), Adenosine Triphosphate-Citrate Lyase (ACL) Inhibitors, Cholesterol-Lowering Combination Medicines, High Blood Pressure and Cholesterol-Lowering Combination Medicines, Omega-3-Acid Ethyl Esters, Bile Acid Sequestrants, Fibric Acid",
+      "index": 5,
+      "timestamp": "2024-11-11 22:43:07"
+    },
+    {
+      "text_input": "What are the causes of acute pancreatitis in people with very high triglycerides?",
+      "output": "Very high triglycerides may cause acute pancreatitis even in people who do not have gallstones or drink alcohol. Genetic causes, uncontrolled diabetes, certain medicines, obesity or overweight, pregnancy, and thyroid disease can all lead to very high triglyceride levels.",
+      "index": 5,
+      "timestamp": "2024-11-11 22:43:07"
+    }
+  ]
+}

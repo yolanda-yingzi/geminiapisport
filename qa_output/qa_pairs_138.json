@@ -1,0 +1,25 @@
+{
+  "index": 138,
+  "timestamp": "2024-11-11 22:54:08",
+  "original_text": "Human Papillomavirus Quadrivalent (Types 6, 11, 16, 18) Vaccine, Recombinant Gardasil Human Papillomavirus Bivalent (Types 16 and 18) Vaccine, Recombinant Cervarix Human Papillomavirus 9-valent Vaccin...",
+  "qa_pairs": [
+    {
+      "text_input": "What different types of HPV vaccines are licensed for use in the United States?",
+      "output": "The three HPV vaccines licensed for use in the United States are: Human Papillomavirus Quadrivalent (Types 6, 11, 16, 18) Vaccine, Recombinant (Gardasil), Human Papillomavirus Bivalent (Types 16 and 18) Vaccine, Recombinant (Cervarix), and Human Papillomavirus 9-valent Vaccine, Recombinant (Gardasil 9).",
+      "index": 138,
+      "timestamp": "2024-11-11 22:54:08"
+    },
+    {
+      "text_input": "What is the difference between Gardasil and Gardasil 9?",
+      "output": "Gardasil protects against 4 types of HPV (6, 11, 16, and 18), while Gardasil 9 protects against 9 types of HPV (6, 11, 16, 18, 31, 33, 45, 52, and 58).",
+      "index": 138,
+      "timestamp": "2024-11-11 22:54:08"
+    },
+    {
+      "text_input": "Which HPV vaccine is recommended for use in the United States?",
+      "output": "The Centers for Disease Control and Prevention (CDC) recommends that all preteens ages 11 or 12 receive two doses of the HPV vaccine, with the second dose given 6 to 12 months after the first dose. The vaccine can also be given to catch-up vaccination of preteens and young adults through age 26 who have not been vaccinated or have not completed the full series of vaccinations.",
+      "index": 138,
+      "timestamp": "2024-11-11 22:54:08"
+    }
+  ]
+}

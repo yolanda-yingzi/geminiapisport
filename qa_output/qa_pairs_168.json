@@ -1,0 +1,25 @@
+{
+  "index": 168,
+  "timestamp": "2024-11-11 22:56:34",
+  "original_text": "The work of the FDA for dietary supplement oversight is coordinated by the Human Foods Program’s Office of Food Chemical Safety, Dietary Supplements, and Innovation. FDA regulates both finished dietar...",
+  "qa_pairs": [
+    {
+      "text_input": "Who is responsible for evaluating the safety and labeling of dietary supplements?",
+      "output": "Manufacturers and distributors of dietary supplements and dietary ingredients are responsible for evaluating the safety and labeling of their products.",
+      "index": 168,
+      "timestamp": "2024-11-11 22:56:34"
+    },
+    {
+      "text_input": "Under what act are dietary supplements regulated?",
+      "output": "Dietary supplements are regulated under the Dietary Supplement Health and Education Act of 1994 (DSHEA).",
+      "index": 168,
+      "timestamp": "2024-11-11 22:56:34"
+    },
+    {
+      "text_input": "What authority does the FDA have over dietary supplements?",
+      "output": "The FDA has the authority to take action against any adulterated or misbranded dietary supplement product after it reaches the market.",
+      "index": 168,
+      "timestamp": "2024-11-11 22:56:34"
+    }
+  ]
+}

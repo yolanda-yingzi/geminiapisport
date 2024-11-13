@@ -1,0 +1,25 @@
+{
+  "index": 84,
+  "timestamp": "2024-11-11 22:49:39",
+  "original_text": "MedWatch, the FDA’s medical product safety reporting program for health professionals, patients and consumers. Report a Problem Safety Information Stay Informed MedWatch receives reports from the publ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is MedWatch?",
+      "output": "MedWatch is the FDA’s medical product safety reporting program for health professionals, patients, and consumers.",
+      "index": 84,
+      "timestamp": "2024-11-11 22:49:39"
+    },
+    {
+      "text_input": "What type of products does MedWatch receive reports for?",
+      "output": "MedWatch receives reports for FDA-regulated products such as prescription and over-the-counter medicines, biologics, medical devices, combination products, special nutritional products, cosmetics, food, tobacco products, vaccines, and animal drug, device, pet food and livestock feed.",
+      "index": 84,
+      "timestamp": "2024-11-11 22:49:39"
+    },
+    {
+      "text_input": "How can I report a problem to MedWatch?",
+      "output": "You can report a problem to MedWatch online at https://www.fda.gov/safety/medwatch/how-report-medical-product-problem",
+      "index": 84,
+      "timestamp": "2024-11-11 22:49:39"
+    }
+  ]
+}

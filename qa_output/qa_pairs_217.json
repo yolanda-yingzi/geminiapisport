@@ -1,0 +1,25 @@
+{
+  "index": 217,
+  "timestamp": "2024-11-11 23:00:39",
+  "original_text": "Tattoos are used for various reasons including beauty, self-expression, and after certain reconstructive surgeries to simulate skin pigmentation. A tattoo is permanent when a needle inserts colored in...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the main difference between a tattoo and permanent makeup?",
+      "output": "While both tattoos and permanent makeup involve inserting colored ink into the skin, the latter is intended to resemble traditional makeup such as eyeliner or lip liner and is designed to be more subtle.",
+      "index": 217,
+      "timestamp": "2024-11-11 23:00:39"
+    },
+    {
+      "text_input": "What are some potential health risks associated with tattoos?",
+      "output": "Tattoos can cause adverse effects, including infections, allergic reactions, granulomas, keloid formation, increased chance of sunburn, redness, or scarring, swelling and burning, and MRI complications.",
+      "index": 217,
+      "timestamp": "2024-11-11 23:00:39"
+    },
+    {
+      "text_input": "What role does the FDA play in regulating tattoos and permanent makeup?",
+      "output": "The FDA is responsible for investigating and taking action against any safety problems associated with cosmetic products, including tattoo inks. They issue safety alerts and recall contaminated products, and they also establish guidelines for manufacturers and distributors to ensure the inks are safe.",
+      "index": 217,
+      "timestamp": "2024-11-11 23:00:39"
+    }
+  ]
+}

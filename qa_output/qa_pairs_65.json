@@ -1,0 +1,25 @@
+{
+  "index": 65,
+  "timestamp": "2024-11-11 22:48:05",
+  "original_text": "Some people are at a high-risk for entrapment, falls or other injury from adult portable bed rails. High-risk people include those with pre-existing conditions such as confusion, restlessness, lack of...",
+  "qa_pairs": [
+    {
+      "text_input": "For whom are adult portable bed rails not recommended?",
+      "output": "Adult portable bed rails are not recommended for those at high risk for entrapment, falls or other injury due to pre-existing conditions such as confusion, restlessness, lack of muscle control, cognitive impairment from medication or medical conditions (e.g., Alzheimer's, Parkinson's, MS), balance disorders, stroke, or low blood pressure (hypotension).",
+      "index": 65,
+      "timestamp": "2024-11-11 22:48:05"
+    },
+    {
+      "text_input": "Besides bed rails, what are some alternatives available to prevent falls?",
+      "output": "Alternatives to bed rails include roll guards, foam bumpers, lowering the bed as close to the floor as possible, concave mattresses to reduce rolling off the bed, and bed trapezes to aid with repositioning and getting in and out of bed.",
+      "index": 65,
+      "timestamp": "2024-11-11 22:48:05"
+    },
+    {
+      "text_input": "What are some important safety measures to keep in mind when using bed rails?",
+      "output": "When using bed rails, ensure they are appropriately sized for the user, follow the manufacturer's instructions for installation, regularly inspect the mattress and bed rails for gaps, use caution with soft mattresses, and regularly check for proper installation as rails can shift over time.",
+      "index": 65,
+      "timestamp": "2024-11-11 22:48:05"
+    }
+  ]
+}

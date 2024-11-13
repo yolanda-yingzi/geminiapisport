@@ -1,0 +1,25 @@
+{
+  "index": 64,
+  "timestamp": "2024-11-11 22:47:59",
+  "original_text": "Considering an online pharmacy? Have you or someone you know thought about buying prescription medicine online? FDA’s BeSafeRx campaign helps consumers learn about how to safely buy prescription medic...",
+  "qa_pairs": [
+    {
+      "text_input": "How can I tell if an online pharmacy is safe?",
+      "output": "Explore FDA’s BeSafeRx campaign resources and tools to learn how to recognize the signs of safe online pharmacies and the warning signs of websites that appear to be pharmacies but may be unsafe.",
+      "index": 64,
+      "timestamp": "2024-11-11 22:47:59"
+    },
+    {
+      "text_input": "What should I do if I have a concern about an online pharmacy?",
+      "output": "You can use FDA's tools to report important information to the agency, such as reporting unlawful sales or unexpected experiences or side effects associated with the use of a medicine.",
+      "index": 64,
+      "timestamp": "2024-11-11 22:47:59"
+    },
+    {
+      "text_input": "Where can I find state-licensed online pharmacies?",
+      "output": "You can look up a state-licensed online pharmacy using the resources provided by the FDA.",
+      "index": 64,
+      "timestamp": "2024-11-11 22:47:59"
+    }
+  ]
+}

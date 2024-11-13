@@ -1,0 +1,25 @@
+{
+  "index": 52,
+  "timestamp": "2024-11-11 22:46:58",
+  "original_text": "Image English La evidencia es clara – la detección de cáncer colorrectal puede salvarle la vida. En la actualidad, cada vez más personas optan por hacerse una prueba de detección de cáncer colorrectal...",
+  "qa_pairs": [
+    {
+      "text_input": "¿A qué edad recomienda el texto empezar a hacerse pruebas de detección de cáncer colorrectal?",
+      "output": "La mayoría de las personas deberían comenzar las pruebas de detección a partir de los 45 años.",
+      "index": 52,
+      "timestamp": "2024-11-11 22:46:58"
+    },
+    {
+      "text_input": "¿Cuáles son las ventajas de las pruebas de detección de cáncer colorrectal?",
+      "output": "Las pruebas de detección pueden salvar vidas, detectando pólipos o cánceres en estadios tempranos cuando el tratamiento es más eficaz.",
+      "index": 52,
+      "timestamp": "2024-11-11 22:46:58"
+    },
+    {
+      "text_input": "¿Qué tipo de pruebas de detección de cáncer colorrectal están aprobadas por la FDA?",
+      "output": "Pruebas de muestras de heces y procedimientos de detección visual como la colonoscopia.",
+      "index": 52,
+      "timestamp": "2024-11-11 22:46:58"
+    }
+  ]
+}

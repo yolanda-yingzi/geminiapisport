@@ -1,0 +1,25 @@
+{
+  "index": 198,
+  "timestamp": "2024-11-11 22:59:07",
+  "original_text": "Image Español Clinical trials help provide reliable evidence needed when studying medical products to diagnose, prevent, treat, and sometimes even cure, childhood diseases. Children who participate in...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some reasons why a child may participate in a clinical trial?",
+      "output": "Children may participate in clinical trials to benefit from the experimental medical products under investigation. These products may be more effective than those currently being used or may offer different benefits. Additionally, participating in a clinical trial may give children access to new treatments not yet widely available.",
+      "index": 198,
+      "timestamp": "2024-11-11 22:59:07"
+    },
+    {
+      "text_input": "How are children protected in clinical trials?",
+      "output": "Safeguards are in place to ensure the rights and well-being of children in clinical trials. These safeguards include: - Independent review boards (IRBs) that review and approve clinical trials involving children. - Informed consent from the child's parent or guardian before they can participate in a clinical trial. - Ongoing monitoring of children's health and well-being during the clinical trial.",
+      "index": 198,
+      "timestamp": "2024-11-11 22:59:07"
+    },
+    {
+      "text_input": "What information do clinical trials provide?",
+      "output": "Clinical trials provide important information about the safety and effectiveness of experimental medical products. This information is used to make decisions about whether or not to approve the product for use in children. Clinical trials also help to identify potential side effects of the product and to develop ways to manage these side effects.",
+      "index": 198,
+      "timestamp": "2024-11-11 22:59:07"
+    }
+  ]
+}

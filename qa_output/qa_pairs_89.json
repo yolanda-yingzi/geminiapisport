@@ -1,0 +1,25 @@
+{
+  "index": 89,
+  "timestamp": "2024-11-11 22:50:04",
+  "original_text": "FDA has tips that every college woman can use. Whether you are a campus leader, college health professional, or parent, use the resources on this webpage to connect young women to health and safety ti...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some tips for college women regarding medication safety?",
+      "output": "Get tips on how to safely use vitamins, pain relievers, and more.",
+      "index": 89,
+      "timestamp": "2024-11-11 22:50:04"
+    },
+    {
+      "text_input": "What is a common health concern that college women should be aware of?",
+      "output": "Uterine fibroids",
+      "index": 89,
+      "timestamp": "2024-11-11 22:50:04"
+    },
+    {
+      "text_input": "What resource is available for college women to share health tips with their campus community?",
+      "output": "College Women's Digital Toolkit",
+      "index": 89,
+      "timestamp": "2024-11-11 22:50:04"
+    }
+  ]
+}

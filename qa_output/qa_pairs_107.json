@@ -1,0 +1,25 @@
+{
+  "index": 107,
+  "timestamp": "2024-11-11 22:51:42",
+  "original_text": "Image On this page: Tips to help you learn more about how medicines might affect you and your baby Ask questions Read the label Be smart online Report problems What products are regulated by FDA Types...",
+  "qa_pairs": [
+    {
+      "text_input": "What should I consider asking my health care provider about medicines during pregnancy?",
+      "output": "Ask your health care provider about the benefits and risks of taking your medicines during pregnancy, whether there are medicines or supplements you should avoid, any changes you'll need to make to your dosage, and whether you can continue taking your medicines while breastfeeding.",
+      "index": 107,
+      "timestamp": "2024-11-11 22:51:42"
+    },
+    {
+      "text_input": "Where can I find reliable information about prescription medicines during pregnancy?",
+      "output": "You can find information about prescription medicines during pregnancy on the medicine label and other information you receive with your medicine.",
+      "index": 107,
+      "timestamp": "2024-11-11 22:51:42"
+    },
+    {
+      "text_input": "What are the risks of using cannabis products during pregnancy and breastfeeding?",
+      "output": "Using cannabis products during pregnancy can affect fetal brain development, increase the risk of a newborn with low birth weight, premature birth, and stillbirth. Breastmilk can contain THC for up to six days after use, which may affect a newborn’s brain development and result in hyperactivity, poor cognitive function, and other long-term consequences.",
+      "index": 107,
+      "timestamp": "2024-11-11 22:51:42"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 110,
+  "timestamp": "2024-11-11 22:51:55",
+  "original_text": "What does this test do? This is a test system for use at home or in health care settings to measure the amount of sugar (glucose) in your blood. What is glucose? Glucose is a sugar that your body uses...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of this test?",
+      "output": "This test system measures the amount of sugar (glucose) in your blood.",
+      "index": 110,
+      "timestamp": "2024-11-11 22:51:55"
+    },
+    {
+      "text_input": "When should I take this test?",
+      "output": "You should take this test if you have diabetes and need to monitor your blood sugar levels.",
+      "index": 110,
+      "timestamp": "2024-11-11 22:51:55"
+    },
+    {
+      "text_input": "How do I choose a glucose meter?",
+      "output": "Talk to your health care provider about the right glucose meter for you, considering accuracy, ease of use, testing speed, cost, and features.",
+      "index": 110,
+      "timestamp": "2024-11-11 22:51:55"
+    }
+  ]
+}

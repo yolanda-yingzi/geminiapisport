@@ -1,0 +1,25 @@
+{
+  "index": 155,
+  "timestamp": "2024-11-11 22:55:31",
+  "original_text": "Español How often has this happened to you: You pick up a prescription at the pharmacy and later realize you have questions about something in the directions or warnings. Or you buy a nonprescription ...",
+  "qa_pairs": [
+    {
+      "text_input": "What role do pharmacists play in patient care?",
+      "output": "Pharmacists help patients achieve the best possible outcome when taking drugs by providing guidance on proper usage, potential interactions, and dosage.",
+      "index": 155,
+      "timestamp": "2024-11-11 22:55:31"
+    },
+    {
+      "text_input": "What is important for patients to communicate to their pharmacist?",
+      "output": "Patients should share their full health history, including medications, allergies, side effects, and any concerns or questions they have about their medications.",
+      "index": 155,
+      "timestamp": "2024-11-11 22:55:31"
+    },
+    {
+      "text_input": "What type of assistance can the FDA's Division of Drug Information provide?",
+      "output": "DDI pharmacists can answer questions about human drugs, identify tablets or pills, and provide clarification on medication information.",
+      "index": 155,
+      "timestamp": "2024-11-11 22:55:31"
+    }
+  ]
+}

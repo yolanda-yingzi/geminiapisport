@@ -1,0 +1,25 @@
+{
+  "index": 124,
+  "timestamp": "2024-11-11 22:52:58",
+  "original_text": "Español On this page: Does Smoking Contribute to Heart Disease? What Cardiovascular Conditions Can Result from Smoking? How Many People Die Each Year from Cardiovascular Disease Caused by Smoking? Can...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential cardiovascular conditions that smoking can lead to?",
+      "output": "Smoking can lead to various cardiovascular conditions such as coronary heart disease, hypertension, heart attack, stroke, aneurysms, peripheral artery disease, and abdominal aortic aneurysm.",
+      "index": 124,
+      "timestamp": "2024-11-11 22:52:58"
+    },
+    {
+      "text_input": "Can secondhand smoke increase the risk of cardiovascular disease?",
+      "output": "Yes, secondhand smoke exposure significantly increases the risk of coronary heart disease, heart attack, and stroke, even for nonsmokers.",
+      "index": 124,
+      "timestamp": "2024-11-11 22:52:58"
+    },
+    {
+      "text_input": "How does quitting smoking benefit heart health?",
+      "output": "Quitting smoking has numerous benefits for heart health. Within 20 minutes of quitting, the heart rate drops, and within 12 hours, carbon monoxide levels in the blood return to normal, allowing for better oxygen flow to vital organs like the heart. Long-term, the risk of stroke decreases to that of lifetime nonsmokers within four years of quitting.",
+      "index": 124,
+      "timestamp": "2024-11-11 22:52:58"
+    }
+  ]
+}

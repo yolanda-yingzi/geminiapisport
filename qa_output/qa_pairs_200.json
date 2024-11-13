@@ -1,0 +1,25 @@
+{
+  "index": 200,
+  "timestamp": "2024-11-11 22:59:16",
+  "original_text": "Español Accidental exposure to medication is a leading cause of poisoning in children. Young children, in particular, have died or become seriously ill after being exposed to a skin patch containing f...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the main cause of fentanyl poisoning in children?",
+      "output": "Accidental exposure to medication is a leading cause of poisoning in children.",
+      "index": 200,
+      "timestamp": "2024-11-11 22:59:16"
+    },
+    {
+      "text_input": "How should used fentanyl patches be disposed of?",
+      "output": "Fentanyl patches should be flushed down a toilet.",
+      "index": 200,
+      "timestamp": "2024-11-11 22:59:16"
+    },
+    {
+      "text_input": "What are the early signs of fentanyl exposure in young children?",
+      "output": "Drowsiness is one early sign of fentanyl exposure in young children.",
+      "index": 200,
+      "timestamp": "2024-11-11 22:59:16"
+    }
+  ]
+}

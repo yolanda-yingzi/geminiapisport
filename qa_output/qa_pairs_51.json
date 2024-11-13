@@ -1,0 +1,25 @@
+{
+  "index": 51,
+  "timestamp": "2024-11-11 22:46:53",
+  "original_text": "Image Español The evidence is clear - screening for colorectal cancer may save your life. Today, more and more people are choosing colorectal cancer screening. As a result, there is a steady decline i...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the recommended age to start colorectal cancer screening?",
+      "output": "Most people should start colorectal cancer screening by age 45.",
+      "index": 51,
+      "timestamp": "2024-11-11 22:46:53"
+    },
+    {
+      "text_input": "What does a colonoscopy involve?",
+      "output": "A colonoscopy is a procedure where a doctor uses a thin tube with a light, camera, and surgical tools to look inside the rectum and colon for growths, other abnormal tissue, or cancer.",
+      "index": 51,
+      "timestamp": "2024-11-11 22:46:53"
+    },
+    {
+      "text_input": "What are the different types of stool sample tests?",
+      "output": "There are stool sample tests that test for blood or DNA (or both) from colorectal cancer.",
+      "index": 51,
+      "timestamp": "2024-11-11 22:46:53"
+    }
+  ]
+}

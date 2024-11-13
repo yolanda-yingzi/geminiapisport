@@ -1,0 +1,25 @@
+{
+  "index": 94,
+  "timestamp": "2024-11-11 22:50:30",
+  "original_text": "In the case of a reaction or problem with a cosmetic product, the first step is to stop using the product and Secondly, ). How Industry Reports Serious Adverse Events The Modernization of Cosmetics Re...",
+  "qa_pairs": [
+    {
+      "text_input": "What should you do if you experience a reaction or problem with a cosmetic product?",
+      "output": "Stop using the product and report the adverse event to the FDA.",
+      "index": 94,
+      "timestamp": "2024-11-11 22:50:30"
+    },
+    {
+      "text_input": "What is a responsible person in the context of cosmetic product regulations?",
+      "output": "The manufacturer, packer, or distributor of a cosmetic product whose name appears on the label.",
+      "index": 94,
+      "timestamp": "2024-11-11 22:50:30"
+    },
+    {
+      "text_input": "What is the definition of a serious adverse event in the context of cosmetic products?",
+      "output": "Any adverse event that results in death, life-threatening experience, hospitalization, disability, congenital anomaly, infection, or significant disfigurement.",
+      "index": 94,
+      "timestamp": "2024-11-11 22:50:30"
+    }
+  ]
+}

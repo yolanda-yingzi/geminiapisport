@@ -1,0 +1,25 @@
+{
+  "index": 36,
+  "timestamp": "2024-11-11 22:45:39",
+  "original_text": "At some point your healthcare or managed care company may have recommended tablet splitting for reasons such as to adjust the dosing of your medication or to reduce costs. In such cases, it is your he...",
+  "qa_pairs": [
+    {
+      "text_input": "Is it safe to split tablets without consulting a healthcare professional?",
+      "output": "No, tablet splitting should be done only under the supervision of a healthcare professional. Always talk to your healthcare professional before splitting a tablet and ask questions if you are considering doing so.",
+      "index": 36,
+      "timestamp": "2024-11-11 22:45:39"
+    },
+    {
+      "text_input": "How can I determine if a tablet is FDA-approved to be split?",
+      "output": "If a tablet is FDA-approved to be split, this information will be printed in the “HOW SUPPLIED” section of the professional label insert and in the patient package insert. Also, the tablet will be scored with a mark indicating where to split it.",
+      "index": 36,
+      "timestamp": "2024-11-11 22:45:39"
+    },
+    {
+      "text_input": "What should I do if I am asked to split tablets?",
+      "output": "If your healthcare professional asks you to split your tablets, do not split the entire supply of tablets at one time and then store them for later use. Split only enough tablets to last until your next refill and store them in a cool, dry place.",
+      "index": 36,
+      "timestamp": "2024-11-11 22:45:39"
+    }
+  ]
+}

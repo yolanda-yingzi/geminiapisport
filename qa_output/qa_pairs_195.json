@@ -1,0 +1,25 @@
+{
+  "index": 195,
+  "timestamp": "2024-11-11 22:58:51",
+  "original_text": "Food Safety for Moms-To-Be Main Page Send out those baby announcements - your bundle of joy has finally arrived! You've completed your first nine months of the journey. Now, here's how you, grandparen...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the main concern for food safety for mothers-to-be and young children?",
+      "output": "Foodborne illness is the main concern for food safety for mothers-to-be and young children as their immune systems are vulnerable to bacterial infections.",
+      "index": 195,
+      "timestamp": "2024-11-11 22:58:51"
+    },
+    {
+      "text_input": "What are the critical steps for effective handwashing to prevent foodborne illness?",
+      "output": "1. Wet your hands thoroughly with warm water and add soap.\n2. Thoroughly scrub your hands, wrists, fingernails, and in between fingers - for at least 20 seconds.\n3. Rinse, then dry hands with a clean cloth towel or use a paper towel so the germs are thrown away.",
+      "index": 195,
+      "timestamp": "2024-11-11 22:58:51"
+    },
+    {
+      "text_input": "What are the signs that may indicate a baby has foodborne illness?",
+      "output": "Signs that may indicate a baby has foodborne illness include:\n- Blood in diarrhea\n- Prolonged, high fever\n- Not taking fluids\n- Not able to keep anything down due to vomiting",
+      "index": 195,
+      "timestamp": "2024-11-11 22:58:51"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 106,
+  "timestamp": "2024-11-11 22:51:36",
+  "original_text": "Image Español As the number of people diagnosed with diabetes continues to grow, an increasing number of products marketed under the guise of “dietary supplements” or “over-the-counter drugs” promisin...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some potential risks associated with using unapproved and fraudulent diabetes products?",
+      "output": "Unapproved and fraudulent diabetes products may contain harmful ingredients, no active ingredients, or hidden prescription drugs. They may also interact with other medications and lead to unsafe blood sugar level drops.",
+      "index": 106,
+      "timestamp": "2024-11-11 22:51:36"
+    },
+    {
+      "text_input": "What are some signs that a diabetes product may be unsafe or ineffective?",
+      "output": "Signs that a diabetes product may be unsafe or ineffective include if it is marketed as a nonprescription product or dietary supplement, as FDA-approved diabetes drugs require a prescription. Dietary supplements cannot treat or cure diabetes and should be labeled with a disclaimer stating this fact.",
+      "index": 106,
+      "timestamp": "2024-11-11 22:51:36"
+    },
+    {
+      "text_input": "What actions does the FDA take to protect the public from fraudulent diabetes products?",
+      "output": "The FDA investigates consumer complaints and monitors the marketplace for fraudulent products. They issue warning letters to companies illegally selling such products and work with the Federal Trade Commission to crack down on illegal marketing claims.",
+      "index": 106,
+      "timestamp": "2024-11-11 22:51:36"
+    }
+  ]
+}

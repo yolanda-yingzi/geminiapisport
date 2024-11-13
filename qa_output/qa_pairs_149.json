@@ -1,0 +1,25 @@
+{
+  "index": 149,
+  "timestamp": "2024-11-11 22:55:05",
+  "original_text": "The FDA Office of Women’s Health (OWH) has over 40 publications designed to give women timely health information in a clear, easy-to-read format. Download a fact sheet or booklet for yourself. Order f...",
+  "qa_pairs": [
+    {
+      "text_input": "What resources are available for women seeking health information?",
+      "output": "The FDA Office of Women’s Health (OWH) offers over 40 publications, including fact sheets and booklets, designed to provide clear and accessible health information for women.",
+      "index": 149,
+      "timestamp": "2024-11-11 22:55:05"
+    },
+    {
+      "text_input": "What specific health conditions are covered by the medication booklets?",
+      "output": "The medication booklets cover common health conditions such as birth control, cholesterol, depression, diabetes, high blood pressure, HIV/AIDS, insulin, menopause, smoking cessation, and uterine fibroids.",
+      "index": 149,
+      "timestamp": "2024-11-11 22:55:05"
+    },
+    {
+      "text_input": "How can I access the fact sheets and brochures provided by the OWH?",
+      "output": "The fact sheets and brochures can be viewed or downloaded by clicking on the links on the OWH website.",
+      "index": 149,
+      "timestamp": "2024-11-11 22:55:05"
+    }
+  ]
+}

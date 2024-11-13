@@ -1,0 +1,25 @@
+{
+  "index": 144,
+  "timestamp": "2024-11-11 22:54:38",
+  "original_text": "Image Español The U.S. Food and Drug Administration has updated mammography regulations to, among other things, modernize breast cancer mammography screening and empower patients by providing more inf...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the role of the Mammography Quality Standards Act (MQSA)?",
+      "output": "The Mammography Quality Standards Act (MQSA) ensures women access to quality mammography for the early detection of breast cancer. It sets national baseline standards for mammography facilities and requires them to obtain certification from the FDA or an approved state agency.",
+      "index": 144,
+      "timestamp": "2024-11-11 22:54:38"
+    },
+    {
+      "text_input": "How often should a mammography facility undergo an in-depth accreditation process?",
+      "output": "Every three years",
+      "index": 144,
+      "timestamp": "2024-11-11 22:54:38"
+    },
+    {
+      "text_input": "Is breast density considered a risk factor for breast cancer?",
+      "output": "Yes, dense breast tissue can make cancers more difficult to find using a mammogram and is also an independent risk factor for developing breast cancer.",
+      "index": 144,
+      "timestamp": "2024-11-11 22:54:38"
+    }
+  ]
+}

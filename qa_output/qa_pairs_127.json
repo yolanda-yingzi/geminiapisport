@@ -1,0 +1,25 @@
+{
+  "index": 127,
+  "timestamp": "2024-11-11 22:53:11",
+  "original_text": "Image Imprimir y compartir PDF (2.37 MB) English Cada año, miles de mujeres resultan infectadas por el VIH. Conozca los hechos. Enséñeles a las mujeres en su familia y en su comunidad cómo prevenir y ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is HIV?",
+      "output": "HIV is the virus that causes AIDS. It weakens the body's immune system, making it harder to fight off infections.",
+      "index": 127,
+      "timestamp": "2024-11-11 22:53:11"
+    },
+    {
+      "text_input": "How can women protect themselves from HIV?",
+      "output": "Women can protect themselves from HIV by using condoms during sex, not sharing needles or syringes, and avoiding contact with infected blood.",
+      "index": 127,
+      "timestamp": "2024-11-11 22:53:11"
+    },
+    {
+      "text_input": "What are the symptoms of HIV?",
+      "output": "Most people do not show any symptoms when they first get HIV. However, some people may experience flu-like symptoms, such as fever, chills, and fatigue.",
+      "index": 127,
+      "timestamp": "2024-11-11 22:53:11"
+    }
+  ]
+}

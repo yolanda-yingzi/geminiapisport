@@ -1,0 +1,25 @@
+{
+  "index": 8,
+  "timestamp": "2024-11-11 22:43:22",
+  "original_text": "Print and Share (PDF) En Español People use cosmetics to enhance their beauty. These products range from lipstick and nail polish to deodorant, perfume and hairspray. Get the facts before using cosmet...",
+  "qa_pairs": [
+    {
+      "text_input": "How can I prevent allergic reactions when using cosmetics?",
+      "output": "While 'hypoallergenic' products claim to reduce allergic reactions, the FDA does not regulate this term, so there is no guarantee of its effectiveness.",
+      "index": 8,
+      "timestamp": "2024-11-11 22:43:22"
+    },
+    {
+      "text_input": "Are organic or natural cosmetics necessarily safer than others?",
+      "output": "No, the source of ingredients does not determine safety. The FDA does not regulate the terms 'organic' or 'natural' in relation to cosmetics, so their use does not imply enhanced safety.",
+      "index": 8,
+      "timestamp": "2024-11-11 22:43:22"
+    },
+    {
+      "text_input": "How can I ensure the safety of a cosmetic product?",
+      "output": "Read the label carefully, including ingredients, warnings, and instructions for safe use. However, note that expiration dates are not required on cosmetics, and improper storage (unsealed or in extreme temperatures) can compromise their quality.",
+      "index": 8,
+      "timestamp": "2024-11-11 22:43:22"
+    }
+  ]
+}

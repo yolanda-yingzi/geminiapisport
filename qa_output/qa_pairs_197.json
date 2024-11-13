@@ -1,0 +1,25 @@
+{
+  "index": 197,
+  "timestamp": "2024-11-11 22:59:00",
+  "original_text": "Español When you go outdoors with your infant, whether for a quick stroll in the park or a day at the beach, it’s important to keep your little one out of the sun. But should you put sunscreen on your...",
+  "qa_pairs": [
+    {
+      "text_input": "Is it safe to apply sunscreen on infants under 6 months old?",
+      "output": "No, according to the FDA and the AAP, it is not recommended to put sunscreen on babies younger than 6 months.",
+      "index": 197,
+      "timestamp": "2024-11-11 22:59:00"
+    },
+    {
+      "text_input": "What is the recommended way to protect infants from the sun?",
+      "output": "The best way to protect infants from the sun is to keep them in the shade, dress them in lightweight, long-sleeved clothing, and wear a hat with a brim.",
+      "index": 197,
+      "timestamp": "2024-11-11 22:59:00"
+    },
+    {
+      "text_input": "Why are babies more susceptible to overheating than adults?",
+      "output": "Babies don't sweat like adults do, so their bodies can't cool down as effectively, which makes them more prone to overheating.",
+      "index": 197,
+      "timestamp": "2024-11-11 22:59:00"
+    }
+  ]
+}

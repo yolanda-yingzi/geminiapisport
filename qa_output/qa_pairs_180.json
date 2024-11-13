@@ -1,0 +1,25 @@
+{
+  "index": 180,
+  "timestamp": "2024-11-11 22:57:34",
+  "original_text": "Description Uses Benefits/Risks Information for Patients including Expectant Mothers Information for Health Care Providers Information for Practices Conducting Ultrasound Imaging Information for Indus...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential risks of ultrasound imaging?",
+      "output": "Ultrasound energy can heat the tissues slightly and in some cases, it can also produce small pockets of gas in body fluids or tissues (cavitation). The long-term consequences of these effects are still unknown.",
+      "index": 180,
+      "timestamp": "2024-11-11 22:57:34"
+    },
+    {
+      "text_input": "Is ultrasound imaging safe for pregnant women?",
+      "output": "Yes, ultrasound imaging is considered safe for pregnant women and is the most widely used medical imaging method for viewing the fetus during pregnancy.",
+      "index": 180,
+      "timestamp": "2024-11-11 22:57:34"
+    },
+    {
+      "text_input": "What is the difference between 3D and 4D ultrasound?",
+      "output": "3D ultrasound allows the visualization of some facial features and possibly other parts such as fingers and toes of the fetus, while 4D ultrasound is 3D ultrasound in motion.",
+      "index": 180,
+      "timestamp": "2024-11-11 22:57:34"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 93,
+  "timestamp": "2024-11-11 22:50:25",
+  "original_text": "Many products we use every day contain fragrances. Some of these products are regulated as cosmetics by FDA. Some belong to other product categories and are regulated differently, depending on how the...",
+  "qa_pairs": [
+    {
+      "text_input": "What labeling requirement applies to cosmetic fragrance ingredients?",
+      "output": "In the US, fragrance ingredients in cosmetics can be listed simply as “Fragrance” or “Flavor” due to trade secret considerations.",
+      "index": 93,
+      "timestamp": "2024-11-11 22:50:25"
+    },
+    {
+      "text_input": "How are products containing fragrances that are applied to the body and intended for therapeutic uses regulated?",
+      "output": "Products intended for therapeutic uses, such as treating or preventing disease or affecting the structure or function of the body, are treated as drugs under the law, or sometimes as both cosmetics and drugs.",
+      "index": 93,
+      "timestamp": "2024-11-11 22:50:25"
+    },
+    {
+      "text_input": "What is the regulatory definition of “essential oils”?",
+      "output": "There is no regulatory definition for “essential oils,” although people commonly use the term to refer to certain oils extracted from plants. The law treats Ingredients from plants the same as those from any other source.",
+      "index": 93,
+      "timestamp": "2024-11-11 22:50:25"
+    }
+  ]
+}

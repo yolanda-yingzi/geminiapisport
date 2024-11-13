@@ -1,0 +1,25 @@
+{
+  "index": 163,
+  "timestamp": "2024-11-11 22:56:10",
+  "original_text": "Image Find a Pregnancy Exposure Registry Help your patients enroll in pregnancy exposure registry research studies Help your patients voluntarily enroll in a pregnancy exposure registry study. The inf...",
+  "qa_pairs": [
+    {
+      "text_input": "What do pregnancy exposure registry studies collect information about?",
+      "output": "Pregnancy exposure registry studies collect information on pregnancy outcomes in those who are pregnant and who are taking or have taken a certain medicine or received a certain vaccine while pregnant.",
+      "index": 163,
+      "timestamp": "2024-11-11 22:56:10"
+    },
+    {
+      "text_input": "What information is included in the Risk Summary of prescription medicine and vaccine labeling?",
+      "output": "The Risk Summary provides a detailed summary of the risks and benefits of using a medicine or vaccine during pregnancy.",
+      "index": 163,
+      "timestamp": "2024-11-11 22:56:10"
+    },
+    {
+      "text_input": "What is the purpose of the \"Females and Males of Reproductive Potential\" subsection in prescription medicine and vaccine labeling?",
+      "output": "The \"Females and Males of Reproductive Potential\" subsection provides information on pregnancy testing and contraception recommendations and information about a medicine’s effects on fertility, when this information is appropriate.",
+      "index": 163,
+      "timestamp": "2024-11-11 22:56:10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 116,
+  "timestamp": "2024-11-11 22:52:19",
+  "original_text": "Image Imprimir y compartir PDF (2.19 MB) English Cuatro pasos básicos para asegurar de qu de los alimentos se mantengan frescos en el hogar 1. Limpiar Lávese siempre las manos y limpie muy bien los al...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the recommended cooking temperatures for various types of meat?",
+      "output": "Beef, pork, lamb: 160ºF\nFish: 145ºF\nGround beef, pork, lamb, turkey, chicken, duck: 165ºF",
+      "index": 116,
+      "timestamp": "2024-11-11 22:52:19"
+    },
+    {
+      "text_input": "What is the 'two-hour rule' in food safety?",
+      "output": "According to the 'two-hour rule', perishable foods should be placed in the refrigerator or freezer within two hours of cooking or purchasing, or within one hour if the outdoor temperature is 90ºF or above.",
+      "index": 116,
+      "timestamp": "2024-11-11 22:52:19"
+    },
+    {
+      "text_input": "Who is more susceptible to foodborne illnesses?",
+      "output": "Pregnant women, older adults, and individuals with certain health conditions such as cancer, HIV/AIDS, diabetes, and kidney disease are more prone to foodborne illnesses.",
+      "index": 116,
+      "timestamp": "2024-11-11 22:52:19"
+    }
+  ]
+}

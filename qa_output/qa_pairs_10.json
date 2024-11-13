@@ -1,0 +1,25 @@
+{
+  "index": 10,
+  "timestamp": "2024-11-11 22:43:32",
+  "original_text": "Be Empowered: Understanding Diabetes Diabetes is a medical condition that affects over 30 million people in the United States. Learn more about diabetes and how real women take charge of their diabete...",
+  "qa_pairs": [
+    {
+      "text_input": "How many people in the United States have diabetes?",
+      "output": "Over 30 million people in the United States have diabetes.",
+      "index": 10,
+      "timestamp": "2024-11-11 22:43:32"
+    },
+    {
+      "text_input": "What is the difference in the effects of diabetes on women and men?",
+      "output": "Women with diabetes have a higher risk of heart disease and other complications compared to men with diabetes.",
+      "index": 10,
+      "timestamp": "2024-11-11 22:43:32"
+    },
+    {
+      "text_input": "What is gestational diabetes?",
+      "output": "Gestational diabetes is a type of diabetes that develops for the first time during pregnancy.",
+      "index": 10,
+      "timestamp": "2024-11-11 22:43:32"
+    }
+  ]
+}

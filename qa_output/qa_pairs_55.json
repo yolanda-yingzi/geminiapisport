@@ -1,0 +1,25 @@
+{
+  "index": 55,
+  "timestamp": "2024-11-11 22:47:13",
+  "original_text": "OWH protects and promotes the health of women through policy, science, education, and outreach. Sub-Topic Paragraphs Featured Women's Health Research Roadmap The Roadmap provides a framework for integ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the primary mission of OWH?",
+      "output": "OWH protects and promotes the health of women through policy, science, education, and outreach.",
+      "index": 55,
+      "timestamp": "2024-11-11 22:47:13"
+    },
+    {
+      "text_input": "How does diabetes affect women differently than men?",
+      "output": "This information is not available in the provided text.",
+      "index": 55,
+      "timestamp": "2024-11-11 22:47:13"
+    },
+    {
+      "text_input": "What is the most common inherited blood disorder in the United States?",
+      "output": "Sickle Cell Disease (SCD)",
+      "index": 55,
+      "timestamp": "2024-11-11 22:47:13"
+    }
+  ]
+}

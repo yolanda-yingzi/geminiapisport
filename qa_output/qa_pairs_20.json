@@ -1,0 +1,25 @@
+{
+  "index": 20,
+  "timestamp": "2024-11-11 22:44:24",
+  "original_text": "Image 3 Tips for Managing Menopause Get help Many women suffer in silence because they are ashamed about their symptoms. Speak with your health care provider about how you are feeling. Find out if the...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some common symptoms of menopause?",
+      "output": "Common symptoms include hot flashes, night sweats, vaginal dryness, changes in period flow, and thinning of bones.",
+      "index": 20,
+      "timestamp": "2024-11-11 22:44:24"
+    },
+    {
+      "text_input": "Who should not take hormone therapy for menopause?",
+      "output": "Women who are pregnant, have vaginal bleeding problems, certain cancers, strokes, heart attacks, blood clots, or liver disease.",
+      "index": 20,
+      "timestamp": "2024-11-11 22:44:24"
+    },
+    {
+      "text_input": "Is there a difference between FDA-approved hormones and compounded 'bioidentical hormones' for menopause?",
+      "output": "Compounded 'bioidentical hormones' have not been evaluated for safety and effectiveness by the FDA, unlike FDA-approved hormones.",
+      "index": 20,
+      "timestamp": "2024-11-11 22:44:24"
+    }
+  ]
+}

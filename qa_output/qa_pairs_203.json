@@ -1,0 +1,25 @@
+{
+  "index": 203,
+  "timestamp": "2024-11-11 22:59:31",
+  "original_text": "Kids aren't just small adults. From diet and nutrition to their reactions to medicine, their bodies are unique. Read these Consumer Updates to learn more. It's a Good Time to Get Your Flu Vaccine Tips...",
+  "qa_pairs": [
+    {
+      "text_input": "What is an important factor to consider when administering medication to children?",
+      "output": "Children's bodies react differently to medication than adults' bodies, so it's important to consult with a medical professional before giving them any type of medication.",
+      "index": 203,
+      "timestamp": "2024-11-11 22:59:31"
+    },
+    {
+      "text_input": "What is the best protection against measles?",
+      "output": "Vaccination is the best protection against measles.",
+      "index": 203,
+      "timestamp": "2024-11-11 22:59:31"
+    },
+    {
+      "text_input": "What should you do to prevent accidental exposure of e-liquids to children?",
+      "output": "E-liquids should be stored properly to prevent accidental exposure to children.",
+      "index": 203,
+      "timestamp": "2024-11-11 22:59:31"
+    }
+  ]
+}

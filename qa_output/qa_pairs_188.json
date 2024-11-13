@@ -1,0 +1,25 @@
+{
+  "index": 188,
+  "timestamp": "2024-11-11 22:58:15",
+  "original_text": "This page provides general information about cleaning a breast pump. For specific information about cleaning your breast pump, check the pump’s instruction manual for the manufacturer-recommended meth...",
+  "qa_pairs": [
+    {
+      "text_input": "Which parts of a breast pump need to be cleaned regularly?",
+      "output": "All parts that come in contact with breast milk, such as bottles, valves, breast shields, and tubing if it comes in contact with milk.",
+      "index": 188,
+      "timestamp": "2024-11-11 22:58:15"
+    },
+    {
+      "text_input": "Can home sterilization methods completely sterilize breast pump parts?",
+      "output": "No, it is not possible to completely sterilize breast pump parts at home, even by boiling them.",
+      "index": 188,
+      "timestamp": "2024-11-11 22:58:15"
+    },
+    {
+      "text_input": "How can I clean the electrical unit of a powered breast pump?",
+      "output": "Wipe it down with a clean paper towel or soft cloth after each use. Never put it in water or other liquids, or clean it using a microwave sterilizer.",
+      "index": 188,
+      "timestamp": "2024-11-11 22:58:15"
+    }
+  ]
+}

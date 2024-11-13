@@ -1,0 +1,25 @@
+{
+  "index": 9,
+  "timestamp": "2024-11-11 22:43:28",
+  "original_text": "Print and Share (PDF 1645KB) Do you feel depressed? Do not feel ashamed or alone. Women are more likely than men to feel depressed, although it is a major problem for both sexes. There is hope. Depres...",
+  "qa_pairs": [
+    {
+      "text_input": "What causes depression during pregnancy?",
+      "output": "The exact cause of depression during or after pregnancy is unknown, but it may be related to factors such as stress and sleep problems, hormonal changes, previous history of depression, lack of support, and young maternal age.",
+      "index": 9,
+      "timestamp": "2024-11-11 22:43:28"
+    },
+    {
+      "text_input": "What are the potential side effects of depression medication?",
+      "output": "Depression medication may cause side effects such as suicidal thoughts, so it is important to talk to your healthcare provider about any problems you experience and to avoid stopping your medication without consulting them.",
+      "index": 9,
+      "timestamp": "2024-11-11 22:43:28"
+    },
+    {
+      "text_input": "When is it recommended to seek medical help for depression?",
+      "output": "If you have experienced signs of depression, such as persistent sadness, fatigue, changes in appetite or sleep patterns, or difficulty concentrating, for at least two weeks, or if you have any dangerous thoughts or behaviors, it is recommended to talk to your healthcare provider or counselor immediately.",
+      "index": 9,
+      "timestamp": "2024-11-11 22:43:28"
+    }
+  ]
+}

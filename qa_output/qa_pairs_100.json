@@ -1,0 +1,25 @@
+{
+  "index": 100,
+  "timestamp": "2024-11-11 22:51:01",
+  "original_text": "Image The FDA Office of Women’s Health (OWH) invites you to join us in educating women and women’s health stakeholders. We offer more than 40 fact sheets, brochures, and medicine booklets on a wide ra...",
+  "qa_pairs": [
+    {
+      "text_input": "Who are the stakeholders of the FDA Office of Women's Health (OWH)?",
+      "output": "The stakeholders of the FDA Office of Women's Health (OWH) include national associations, community organizations, businesses, health care providers, colleges and universities, researchers, policy-makers, media and information outlets, and anyone interested in promoting women's health.",
+      "index": 100,
+      "timestamp": "2024-11-11 22:51:01"
+    },
+    {
+      "text_input": "How can I get free publications from the FDA Office of Women's Health (OWH)?",
+      "output": "You can get free publications from the FDA Office of Women's Health (OWH) by ordering them online or by calling the OWH toll-free number at 1-800-FDA-1088.",
+      "index": 100,
+      "timestamp": "2024-11-11 22:51:01"
+    },
+    {
+      "text_input": "What topics are addressed in the fact sheets, brochures, and medicine booklets offered by the FDA Office of Women's Health (OWH)?",
+      "output": "The fact sheets, brochures, and medicine booklets offered by the FDA Office of Women's Health (OWH) address a wide range of health topics including safe medication use, heart disease, HIV, HPV, menopause, birth control, and more.",
+      "index": 100,
+      "timestamp": "2024-11-11 22:51:01"
+    }
+  ]
+}

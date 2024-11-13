@@ -1,0 +1,25 @@
+{
+  "index": 7,
+  "timestamp": "2024-11-11 22:43:17",
+  "original_text": "Print and Share (PDF 182KB) En Español Contact lenses help people improve their vision. If you are not careful, contact lenses can cause major eye problems. It is important to keep your eyes safe. Use...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the most important thing to do when using contact lenses?",
+      "output": "Follow your eye doctor’s directions on how to wear and clean your contacts.",
+      "index": 7,
+      "timestamp": "2024-11-11 22:43:17"
+    },
+    {
+      "text_input": "What should you do if you experience eye discomfort while wearing contact lenses?",
+      "output": "Take out your lenses right away and bring them with you to see your doctor.",
+      "index": 7,
+      "timestamp": "2024-11-11 22:43:17"
+    },
+    {
+      "text_input": "Can you buy decorative contact lenses from any vendor?",
+      "output": "No, you need an eye exam and prescription for decorative contact lenses and should only buy them from an eye care doctor or from a vendor who requires that you provide a prescription.",
+      "index": 7,
+      "timestamp": "2024-11-11 22:43:17"
+    }
+  ]
+}

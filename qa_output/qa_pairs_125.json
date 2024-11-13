@@ -1,0 +1,25 @@
+{
+  "index": 125,
+  "timestamp": "2024-11-11 22:53:03",
+  "original_text": "Image Español Sudden cardiac arrest occurs when the heart suddenly and unexpectedly stops pumping blood. It can happen to anyone, at any time, and signs include sudden collapse and immediate loss of c...",
+  "qa_pairs": [
+    {
+      "text_input": "What is sudden cardiac arrest?",
+      "output": "Sudden cardiac arrest occurs when the heart suddenly and unexpectedly stops pumping blood.",
+      "index": 125,
+      "timestamp": "2024-11-11 22:53:03"
+    },
+    {
+      "text_input": "What is the purpose of an AED?",
+      "output": "An AED (automated external defibrillator) is a medical device that delivers an electrical shock to the heart to restore its normal rhythm in case of cardiac arrest.",
+      "index": 125,
+      "timestamp": "2024-11-11 22:53:03"
+    },
+    {
+      "text_input": "How are AEDs regulated?",
+      "output": "The U.S. Food and Drug Administration (FDA) regulates AEDs and their necessary accessories for safety and effectiveness.",
+      "index": 125,
+      "timestamp": "2024-11-11 22:53:03"
+    }
+  ]
+}

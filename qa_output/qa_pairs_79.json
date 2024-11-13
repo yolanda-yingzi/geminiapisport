@@ -1,0 +1,25 @@
+{
+  "index": 79,
+  "timestamp": "2024-11-11 22:49:19",
+  "original_text": "Image On this page: Understanding sex differences at FDA | Historical information | Women in clinical trials | Related links Understanding sex differences at FDA Research has shown that biological dif...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the key findings from the 1992 GAO report?",
+      "output": "The 1992 GAO report concluded that women were not adequately included in clinical trials and data was often not analyzed for sex differences in therapeutic response.",
+      "index": 79,
+      "timestamp": "2024-11-11 22:49:19"
+    },
+    {
+      "text_input": "What is the purpose of the Demographic Rule?",
+      "output": "The Demographic Rule requires effectiveness and safety data for drugs to be presented by gender, age and racial subgroups.",
+      "index": 79,
+      "timestamp": "2024-11-11 22:49:19"
+    },
+    {
+      "text_input": "How many women were included in clinical trials according to the 2001 GAO Report?",
+      "output": "Overall, women were 52% of the study participants in the NDAs included in the 2001 GAO study.",
+      "index": 79,
+      "timestamp": "2024-11-11 22:49:19"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 101,
+  "timestamp": "2024-11-11 22:51:06",
+  "original_text": "En Español Print and Share (PDF 2512KB) Basic Facts 7 Tips for Testing Your Blood Sugar and Caring for Your Meter Glucose meters test and record how much sugar (called glucose) is in your blood. They ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is a glucose meter used for?",
+      "output": "Glucose meters test and record the amount of sugar (glucose) in your blood, helping you track your blood sugar level and monitor the effectiveness of your diabetes medication.",
+      "index": 101,
+      "timestamp": "2024-11-11 22:51:06"
+    },
+    {
+      "text_input": "What are the three things needed to use a glucose meter?",
+      "output": "To use a glucose meter, you need a lancet (for obtaining blood), a test strip (for placing the blood drop), and a control solution (for ensuring the meter's accuracy).",
+      "index": 101,
+      "timestamp": "2024-11-11 22:51:06"
+    },
+    {
+      "text_input": "What are some helpful tips for testing blood sugar?",
+      "output": "Before testing your blood sugar, wash your hands, use the correct test strip for your meter, record your results (including date and time), and clean your meter regularly as directed.",
+      "index": 101,
+      "timestamp": "2024-11-11 22:51:06"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 162,
+  "timestamp": "2024-11-11 22:56:05",
+  "original_text": "On December 3, 2014, the FDA published the Content and Format of Labeling for Human Prescription Drug and Biological Products; Requirements for Pregnancy and Lactation Labeling, referred to as the “Pr...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the key changes introduced by the Pregnancy and Lactation Labeling Rule (PLLR)?",
+      "output": "The PLLR eliminates pregnancy letter categories (A-X), requires updated labeling when information becomes outdated, includes information on pregnancy exposure registries, and adds new subsections on Lactation and Females and Males of Reproductive Potential.",
+      "index": 162,
+      "timestamp": "2024-11-11 22:56:05"
+    },
+    {
+      "text_input": "What biological products are subject to the PLLR?",
+      "output": "Biological products subject to the Physician Labeling Rule, including vaccines, allergenics, and cellular and gene therapies.",
+      "index": 162,
+      "timestamp": "2024-11-11 22:56:05"
+    },
+    {
+      "text_input": "What information is included in the new Lactation subsection of drug labeling?",
+      "output": "Information about using the drug while breastfeeding, such as the amount of drug in breast milk and potential effects on the breastfed infant.",
+      "index": 162,
+      "timestamp": "2024-11-11 22:56:05"
+    }
+  ]
+}

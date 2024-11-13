@@ -1,0 +1,25 @@
+{
+  "index": 21,
+  "timestamp": "2024-11-11 22:44:28",
+  "original_text": "Image Download English PDF (538 KB) En Español On this page: What is osteoporosis? What causes osteoporosis? Who gets osteoporosis? Who is at risk? How do I know if I have osteoporosis? How is it trea...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the primary cause of osteoporosis in women?",
+      "output": "In women, osteoporosis is often caused by bone loss due to hormonal changes (low estrogen levels) that come with menopause.",
+      "index": 21,
+      "timestamp": "2024-11-11 22:44:28"
+    },
+    {
+      "text_input": "How can you determine if you have osteoporosis?",
+      "output": "Osteoporosis is typically diagnosed using tests that use either X-rays or ultrasound (sound waves) to measure bone density.",
+      "index": 21,
+      "timestamp": "2024-11-11 22:44:28"
+    },
+    {
+      "text_input": "Describe the recommended screening guidelines for osteoporosis.",
+      "output": "The U.S. Preventive Services Task Force recommends osteoporosis screening for women over the age of 65 and for women of any age who have factors that increase the chance of developing osteoporosis.",
+      "index": 21,
+      "timestamp": "2024-11-11 22:44:28"
+    }
+  ]
+}

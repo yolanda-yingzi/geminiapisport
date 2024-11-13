@@ -1,0 +1,25 @@
+{
+  "index": 29,
+  "timestamp": "2024-11-11 22:45:08",
+  "original_text": "Print & Share (PDF 1.56MB) Spanish (Español) You’ve probably heard that most Americans eat too much sodium. Your body needs a small amount of sodium to work properly, but too much sodium can be bad fo...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the recommended daily intake of sodium?",
+      "output": "The Daily Value for sodium is less than 2,300 milligrams (mg) per day.",
+      "index": 29,
+      "timestamp": "2024-11-11 22:45:08"
+    },
+    {
+      "text_input": "What foods contribute the most sodium to the American diet?",
+      "output": "Deli meat sandwiches, pizza, burritos and tacos, soups, savory snacks, poultry, pasta mixed dishes, burgers, and egg dishes and omelets.",
+      "index": 29,
+      "timestamp": "2024-11-11 22:45:08"
+    },
+    {
+      "text_input": "How can I reduce my sodium intake?",
+      "output": "Use the Nutrition Facts label to compare products and choose foods that are low in sodium (5% DV or less per serving). Check the serving size to make sure you're making an accurate comparison.",
+      "index": 29,
+      "timestamp": "2024-11-11 22:45:08"
+    }
+  ]
+}

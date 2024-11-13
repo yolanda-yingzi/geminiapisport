@@ -1,0 +1,25 @@
+{
+  "index": 86,
+  "timestamp": "2024-11-11 22:49:50",
+  "original_text": "All contact lenses must be prescribed by a doctor, including decorative lenses. Any contact lenses that are not prescribed by a doctor are illegal and could cause you harm. You may want to have the pe...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the risks associated with wearing decorative contact lenses?",
+      "output": "Wearing decorative contact lenses can lead to various risks such as corneal abrasions, allergic reactions, decreased vision, infection, and even blindness if not used correctly or obtained without a prescription.",
+      "index": 86,
+      "timestamp": "2024-11-11 22:49:50"
+    },
+    {
+      "text_input": "Who should prescribe contact lenses?",
+      "output": "All contact lenses, including decorative ones, must be prescribed by a licensed eye doctor (optometrist or ophthalmologist) after an eye exam to ensure proper fit and to provide instructions for use and care.",
+      "index": 86,
+      "timestamp": "2024-11-11 22:49:50"
+    },
+    {
+      "text_input": "What do sellers of contact lenses need to obtain before selling them?",
+      "output": "Sellers of contact lenses are required to obtain a prescription from the buyer, including the brand name, correct lens measurements, expiration date, the name of the prescribing doctor, and their phone number. Failure to request this information violates federal law and may indicate illegal or unsafe contact lenses.",
+      "index": 86,
+      "timestamp": "2024-11-11 22:49:50"
+    }
+  ]
+}

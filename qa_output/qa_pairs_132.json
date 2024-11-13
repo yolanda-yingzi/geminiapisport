@@ -1,0 +1,25 @@
+{
+  "index": 132,
+  "timestamp": "2024-11-11 22:53:36",
+  "original_text": "Print and Share (PDF 1847 KB) Every year, thousands of women are infected with HIV. There is hope. There are medicines that can treat HIV and help people live longer. Use this page to help you talk to...",
+  "qa_pairs": [
+    {
+      "text_input": "What is HIV?",
+      "output": "HIV is the virus that causes AIDS. It makes it hard for your body to fight off sickness. HIV kills CD4 cells, which are cells in your blood that help protect your body from disease.",
+      "index": 132,
+      "timestamp": "2024-11-11 22:53:36"
+    },
+    {
+      "text_input": "What are the different types of ART (antiretroviral treatment) medicines?",
+      "output": "The different types of ART medicines include Nucleoside Reverse Transcriptase Inhibitors (NRTIs), Nonnucleoside Reverse Transcriptase Inhibitors (NNRTIs), Protease Inhibitors, Integrase Inhibitors, Fusion Inhibitors, CCR5 Antagonists, CD4 Post-Attachment Inhibitor, and CYP3A Inhibitors.",
+      "index": 132,
+      "timestamp": "2024-11-11 22:53:36"
+    },
+    {
+      "text_input": "What are the risks of taking HIV medicines?",
+      "output": "HIV medicines can cause side effects, some of which happen for a short time and others that can cause long term health problems. Side effects should be discussed with a healthcare provider before stopping any medication.",
+      "index": 132,
+      "timestamp": "2024-11-11 22:53:36"
+    }
+  ]
+}

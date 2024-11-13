@@ -1,0 +1,25 @@
+{
+  "index": 3,
+  "timestamp": "2024-11-11 22:42:54",
+  "original_text": "Download and print the Birth Control Chart (PDF, 633 KB) En Español This page should not be used in place of talking with your health care provider and reading the label for your product. This page is...",
+  "qa_pairs": [
+    {
+      "text_input": "How effective are birth control methods?",
+      "output": "Pregnancy rates vary depending on the method of contraception. Some contraceptives are more effective than others, and the only sure way to avoid pregnancy is to not have sex.",
+      "index": 3,
+      "timestamp": "2024-11-11 22:42:54"
+    },
+    {
+      "text_input": "What are the risks associated with permanent sterilization surgery for women?",
+      "output": "Risks associated with permanent sterilization surgery for women include bleeding, infection or other complications after surgery, and pain. It does not provide protection from sexually transmitted infections (STIs).",
+      "index": 3,
+      "timestamp": "2024-11-11 22:42:54"
+    },
+    {
+      "text_input": "How do I obtain permanent sterilization surgery for women?",
+      "output": "Permanent sterilization surgery for women is a surgical procedure that requires general anesthesia.",
+      "index": 3,
+      "timestamp": "2024-11-11 22:42:54"
+    }
+  ]
+}

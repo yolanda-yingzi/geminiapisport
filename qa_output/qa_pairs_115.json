@@ -1,0 +1,25 @@
+{
+  "index": 115,
+  "timestamp": "2024-11-11 22:52:14",
+  "original_text": "Print and Share (1865 KB) En Español How to Spot a Scam… It’s Called Health Fraud Lots of people are fooled into buying health products that sound great, but are really fakes. Some products may cause ...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some signs that a health product may be a scam?",
+      "output": "It claims to be natural, easy to use, a miracle cure, or worked for someone you know.",
+      "index": 115,
+      "timestamp": "2024-11-11 22:52:14"
+    },
+    {
+      "text_input": "Why is it important to consult a healthcare professional before using any health product?",
+      "output": "To ensure the product is safe, effective, and does not interfere with other medications.",
+      "index": 115,
+      "timestamp": "2024-11-11 22:52:14"
+    },
+    {
+      "text_input": "What government agencies can I report health fraud to?",
+      "output": "FDA, Federal Trade Commission (FTC)",
+      "index": 115,
+      "timestamp": "2024-11-11 22:52:14"
+    }
+  ]
+}

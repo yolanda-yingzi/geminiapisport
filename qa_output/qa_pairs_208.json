@@ -1,0 +1,25 @@
+{
+  "index": 208,
+  "timestamp": "2024-11-11 22:59:54",
+  "original_text": "Image The FDA has been alerting people who use Philips Respironics ventilators, BiPAP, and CPAP machines and their health care providers that Philips Respironics has recalled certain devices due to po...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the common symptoms of OSA?",
+      "output": "Common symptoms of OSA include excessive daytime sleepiness, waking up with a dry throat or headache, waking up frequently during the night, waking up to urinate frequently, and difficulty concentrating or mood changes during the day.",
+      "index": 208,
+      "timestamp": "2024-11-11 22:59:54"
+    },
+    {
+      "text_input": "What is the most common treatment for OSA?",
+      "output": "The most common treatment for OSA is using a continuous positive airway pressure (CPAP) machine every night during sleep. CPAP machines use air pressure to keep the airways open during sleep.",
+      "index": 208,
+      "timestamp": "2024-11-11 22:59:54"
+    },
+    {
+      "text_input": "What are the potential health risks associated with untreated OSA?",
+      "output": "Untreated OSA can increase the risk of serious health problems, including heart attack, stroke, type 2 diabetes, glaucoma, and some types of cancer.",
+      "index": 208,
+      "timestamp": "2024-11-11 22:59:54"
+    }
+  ]
+}

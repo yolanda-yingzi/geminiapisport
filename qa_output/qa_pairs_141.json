@@ -1,0 +1,25 @@
+{
+  "index": 141,
+  "timestamp": "2024-11-11 22:54:24",
+  "original_text": "The FDA issued a Final Rule to Amend the MQSA Regulations (“2023 MQSA Final Rule”) on March 10, 2023. Facilities subject to the MQSA and its implementing regulations must comply with all the requireme...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of a mammogram?",
+      "output": "A mammogram is a safe, low-dose X-ray picture of the breast used to detect breast cancer in its earliest stages.",
+      "index": 141,
+      "timestamp": "2024-11-11 22:54:24"
+    },
+    {
+      "text_input": "When should patients get a screening mammogram?",
+      "output": "Patients should get a screening mammogram when they have no symptoms of breast cancer, typically starting at age 40.",
+      "index": 141,
+      "timestamp": "2024-11-11 22:54:24"
+    },
+    {
+      "text_input": "How do patients get their mammogram results?",
+      "output": "Mammography facilities must provide each patient with a written summary of the exam results, either handed to them at the time of the exam, provided electronically, or mailed within 30 days.",
+      "index": 141,
+      "timestamp": "2024-11-11 22:54:24"
+    }
+  ]
+}

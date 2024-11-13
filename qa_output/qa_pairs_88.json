@@ -1,0 +1,25 @@
+{
+  "index": 88,
+  "timestamp": "2024-11-11 22:50:00",
+  "original_text": "Image Español These days, eyeglasses can look pretty cool. Still, the day may come when your child asks you for contact lenses. There are pros to consider — and cons. The U.S. Food and Drug Administra...",
+  "qa_pairs": [
+    {
+      "text_input": "How do contact lenses compare to eyeglasses for sports activities?",
+      "output": "Contact lenses can be better for sports because they do not break like eyeglasses.",
+      "index": 88,
+      "timestamp": "2024-11-11 22:50:00"
+    },
+    {
+      "text_input": "What are some common behaviors that can lead to eye injury when wearing contact lenses?",
+      "output": "Common behaviors that can result in injury include wearing another child's lens; using saliva to moisten a lens; not following the directions of an eye care professional; and wearing cosmetic or decorative lenses purchased without a valid prescription.",
+      "index": 88,
+      "timestamp": "2024-11-11 22:50:00"
+    },
+    {
+      "text_input": "Why are daily disposable contact lenses considered safer for children and teens?",
+      "output": "Daily disposable lenses can reduce some of the risks associated with wearing lenses since a new pair is used each day.",
+      "index": 88,
+      "timestamp": "2024-11-11 22:50:00"
+    }
+  ]
+}

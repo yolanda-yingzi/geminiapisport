@@ -1,0 +1,17 @@
+[
+  {
+    "text_input": "What are some key habits for healthy aging?",
+    "output": "Healthy aging involves eating nutritiously, avoiding common medication errors, managing health conditions effectively, undergoing recommended screenings, and staying active.",
+    "topic": "Healthy aging"
+  },
+  {
+    "text_input": "Where can I find resources for healthy aging?",
+    "output": "The FDA provides guidance and tips to assist individuals in aging healthily.",
+    "topic": "Healthy aging"
+  },
+  {
+    "text_input": "What does being active entail in the context of healthy aging?",
+    "output": "Maintaining an active lifestyle is included in the concept of healthy aging, which refers to participating in regular physical exercise or activities that keep the body moving.",
+    "topic": "Healthy aging"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "index": 142,
+  "timestamp": "2024-11-11 22:54:29",
+  "original_text": "For Immediate Release: March 09, 2023 Español Today, the U.S. Food and Drug Administration published updates to the mammography regulations to, among other things, require mammography facilities to no...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of the Mammography Quality Standards Act (MQSA)?",
+      "output": "The MQSA was passed to ensure the quality of mammograms and promote early breast cancer detection by providing FDA oversight over mammography facilities.",
+      "index": 142,
+      "timestamp": "2024-11-11 22:54:29"
+    },
+    {
+      "text_input": "Why is breast density important in mammography?",
+      "output": "Dense breast tissue can make cancers more difficult to detect on a mammogram and is a risk factor for developing breast cancer.",
+      "index": 142,
+      "timestamp": "2024-11-11 22:54:29"
+    },
+    {
+      "text_input": "How does the FDA's recent update to mammography regulations improve patient communication?",
+      "output": "The update requires facilities to provide patients with information about breast density and recommends that they discuss breast health with their healthcare providers.",
+      "index": 142,
+      "timestamp": "2024-11-11 22:54:29"
+    }
+  ]
+}

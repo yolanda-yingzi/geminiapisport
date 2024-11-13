@@ -1,0 +1,25 @@
+{
+  "index": 130,
+  "timestamp": "2024-11-11 22:53:25",
+  "original_text": "For Immediate Release: December 20, 2021 Today, the U.S. Food and Drug Administration approved Apretude (cabotegravir extended-release injectable suspension) for use in at-risk adults and adolescents ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the name of the new HIV PrEP medication approved by the FDA?",
+      "output": "Apretude (cabotegravir extended-release injectable suspension)",
+      "index": 130,
+      "timestamp": "2024-11-11 22:53:25"
+    },
+    {
+      "text_input": "How often is Apretude administered?",
+      "output": "Every two months after two initiation injections one month apart",
+      "index": 130,
+      "timestamp": "2024-11-11 22:53:25"
+    },
+    {
+      "text_input": "What percentage of individuals at risk for HIV in the US were prescribed PrEP in 2020?",
+      "output": "About 25%",
+      "index": 130,
+      "timestamp": "2024-11-11 22:53:25"
+    }
+  ]
+}

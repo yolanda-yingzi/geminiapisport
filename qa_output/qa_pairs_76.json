@@ -1,0 +1,25 @@
+{
+  "index": 76,
+  "timestamp": "2024-11-11 22:49:03",
+  "original_text": "En Espanol Everyone feels sad at times. People with depression feel sad most days. Depression can make it hard to care for yourself and your family. It can also affect you at work or school. Read this...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some common signs of depression?",
+      "output": "Feel sad, Sleep too little or all the time, Feel tired all the time, Feel nervous or cranky, Cry a lot, Eat too much or all the time, Have no interest in eating, Feel guilty, Feel hopeless, Have trouble paying attention, Notice that things that used to make you happy, don’t make you happy anymore, Think about death or try to kill yourself",
+      "index": 76,
+      "timestamp": "2024-11-11 22:49:03"
+    },
+    {
+      "text_input": "How is depression treated?",
+      "output": "There is hope. Depression can be treated with medicine or counseling. Sometimes both are used.",
+      "index": 76,
+      "timestamp": "2024-11-11 22:49:03"
+    },
+    {
+      "text_input": "What is postpartum depression?",
+      "output": "Some women become depressed after they give birth. This kind of depression is called postpartum depression.",
+      "index": 76,
+      "timestamp": "2024-11-11 22:49:03"
+    }
+  ]
+}

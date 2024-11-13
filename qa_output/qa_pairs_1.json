@@ -1,0 +1,25 @@
+{
+  "index": 1,
+  "timestamp": "2024-11-12 23:40:00",
+  "original_text": "Healthy aging involves good habits like eating healthy, avoiding common medication mistakes, managing health conditions, getting recommended screenings, and being active. FDA has tips to help you age ...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the key aspects of healthy aging according to the text?",
+      "output": "Healthy aging involves eating nutritiously, avoiding medication errors, managing health conditions, getting regular screenings, and staying active.",
+      "index": 1,
+      "timestamp": "2024-11-12 23:40:00"
+    },
+    {
+      "text_input": "What are some resources provided to help older adults manage their health?",
+      "output": "The text provides resources such as guides for medication use, tools to track medications, information on common health conditions and their treatments, and tips for safe medical device use.",
+      "index": 1,
+      "timestamp": "2024-11-12 23:40:00"
+    },
+    {
+      "text_input": "How does the text emphasize the importance of preventive care?",
+      "output": "The text highlights the significance of health screenings as a way to detect potential health issues early on, even before symptoms appear, and encourages individuals to consult with their healthcare providers for personalized screening recommendations.",
+      "index": 1,
+      "timestamp": "2024-11-12 23:40:00"
+    }
+  ]
+}

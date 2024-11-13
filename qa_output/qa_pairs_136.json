@@ -1,0 +1,25 @@
+{
+  "index": 136,
+  "timestamp": "2024-11-11 22:53:55",
+  "original_text": "Imprimir y compartir (PDF 2074 KB) In English El VPH (virus del papiloma humano) es un virus de transmisión sexual, que se transmite por contacto genital (como el contacto sexual vaginal y anal). Tamb...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Quiénes pueden contraer el VPH?",
+      "output": "Cualquiera que haya tenido contacto genital con otra persona.",
+      "index": 136,
+      "timestamp": "2024-11-11 22:53:55"
+    },
+    {
+      "text_input": "¿Cómo puedo prevenir la infección con el VPH?",
+      "output": "Vacunación, abstinencia o limitación del número de parejas.",
+      "index": 136,
+      "timestamp": "2024-11-11 22:53:55"
+    },
+    {
+      "text_input": "¿Qué tipo de prueba detecta el VPH y en quiénes está indicada?",
+      "output": "Prueba de Papanicolaou en mujeres mayores de 30 años.",
+      "index": 136,
+      "timestamp": "2024-11-11 22:53:55"
+    }
+  ]
+}

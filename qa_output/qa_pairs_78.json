@@ -1,0 +1,25 @@
+{
+  "index": 78,
+  "timestamp": "2024-11-11 22:49:14",
+  "original_text": "Image On this page: Introduction | Why is this work important? | Related FDA policy | Related links Introduction OWH was established in 1994 to advocate for the participation of women in clinical tria...",
+  "qa_pairs": [
+    {
+      "text_input": "Why is it important for women to participate in clinical trials?",
+      "output": "Participation of women in clinical trials ensures that the trials represent the population most likely to use a medical product.",
+      "index": 78,
+      "timestamp": "2024-11-11 22:49:14"
+    },
+    {
+      "text_input": "What is the benefit of analyzing data by sex in clinical trials?",
+      "output": "Analyzing data by sex allows researchers to determine if there are any sex differences in the response to medical treatment, providing insight into the scientific basis for individual therapy differences and informing future research.",
+      "index": 78,
+      "timestamp": "2024-11-11 22:49:14"
+    },
+    {
+      "text_input": "What is the purpose of the FDA policy \"Diversity Action Plans to Improve Enrollment of Participants from Underrepresented Populations in Clinical Studies\"?",
+      "output": "The purpose of this policy is to encourage and guide the development of Diversity Action Plans by sponsors of clinical trials to improve the enrollment of participants from underrepresented populations in clinical studies.",
+      "index": 78,
+      "timestamp": "2024-11-11 22:49:14"
+    }
+  ]
+}

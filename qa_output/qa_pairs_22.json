@@ -1,0 +1,25 @@
+{
+  "index": 22,
+  "timestamp": "2024-11-11 22:44:33",
+  "original_text": "Download/View PDF Factsheet en Español Pain medicines can be effective in reducing pain when used as directed. However, these medicines can also cause serious injury or death when misused or abused. T...",
+  "qa_pairs": [
+    {
+      "text_input": "How do women experience pain differently than men?",
+      "output": "Women report more pain than men and may become dependent on prescription pain medicines more quickly.",
+      "index": 22,
+      "timestamp": "2024-11-11 22:44:33"
+    },
+    {
+      "text_input": "What are the different types of over-the-counter and prescription pain medicines?",
+      "output": "OTC pain medicines include acetaminophen and NSAIDs like aspirin and ibuprofen. Prescription medicines include non-opioid medicines like diclofenac and ibuprofen, and opioids like oxycodone and morphine.",
+      "index": 22,
+      "timestamp": "2024-11-11 22:44:33"
+    },
+    {
+      "text_input": "What precautions should be taken when using pain medicines?",
+      "output": "Keep pain medicines locked up away from children, don't take them for longer than prescribed, get the facts about your medicine, and don't combine alcohol or other drugs with certain pain medicines.",
+      "index": 22,
+      "timestamp": "2024-11-11 22:44:33"
+    }
+  ]
+}

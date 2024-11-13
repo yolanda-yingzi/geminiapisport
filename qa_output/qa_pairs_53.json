@@ -1,0 +1,25 @@
+{
+  "index": 53,
+  "timestamp": "2024-11-11 22:47:04",
+  "original_text": "Image Español You have flu symptoms, so you’ve been getting some relief by taking a cough and flu medicine every few hours. Late in the day, you have a headache and think about grabbing a couple of ac...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the daily limit of acetaminophen?",
+      "output": "The maximum recommended adult dose of acetaminophen is 4,000 milligrams per day for all medicines you might be taking.",
+      "index": 53,
+      "timestamp": "2024-11-11 22:47:04"
+    },
+    {
+      "text_input": "What should you do if you still have pain and fever after treatment?",
+      "output": "If you still have pain and fever after treatment, don’t take more than directed. Instead, discuss this with your health care professional.",
+      "index": 53,
+      "timestamp": "2024-11-11 22:47:04"
+    },
+    {
+      "text_input": "How can you avoid exceeding the daily limit of acetaminophen?",
+      "output": "To avoid exceeding that dose: Be aware of the number of milligrams of acetaminophen in all the medicines you are taking. Don’t take more than one OTC medicine containing acetaminophen. Don’t take a prescription and an OTC medicine containing acetaminophen unless advised to do so by your health care professional.",
+      "index": 53,
+      "timestamp": "2024-11-11 22:47:04"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 210,
+  "timestamp": "2024-11-11 23:00:04",
+  "original_text": "Image Español ZZZZZ. Remember sleeping through the night? Not lately? If you’re lying awake night after night, unable to sleep, you may want to talk to your health care professional about it. They may...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the known risks associated with prescription Z-drugs?",
+      "output": "Prescription Z-drugs can cause serious injuries or even death due to complex sleep behaviors, such as sleepwalking, sleep driving, or overdosing.",
+      "index": 210,
+      "timestamp": "2024-11-11 23:00:04"
+    },
+    {
+      "text_input": "What precautions should be taken when taking Z-drugs?",
+      "output": "Follow dosing instructions carefully, avoid combining with other sleep drugs or alcohol, and be aware of the potential for complex sleep behaviors. Read the Patient Medication Guide thoroughly and consult a healthcare professional with any questions.",
+      "index": 210,
+      "timestamp": "2024-11-11 23:00:04"
+    },
+    {
+      "text_input": "What are the alternatives to prescription Z-drugs?",
+      "output": "The text does not provide information on alternatives to prescription Z-drugs. It is recommended to consult a healthcare professional for guidance on non-prescription options.",
+      "index": 210,
+      "timestamp": "2024-11-11 23:00:04"
+    }
+  ]
+}

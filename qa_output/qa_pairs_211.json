@@ -1,0 +1,25 @@
+{
+  "index": 211,
+  "timestamp": "2024-11-11 23:00:09",
+  "original_text": "FDA is notifying consumers of certain products promoted for various conditions including skin conditions and sleep aids that have been found to contain hidden ingredients and may pose a significant he...",
+  "qa_pairs": [
+    {
+      "text_input": "What types of products are included in the FDA's public notifications?",
+      "output": "The FDA's public notifications include products promoted for skin conditions and sleep aids that have been found to contain hidden ingredients and may pose a significant health risk.",
+      "index": 211,
+      "timestamp": "2024-11-11 23:00:09"
+    },
+    {
+      "text_input": "Why does FDA only issue public notifications for a small fraction of tainted over-the-counter products?",
+      "output": "FDA cannot test all products on the market that contain potentially harmful hidden ingredients.",
+      "index": 211,
+      "timestamp": "2024-11-11 23:00:09"
+    },
+    {
+      "text_input": "What specific drug ingredients have been found in products that are not listed on the labels?",
+      "output": "The text does not specify the exact drug ingredients found in products that are not listed on the labels.",
+      "index": 211,
+      "timestamp": "2024-11-11 23:00:09"
+    }
+  ]
+}

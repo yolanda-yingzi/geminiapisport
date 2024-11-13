@@ -1,0 +1,25 @@
+{
+  "index": 49,
+  "timestamp": "2024-11-11 22:46:43",
+  "original_text": "Image En inglés Descargar PDF en inglés (3.13MB) Descargar PDF en español (2.44MB) En esta página: ¿Qué es una mamografía? ¿Por qué debo hacerme una mamografía? ¿Cómo se hace una mamografía? ¿Cómo obt...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Cuál es el propósito de una mamografía?",
+      "output": "Una mamografía es una radiografía de dosis baja que se utiliza para detectar el cáncer de mama en una etapa temprana.",
+      "index": 49,
+      "timestamp": "2024-11-11 22:46:43"
+    },
+    {
+      "text_input": "¿Qué necesito saber antes de hacerme una mamografía?",
+      "output": "Antes de su mamografía, no debe usar desodorante, perfume, loción o talco debajo de los brazos o los senos, y debe informar al centro si tiene implantes mamarios, discapacidades físicas o inquietudes relacionadas con el pudor.",
+      "index": 49,
+      "timestamp": "2024-11-11 22:46:43"
+    },
+    {
+      "text_input": "¿Cómo obtengo los resultados de mi mamografía?",
+      "output": "Usted y su proveedor de atención médica deben recibir los resultados por escrito dentro de los 30 días posteriores a la mamografía.",
+      "index": 49,
+      "timestamp": "2024-11-11 22:46:43"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 146,
+  "timestamp": "2024-11-11 22:54:49",
+  "original_text": "Image Caption A mammogram (L) is an X-ray image of the breast that can identify tissue types with different densities, such as masses within the breast. Thermography (R) produces an infrared image tha...",
+  "qa_pairs": [
+    {
+      "text_input": "What is thermography?",
+      "output": "Thermography is a type of test that shows patterns of heat on or near the surface of the body.",
+      "index": 146,
+      "timestamp": "2024-11-11 22:54:49"
+    },
+    {
+      "text_input": "Is thermography as effective as mammography for breast cancer screening?",
+      "output": "No, thermography has not been shown to be effective as a standalone test for breast cancer screening and detecting early-stage breast cancer.",
+      "index": 146,
+      "timestamp": "2024-11-11 22:54:49"
+    },
+    {
+      "text_input": "What are the risks associated with using thermography as an alternative to mammography?",
+      "output": "One of the greatest risks from thermography is that those who opt for this method instead of mammography may miss the chance to detect breast cancer at its earliest stage.",
+      "index": 146,
+      "timestamp": "2024-11-11 22:54:49"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 201,
+  "timestamp": "2024-11-11 22:59:21",
+  "original_text": "Español Vaccines are essential to getting children off to a healthy start in life and keeping them healthy as they grow up. Because immunization programs of the 20th and 21st centuries have been so su...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential risks and benefits of vaccines?",
+      "output": "Vaccines can cause minor and short-lived side effects such as fever or pain at the injection site. Severe and long-lasting side effects are rare. The risk of being harmed by vaccines is much smaller than the risk of serious illness from the diseases they prevent.",
+      "index": 201,
+      "timestamp": "2024-11-11 22:59:21"
+    },
+    {
+      "text_input": "How does the FDA ensure the safety and effectiveness of vaccines?",
+      "output": "The FDA ensures the safety and effectiveness of vaccines by requiring manufacturers to conduct rigorous and extensive development programs, including clinical trials. The FDA approves or authorizes a vaccine only if it determines that the vaccine’s benefits outweigh its risks.",
+      "index": 201,
+      "timestamp": "2024-11-11 22:59:21"
+    },
+    {
+      "text_input": "What is the best resource for information about vaccines?",
+      "output": "A health care professional is the best resource for information about vaccines. They can provide information about the benefits and risks of vaccines, as well as the potential consequences of not vaccinating against diseases.",
+      "index": 201,
+      "timestamp": "2024-11-11 22:59:21"
+    }
+  ]
+}

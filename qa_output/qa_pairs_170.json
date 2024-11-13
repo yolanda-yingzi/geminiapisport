@@ -1,0 +1,25 @@
+{
+  "index": 170,
+  "timestamp": "2024-11-11 22:56:44",
+  "original_text": "Print and Share (PDF 3557 KB) Menopause (sometimes called “the change of life”) is a normal time in a woman’s life when her period stops. During menopause, a woman’s body makes less of the hormones es...",
+  "qa_pairs": [
+    {
+      "text_input": "What causes menopause?",
+      "output": "Menopause occurs when a woman's body produces less of the hormones estrogen and progesterone, leading to the end of her menstrual period.",
+      "index": 170,
+      "timestamp": "2024-11-11 22:56:44"
+    },
+    {
+      "text_input": "What are common symptoms of menopause?",
+      "output": "Common symptoms of menopause include night sweats, hot flashes, vaginal dryness, and thin bones.",
+      "index": 170,
+      "timestamp": "2024-11-11 22:56:44"
+    },
+    {
+      "text_input": "Who should not take hormone therapy for menopause?",
+      "output": "Individuals who have problems with vaginal bleeding, certain cancers (such as breast or uterine cancer), a history of blood clots, stroke, or heart attack, bleeding disorders, liver disease, or allergic reactions to hormone medicine should not take hormone therapy for menopause.",
+      "index": 170,
+      "timestamp": "2024-11-11 22:56:44"
+    }
+  ]
+}

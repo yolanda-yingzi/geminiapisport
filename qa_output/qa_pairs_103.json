@@ -1,0 +1,25 @@
+{
+  "index": 103,
+  "timestamp": "2024-11-11 22:51:19",
+  "original_text": "Print and Share (PDF 2837 KB) Diabetes can make it hard to control how much sugar (called glucose) is in your blood. There is hope! Some people with diabetes can take medicines to help keep their bloo...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some common side effects of taking diabetes medicines?",
+      "output": "Common side effects of diabetes medicines can include hypoglycemia (blood sugar that is too low), stomach pain, diarrhea, gas, abnormal liver tests, fluid retention, weight gain, heart failure, anemia, and upper respiratory tract infection.",
+      "index": 103,
+      "timestamp": "2024-11-11 22:51:19"
+    },
+    {
+      "text_input": "How do meglitinides work to treat diabetes?",
+      "output": "Meglitinides are a type of diabetes medicine that helps the body make more insulin around mealtime.",
+      "index": 103,
+      "timestamp": "2024-11-11 22:51:19"
+    },
+    {
+      "text_input": "What should I do if I am experiencing side effects from my diabetes medicine?",
+      "output": "If you are experiencing side effects from your diabetes medicine, you should talk to your healthcare provider. They may change your medicine or give you tips to help you deal with the side effects.",
+      "index": 103,
+      "timestamp": "2024-11-11 22:51:19"
+    }
+  ]
+}

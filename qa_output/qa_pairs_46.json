@@ -1,0 +1,25 @@
+{
+  "index": 46,
+  "timestamp": "2024-11-11 22:46:29",
+  "original_text": "UPDATE - May 3, 2023: The FDA published a new web page with details about over-the-counter (OTC) Hearing Aids: What You Should Know before and after buying an OTC hearing aid. Having trouble hearing? ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the difference between OTC hearing aids and prescription hearing aids?",
+      "output": "OTC hearing aids can be purchased without a medical exam or prescription, while prescription hearing aids require a prescription from a healthcare professional. Additionally, OTC hearing aids are intended for people with mild to moderate hearing loss, while prescription hearing aids can be used for any degree of hearing loss.",
+      "index": 46,
+      "timestamp": "2024-11-11 22:46:29"
+    },
+    {
+      "text_input": "Who is eligible to purchase OTC hearing aids?",
+      "output": "Individuals who are 18 years of age or older are eligible to purchase OTC hearing aids.",
+      "index": 46,
+      "timestamp": "2024-11-11 22:46:29"
+    },
+    {
+      "text_input": "What is the purpose of aural rehabilitation?",
+      "output": "Aural rehabilitation is a patient-centered approach that aims to reduce the impact of hearing loss on communication and improve the use of hearing aids. It helps individuals adjust to hearing loss and explores assistive listening devices to enhance communication.",
+      "index": 46,
+      "timestamp": "2024-11-11 22:46:29"
+    }
+  ]
+}

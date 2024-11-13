@@ -1,0 +1,25 @@
+{
+  "index": 92,
+  "timestamp": "2024-11-11 22:50:20",
+  "original_text": "Image FDA alerts consumers of potentially harmful over-the-counter (OTC) skin products containing hydroquinone or mercury. These products are not FDA approved for over-the-counter sale. Learn more and...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the two substances found in over-the-counter skin products that are not FDA-approved?",
+      "output": "Hydroquinone and mercury",
+      "index": 92,
+      "timestamp": "2024-11-11 22:50:20"
+    },
+    {
+      "text_input": "What is the name of the campaign launched by the FDA to educate consumers about the risks of unsafe skin products?",
+      "output": "Skin Facts!",
+      "index": 92,
+      "timestamp": "2024-11-11 22:50:20"
+    },
+    {
+      "text_input": "In what languages are the FDA's educational materials available?",
+      "output": "Multiple languages including Spanish, French, Haitian Creole, Hindi, Hmong, Chinese (Simplified and Traditional), and Arabic",
+      "index": 92,
+      "timestamp": "2024-11-11 22:50:20"
+    }
+  ]
+}

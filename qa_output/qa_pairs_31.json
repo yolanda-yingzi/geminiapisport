@@ -1,0 +1,25 @@
+{
+  "index": 31,
+  "timestamp": "2024-11-11 22:45:18",
+  "original_text": "Image Español The last time you scooped some ice cream for dessert, did you limit yourself to half a cup? If you took more—you’re right in step with most people these days. Likewise with a soft drink:...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of the updated Nutrition Facts label?",
+      "output": "To bring serving sizes closer to what people actually eat so that the calories and nutrients on the label more closely match what they are consuming.",
+      "index": 31,
+      "timestamp": "2024-11-11 22:45:18"
+    },
+    {
+      "text_input": "Why did the FDA change the criteria for labeling based on package size?",
+      "output": "Because people are more likely to eat or drink the entire container or item in one sitting.",
+      "index": 31,
+      "timestamp": "2024-11-11 22:45:18"
+    },
+    {
+      "text_input": "Are manufacturers required to provide the calorie and nutrient information per serving for packages that are clearly larger than most people would eat in one sitting?",
+      "output": "No, manufacturers are only required in these cases to label these products per serving.",
+      "index": 31,
+      "timestamp": "2024-11-11 22:45:18"
+    }
+  ]
+}

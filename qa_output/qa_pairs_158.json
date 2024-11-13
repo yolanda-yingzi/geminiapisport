@@ -1,0 +1,25 @@
+{
+  "index": 158,
+  "timestamp": "2024-11-11 22:55:45",
+  "original_text": "On this page Who is the audience for this webpage? What types of patient labeling are available in the United States? What are Medication Guides? What are Patient Package Inserts? What are Instruction...",
+  "qa_pairs": [
+    {
+      "text_input": "Who is the primary audience for the webpage?",
+      "output": "FDA’s patient labeling specific resources on this webpage are primarily directed to industry staff who develop patient labeling for prescription drugs.",
+      "index": 158,
+      "timestamp": "2024-11-11 22:55:45"
+    },
+    {
+      "text_input": "What is the difference between a Medication Guide and a Patient Package Insert?",
+      "output": "Medication Guides are required for certain prescription drugs when the FDA determines that patient labeling could help prevent serious adverse reactions, the drug has serious risk(s) (relative to benefits) of which patients should be made aware, or patient adherence to directions for use is crucial to the drug’s effectiveness. PPIs are part of the FDA-approved prescription drug labeling for oral contraceptives and estrogen-containing products, and are required to be dispensed with each prescription. Manufacturers may voluntarily submit PPIs for other prescription drugs for FDA approval, but their distribution is not mandated.",
+      "index": 158,
+      "timestamp": "2024-11-11 22:55:45"
+    },
+    {
+      "text_input": "Is consumer medication information (CMI) reviewed or approved by the FDA?",
+      "output": "FDA does not review or approve CMI, and the drug company does not review CMI.",
+      "index": 158,
+      "timestamp": "2024-11-11 22:55:45"
+    }
+  ]
+}

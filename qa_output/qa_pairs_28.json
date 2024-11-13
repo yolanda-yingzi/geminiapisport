@@ -1,0 +1,25 @@
+{
+  "index": 28,
+  "timestamp": "2024-11-11 22:45:03",
+  "original_text": "Download the Booklet in English Download the Booklet in Spanish (En Español) Food safety is important for everyone – but it’s extremely important for individuals with a weakened immune system, which m...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the primary role of the immune system?",
+      "output": "The immune system protects the body against infectious organisms and other invaders by responding to fight them off.",
+      "index": 28,
+      "timestamp": "2024-11-11 22:45:03"
+    },
+    {
+      "text_input": "Why are people with weakened immune systems more susceptible to foodborne illness?",
+      "output": "People with weakened immune systems have a higher risk for food poisoning because their immune systems may not be able to effectively fight off the bacteria, viruses, or parasites that cause foodborne illness.",
+      "index": 28,
+      "timestamp": "2024-11-11 22:45:03"
+    },
+    {
+      "text_input": "How does cancer weaken the immune system?",
+      "output": "Cancer can weaken the immune system if it spreads into the bone marrow or as a side effect of cancer treatments such as radiation, chemotherapy, and/or medications.",
+      "index": 28,
+      "timestamp": "2024-11-11 22:45:03"
+    }
+  ]
+}

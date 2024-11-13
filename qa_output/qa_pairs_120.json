@@ -1,0 +1,25 @@
+{
+  "index": 120,
+  "timestamp": "2024-11-11 22:52:39",
+  "original_text": "You can walk into any pharmacy, grocery or convenience store and buy aspirin without a prescription. The Drug Facts label on medication products, will help you choose aspirin for relieving headache, p...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the potential risks of long-term aspirin use?",
+      "output": "The risks of long-term aspirin use may be greater than the benefits if there are no signs of, or risk factors for heart or blood vessel disease.",
+      "index": 120,
+      "timestamp": "2024-11-11 22:52:39"
+    },
+    {
+      "text_input": "How can I increase the chance of getting the good effects and decrease the chance of getting the bad effects of aspirin?",
+      "output": "You can increase the chance of getting the good effects and decrease the chance of getting the bad effects of any medicine by choosing and using it wisely. When it comes to using aspirin to lower the risk of heart attack and stroke, choosing and using wisely means: Know the facts and work with your health professional.",
+      "index": 120,
+      "timestamp": "2024-11-11 22:52:39"
+    },
+    {
+      "text_input": "What should I tell my health professional before they decide if daily aspirin use is right for me?",
+      "output": "Make sure to tell your health professional all the medicines (prescription and over-the-counter) and dietary supplements, including vitamins and herbals, that you use — even if only occasionally.",
+      "index": 120,
+      "timestamp": "2024-11-11 22:52:39"
+    }
+  ]
+}

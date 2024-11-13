@@ -1,0 +1,25 @@
+{
+  "index": 181,
+  "timestamp": "2024-11-11 22:57:39",
+  "original_text": "FDA sometimes receives questions about the safe use of cosmetics during pregnancy. If you are pregnant and have concerns about cosmetic products or ingredients, On This Page: What the Law Says About C...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the FDA's stance on cosmetic safety during pregnancy?",
+      "output": "The FDA recommends caution when using cosmetics during pregnancy and advises consulting with a healthcare professional for guidance.",
+      "index": 181,
+      "timestamp": "2024-11-11 22:57:39"
+    },
+    {
+      "text_input": "How does the FDA monitor cosmetic safety?",
+      "output": "The FDA monitors cosmetic safety by reviewing reports of adverse reactions, conducting inspections, and collaborating with industry and other regulatory agencies.",
+      "index": 181,
+      "timestamp": "2024-11-11 22:57:39"
+    },
+    {
+      "text_input": "What types of products are not considered cosmetics under FDA regulations?",
+      "output": "Products intended to affect body structure or function, treat or prevent disease, or even those that affect appearance, such as stretch mark treatments and sunscreens, are regulated as drugs or both cosmetics and drugs.",
+      "index": 181,
+      "timestamp": "2024-11-11 22:57:39"
+    }
+  ]
+}

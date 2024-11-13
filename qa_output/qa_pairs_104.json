@@ -1,0 +1,25 @@
+{
+  "index": 104,
+  "timestamp": "2024-11-11 22:51:24",
+  "original_text": "Print and Share, PDF 3398KB) Insulin Safety Tips My Insulin Guide Types of Insulin Insulin Devices Insulin helps to take the sugar in your blood to other parts of your body. Diabetes affects how your ...",
+  "qa_pairs": [
+    {
+      "text_input": "When should I check my blood sugar?",
+      "output": "Your healthcare provider will determine when you should check your blood sugar based on your individual needs.",
+      "index": 104,
+      "timestamp": "2024-11-11 22:51:24"
+    },
+    {
+      "text_input": "What are the side effects of insulin?",
+      "output": "Side effects may vary depending on the type of insulin you are taking. Talk to your healthcare provider about potential side effects and how to manage them.",
+      "index": 104,
+      "timestamp": "2024-11-11 22:51:24"
+    },
+    {
+      "text_input": "How often should I inject insulin?",
+      "output": "The frequency of insulin injections varies depending on the type of insulin you are using, your diet, activity level, and other health conditions. Your healthcare provider will determine the optimal injection schedule for you.",
+      "index": 104,
+      "timestamp": "2024-11-11 22:51:24"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 69,
+  "timestamp": "2024-11-11 22:48:25",
+  "original_text": "En Español (Spanish) In 2016, the U.S. Food and Drug Administration (FDA) updated requirements for the Nutrition Facts label on packaged foods and drinks. FDA required changes to the Nutrition Facts l...",
+  "qa_pairs": [
+    {
+      "text_input": "What year did the FDA update the Nutrition Facts label?",
+      "output": "2016",
+      "index": 69,
+      "timestamp": "2024-11-11 22:48:25"
+    },
+    {
+      "text_input": "What is the name of the FDA's education campaign about the Nutrition Facts label?",
+      "output": "The New Nutrition Facts Label: What's in it for You?",
+      "index": 69,
+      "timestamp": "2024-11-11 22:48:25"
+    },
+    {
+      "text_input": "What is the goal of the Nutrition Innovation Strategy?",
+      "output": "To reduce preventable death and disease related to poor nutrition",
+      "index": 69,
+      "timestamp": "2024-11-11 22:48:25"
+    }
+  ]
+}

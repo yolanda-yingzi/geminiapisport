@@ -1,0 +1,25 @@
+{
+  "index": 56,
+  "timestamp": "2024-11-11 22:47:18",
+  "original_text": "Image Imprimir y Compartir (PDF 4,626KB) En inglés ¿Qué es la ansiedad? La ansiedad es un sentimiento de preocupación, nerviosismo o miedo ante un acontecimiento o una situación. Es una reacción norma...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Qué es la ansiedad?",
+      "output": "Es un sentimiento natural de preocupación, nerviosismo o miedo ante eventos o situaciones.",
+      "index": 56,
+      "timestamp": "2024-11-11 22:47:18"
+    },
+    {
+      "text_input": "¿Cuáles son los principales tipos de trastornos de ansiedad?",
+      "output": "- Trastorno de ansiedad generalizada (GAD)\n- Trastorno de pánico\n- Fobias",
+      "index": 56,
+      "timestamp": "2024-11-11 22:47:18"
+    },
+    {
+      "text_input": "¿Qué opciones de tratamiento existen para la ansiedad?",
+      "output": "- Asesoramiento (psicoterapia o terapia de conversación)\n- Medicamentos (antidepresivos, ansiolíticos y betabloqueantes)",
+      "index": 56,
+      "timestamp": "2024-11-11 22:47:18"
+    }
+  ]
+}

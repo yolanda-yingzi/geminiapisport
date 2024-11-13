@@ -1,0 +1,25 @@
+{
+  "index": 90,
+  "timestamp": "2024-11-11 22:50:10",
+  "original_text": "Print & Share (PDF) La gente usa cosméticos para realzar su belleza. Estos productos incluyen desde pintura de labios y base para la cara, hasta desodorante, pasta dental y aerosol para el cabello. En...",
+  "qa_pairs": [
+    {
+      "text_input": "En qué forma me protege la ley de los cosméticos?",
+      "output": "La ley exige que los cosméticos se fabriquen y envasen en plantas limpias, no contengan ingredientes tóxicos o dañinos, solo contengan colorantes aprobados por la FDA y tengan etiquetas claras con información precisa.",
+      "index": 90,
+      "timestamp": "2024-11-11 22:50:10"
+    },
+    {
+      "text_input": "Hace la FDA pruebas de los cosméticos antes de que salgan al mercado?",
+      "output": "No, la FDA no prueba los cosméticos antes de su comercialización. Las empresas fabricantes deben garantizar la seguridad de los productos y de los ingredientes antes de venderlos.",
+      "index": 90,
+      "timestamp": "2024-11-11 22:50:10"
+    },
+    {
+      "text_input": "Puedo ser alérgico a los ingredientes de los cosméticos?",
+      "output": "Sí, algunas personas pueden experimentar picazón, irritación, erupciones, estornudos o sibilancias en respuesta a ciertos ingredientes de los cosméticos.",
+      "index": 90,
+      "timestamp": "2024-11-11 22:50:10"
+    }
+  ]
+}

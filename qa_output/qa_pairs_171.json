@@ -1,0 +1,25 @@
+{
+  "index": 171,
+  "timestamp": "2024-11-11 22:56:49",
+  "original_text": "Image National Women’s Health Week (NWHW) is an annual observance to remind women to prioritize their health and well-being. Each NWHW, FDA Office of Women’s Health (OWH) celebrates women and their he...",
+  "qa_pairs": [
+    {
+      "text_input": "Why are women at higher risk of developing osteoporosis?",
+      "output": "Women are more likely to get osteoporosis because of hormonal changes, body size, and aging.",
+      "index": 171,
+      "timestamp": "2024-11-11 22:56:49"
+    },
+    {
+      "text_input": "What are some tips for maintaining strong bones?",
+      "output": "Eat a balanced diet, get enough calcium and vitamin D in your diet, stay physically active, engage in weight bearing exercise like walking, and avoid smoking and excessive alcohol use.",
+      "index": 171,
+      "timestamp": "2024-11-11 22:56:49"
+    },
+    {
+      "text_input": "When should women get osteoporosis screening?",
+      "output": "Health care providers may recommend osteoporosis screening for women aged 65 and older, or earlier for women with specific risk factors.",
+      "index": 171,
+      "timestamp": "2024-11-11 22:56:49"
+    }
+  ]
+}

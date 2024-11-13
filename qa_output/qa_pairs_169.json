@@ -1,0 +1,25 @@
+{
+  "index": 169,
+  "timestamp": "2024-11-11 22:56:39",
+  "original_text": "Español 药物安全通讯 Drug Safety Podcast 09-12-2024 FDA Drug Safety Communication Drug Safety Communication (PDF - 189 KB) What safety concern is FDA announcing? The U.S. Food and Drug Administration (FDA) ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the safety concern being announced by the FDA?",
+      "output": "The safety concern being announced by the FDA is that Veozah (fezolinetant) can cause rare but serious liver injury.",
+      "index": 169,
+      "timestamp": "2024-11-11 22:56:39"
+    },
+    {
+      "text_input": "What actions is the FDA taking?",
+      "output": "The FDA is adding a warning about the risk of liver injury to the existing warning about elevated liver blood test values and requiring liver blood testing in the prescribing information for Veozah.",
+      "index": 169,
+      "timestamp": "2024-11-11 22:56:39"
+    },
+    {
+      "text_input": "How can I report liver injury to the FDA?",
+      "output": "You can report liver injury to the FDA by submitting a MedWatch form online or by fax to 1-800-FDA-0178.",
+      "index": 169,
+      "timestamp": "2024-11-11 22:56:39"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 37,
+  "timestamp": "2024-11-11 22:45:44",
+  "original_text": "Make sure the site requires a prescription and has a pharmacist available for questions. Buy only from licensed pharmacies located in the United States. BeSafeRx: Know Your Online Pharmacy has more in...",
+  "qa_pairs": [
+    {
+      "text_input": "What factors should I consider when buying medicines online?",
+      "output": "Buy only from licensed pharmacies located in the United States that require a prescription and have a pharmacist available for questions.",
+      "index": 37,
+      "timestamp": "2024-11-11 22:45:44"
+    },
+    {
+      "text_input": "How can I protect my personal information when buying medicines online?",
+      "output": "Don't provide personal information such as credit card numbers unless you are sure the site will protect them.",
+      "index": 37,
+      "timestamp": "2024-11-11 22:45:44"
+    },
+    {
+      "text_input": "Where can I find more information about finding safe and legal online pharmacies?",
+      "output": "BeSafeRx: Know Your Online Pharmacy has more information about finding safe and legal online pharmacies.",
+      "index": 37,
+      "timestamp": "2024-11-11 22:45:44"
+    }
+  ]
+}

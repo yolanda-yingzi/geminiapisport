@@ -1,0 +1,25 @@
+{
+  "index": 145,
+  "timestamp": "2024-11-11 22:54:44",
+  "original_text": "The following Q&As provide information for consumers about Digital Mammography. Frequently Asked Questions: What is digital mammography? What is DBT? How can women find an FDA-certified digital mammog...",
+  "qa_pairs": [
+    {
+      "text_input": "What is digital mammography?",
+      "output": "Digital mammography is a mammography system where the X-ray film is replaced by solid-state detectors that convert X-rays into electrical signals used to produce breast images viewable on a computer screen or printed on special films.",
+      "index": 145,
+      "timestamp": "2024-11-11 22:54:44"
+    },
+    {
+      "text_input": "What is digital breast tomosynthesis (DBT)?",
+      "output": "DBT involves moving the X-ray tube in an arc around the breast to capture multiple images from different angles, allowing physicians to see through layers of overlapping tissue.",
+      "index": 145,
+      "timestamp": "2024-11-11 22:54:44"
+    },
+    {
+      "text_input": "How can women find an FDA-certified digital mammography facility?",
+      "output": "A list of certified facilities searchable by state or ZIP code can be found at https://www.fda.gov/radiation-emitting-products/mammography-quality-standards-act-mqsa/find-certified-mammography-facility",
+      "index": 145,
+      "timestamp": "2024-11-11 22:54:44"
+    }
+  ]
+}

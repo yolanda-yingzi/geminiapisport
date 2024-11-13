@@ -1,0 +1,25 @@
+{
+  "index": 19,
+  "timestamp": "2024-11-11 22:44:19",
+  "original_text": "Image On this page: Tips to help you learn more about how medicines might affect you and your baby Ask questions Read the label Be smart online Report problems What products are regulated by FDA Types...",
+  "qa_pairs": [
+    {
+      "text_input": "Is it safe to take medicines during pregnancy?",
+      "output": "Many medicines are safe to use during pregnancy, but some may have risks. It's important to talk to a healthcare provider before taking any medications.",
+      "index": 19,
+      "timestamp": "2024-11-11 22:44:19"
+    },
+    {
+      "text_input": "What are some things I should consider when taking medicines during pregnancy?",
+      "output": "You should talk to your healthcare provider about how the medicine might affect your pregnancy, whether you need to adjust your dosage, and whether the medicine is safe to take while breastfeeding.",
+      "index": 19,
+      "timestamp": "2024-11-11 22:44:19"
+    },
+    {
+      "text_input": "How can I learn more about the risks of taking medicines during pregnancy?",
+      "output": "You can check the medicine label, talk to your healthcare provider, check the FDA website for information on specific medicines, or use the FDA MedWatch program to report any problems.",
+      "index": 19,
+      "timestamp": "2024-11-11 22:44:19"
+    }
+  ]
+}

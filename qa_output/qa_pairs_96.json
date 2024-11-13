@@ -1,0 +1,25 @@
+{
+  "index": 96,
+  "timestamp": "2024-11-11 22:50:40",
+  "original_text": "Image Pregnant Patients Health Professionals Find a Pregnancy Exposure Registry Medicine and Pregnancy Are you pregnant and taking medicines? You are not alone. There are about 6 million pregnancies i...",
+  "qa_pairs": [
+    {
+      "text_input": "What are pregnancy exposure registries?",
+      "output": "Pregnancy exposure registries are research studies that collect information about the effect that prescription medicines or vaccines received during pregnancy may have on the mother and developing fetus.",
+      "index": 96,
+      "timestamp": "2024-11-11 22:50:40"
+    },
+    {
+      "text_input": "Who can participate in a pregnancy exposure registry?",
+      "output": "Anyone who is pregnant and who is taking or has taken a certain medicine or received a certain vaccine while pregnant may be eligible to participate in a pregnancy exposure registry.",
+      "index": 96,
+      "timestamp": "2024-11-11 22:50:40"
+    },
+    {
+      "text_input": "What is the purpose of a pregnancy exposure registry?",
+      "output": "The information collected by pregnancy exposure registries can help health care providers and others who are pregnant to learn more about the safety of medicines and vaccines used during pregnancy.",
+      "index": 96,
+      "timestamp": "2024-11-11 22:50:40"
+    }
+  ]
+}

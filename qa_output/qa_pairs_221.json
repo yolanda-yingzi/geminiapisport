@@ -1,0 +1,25 @@
+{
+  "index": 221,
+  "timestamp": "2024-11-11 23:00:59",
+  "original_text": "Medical imaging refers to several different technologies that are used to view the human body in order to diagnose, monitor, or treat medical conditions. Each type of technology gives different inform...",
+  "qa_pairs": [
+    {
+      "text_input": "What is medical imaging used for?",
+      "output": "Medical imaging is used to diagnose, monitor, or treat medical conditions by providing information about the area of the body being studied or treated.",
+      "index": 221,
+      "timestamp": "2024-11-11 23:00:59"
+    },
+    {
+      "text_input": "What are some types of medical imaging technologies?",
+      "output": "Ultrasound Imaging, MRI (Magnetic Resonance Imaging), X-ray Imaging, Computed Tomography (CT), Fluoroscopy, Mammography, and Dental Cone-beam Computed Tomography are some types of medical imaging technologies.",
+      "index": 221,
+      "timestamp": "2024-11-11 23:00:59"
+    },
+    {
+      "text_input": "What is the purpose of X-ray imaging?",
+      "output": "X-ray imaging is used to create images of the inside of the body to diagnose and monitor medical conditions.",
+      "index": 221,
+      "timestamp": "2024-11-11 23:00:59"
+    }
+  ]
+}

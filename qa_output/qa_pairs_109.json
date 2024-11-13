@@ -1,0 +1,25 @@
+{
+  "index": 109,
+  "timestamp": "2024-11-11 22:51:50",
+  "original_text": "Image Fact Sheet: Download and Share Brochure: Download and Share Infographics: Download and Share Notecard: Download and Share En Español Additional Languages Diabetes is a disease that happens when ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is diabetes?",
+      "output": "Diabetes occurs when glucose levels in your blood (blood sugar) are excessively high. Insulin, a hormone produced by the pancreas, assists in transporting sugar from your blood into your cells for energy. Your body either does not produce or utilize insulin effectively if you have diabetes.",
+      "index": 109,
+      "timestamp": "2024-11-11 22:51:50"
+    },
+    {
+      "text_input": "What are the types of diabetes?",
+      "output": "There are two primary types of diabetes: type 1 and type 2. Type 1 diabetes occurs when your body does not produce insulin since your immune system attacks and destroys the insulin-producing cells. Type 2 diabetes occurs when your body does not produce or utilize insulin effectively, and it is frequently diagnosed in adults.",
+      "index": 109,
+      "timestamp": "2024-11-11 22:51:50"
+    },
+    {
+      "text_input": "Who is mostly affected by diabetes?",
+      "output": "Diabetes has a significant impact on racial and ethnic minorities, as well as other diverse groups. For example, the likelihood of being diagnosed with type 2 diabetes is almost three times higher for American Indian/Alaska Native adults than for non-Hispanic white adults.",
+      "index": 109,
+      "timestamp": "2024-11-11 22:51:50"
+    }
+  ]
+}

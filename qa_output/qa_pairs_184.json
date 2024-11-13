@@ -1,0 +1,25 @@
+{
+  "index": 184,
+  "timestamp": "2024-11-11 22:57:56",
+  "original_text": "On this page Who is the audience for this webpage? What types of patient labeling are available in the United States? What are Medication Guides? What are Patient Package Inserts? What are Instruction...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of a Medication Guide?",
+      "output": "A Medication Guide provides patients with important information about a prescription drug's risks and benefits, helping them make informed decisions about using the medication.",
+      "index": 184,
+      "timestamp": "2024-11-11 22:57:56"
+    },
+    {
+      "text_input": "What is the difference between a PPI and an IFU?",
+      "output": "A PPI (Patient Package Insert) is patient labeling that provides general information about a prescription drug, while an IFU (Instructions for Use) provides detailed, step-by-step instructions for using a prescription drug that requires complicated or detailed usage.",
+      "index": 184,
+      "timestamp": "2024-11-11 22:57:56"
+    },
+    {
+      "text_input": "Is Patient Medication Information (PMI) reviewed or approved by the FDA?",
+      "output": "No, PMI (Patient Medication Information) is not reviewed or approved by the FDA. It is written information about a prescription drug developed by an individual or organization other than the drug company.",
+      "index": 184,
+      "timestamp": "2024-11-11 22:57:56"
+    }
+  ]
+}

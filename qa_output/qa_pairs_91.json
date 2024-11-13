@@ -1,0 +1,25 @@
+{
+  "index": 91,
+  "timestamp": "2024-11-11 22:50:15",
+  "original_text": "Image The FDA’s Skin Facts! Initiative alerts consumers of potentially harmful over-the-counter (OTC) skin products containing hydroquinone or mercury. These products are sometimes OMHHE created the S...",
+  "qa_pairs": [
+    {
+      "text_input": "What does the FDA's Skin Facts! Initiative aim to achieve?",
+      "output": "The FDA's Skin Facts! Initiative aims to educate consumers about the potential risks of over-the-counter (OTC) skin products containing hydroquinone or mercury and to help them identify harmful ingredients.",
+      "index": 91,
+      "timestamp": "2024-11-11 22:50:15"
+    },
+    {
+      "text_input": "Is the Skin Facts! Initiative only available for educational purposes?",
+      "output": "The text does not specify whether the Skin Facts! Initiative is solely for educational purposes.",
+      "index": 91,
+      "timestamp": "2024-11-11 22:50:15"
+    },
+    {
+      "text_input": "How does the Skin Facts! Initiative help consumers?",
+      "output": "The Skin Facts! Initiative provides educational materials and other communications to help consumers understand the potential risks of using products containing hydroquinone or mercury and to identify whether their skin products contain these harmful ingredients.",
+      "index": 91,
+      "timestamp": "2024-11-11 22:50:15"
+    }
+  ]
+}

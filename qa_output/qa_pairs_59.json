@@ -1,0 +1,25 @@
+{
+  "index": 59,
+  "timestamp": "2024-11-11 22:47:34",
+  "original_text": "Descarga e imprime la Tabla de Control de Natalidad (PDF, 652 KB) English Esta página no debe usarse en lugar de hablar con su proveedor de atención médica y leer la etiqueta de su producto. Esta pági...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the different types of birth control?",
+      "output": "There are many different types of birth control, including permanent sterilization, long-acting reversible contraceptives (LARCs), birth control shots, short-acting hormonal contraceptives, birth control apps, barrier contraceptives, and emergency contraceptives.",
+      "index": 59,
+      "timestamp": "2024-11-11 22:47:34"
+    },
+    {
+      "text_input": "What is the most effective method of birth control?",
+      "output": "The most effective method of birth control is permanent sterilization, which has a pregnancy rate of less than 1%.",
+      "index": 59,
+      "timestamp": "2024-11-11 22:47:34"
+    },
+    {
+      "text_input": "What factors should I consider when choosing a birth control method?",
+      "output": "There are several factors to consider when choosing a birth control method, including your health, whether you want to have children in the future, how often you have sex, how many sexual partners you have, and whether you need a prescription or can buy the contraceptive over-the-counter.",
+      "index": 59,
+      "timestamp": "2024-11-11 22:47:34"
+    }
+  ]
+}

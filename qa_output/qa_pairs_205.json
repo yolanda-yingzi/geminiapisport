@@ -1,0 +1,25 @@
+{
+  "index": 205,
+  "timestamp": "2024-11-11 22:59:39",
+  "original_text": "July 23, 2012 Expecting a baby can be a very exciting time for soon-to-be-parents. It can also be very confusing, with many decisions to make. One choice prospective parents often face is whether to d...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of HLA typing?",
+      "output": "HLA typing matches patients and cord blood donors to reduce the risk of immune rejection after transplantation.",
+      "index": 205,
+      "timestamp": "2024-11-11 22:59:39"
+    },
+    {
+      "text_input": "What is a unique feature of cord blood HPCs?",
+      "output": "Cord blood HPCs may require a less exact match than HPCs from other sources, potentially reducing the risk of adverse reactions after transplantation.",
+      "index": 205,
+      "timestamp": "2024-11-11 22:59:39"
+    },
+    {
+      "text_input": "How does FDA regulate cord blood intended for public use?",
+      "output": "Cord blood stored for public use is regulated as a drug or biological product and requires a biologics license application (BLA) or investigational new drug application (IND) before use.",
+      "index": 205,
+      "timestamp": "2024-11-11 22:59:39"
+    }
+  ]
+}

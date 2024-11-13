@@ -1,0 +1,25 @@
+{
+  "index": 112,
+  "timestamp": "2024-11-11 22:52:05",
+  "original_text": "MedWatch, the FDA’s medical product safety reporting program for health professionals, patients and consumers. Report a Problem Safety Information Stay Informed MedWatch receives reports from the publ...",
+  "qa_pairs": [
+    {
+      "text_input": "What types of products does MedWatch receive reports for?",
+      "output": "Prescription and over-the-counter medicines, biologics, medical devices, combination products, special nutritional products, cosmetics, food, tobacco products, vaccines, and animal drug, device, pet food and livestock feed.",
+      "index": 112,
+      "timestamp": "2024-11-11 22:52:05"
+    },
+    {
+      "text_input": "What is the recommended method for reporting concerns about tobacco products, vaccines, and animal drug, device, pet food and livestock feed?",
+      "output": "Submit reports directly to the appropriate portals.",
+      "index": 112,
+      "timestamp": "2024-11-11 22:52:05"
+    },
+    {
+      "text_input": "What is the purpose of MedWatch?",
+      "output": "To collect and publish safety alerts for FDA-regulated products.",
+      "index": 112,
+      "timestamp": "2024-11-11 22:52:05"
+    }
+  ]
+}

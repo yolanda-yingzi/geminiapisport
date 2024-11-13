@@ -1,0 +1,25 @@
+{
+  "index": 190,
+  "timestamp": "2024-11-11 22:58:26",
+  "original_text": "The benefits of breastfeeding are well established, and breastfeeding is strongly recommended by healthcare professionals and the U.S. Department of Health and Human Services. Information on breastfee...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some of the benefits of breastfeeding?",
+      "output": "Breastfeeding provides numerous well-established benefits, as recommended by healthcare professionals and the U.S. Department of Health and Human Services.",
+      "index": 190,
+      "timestamp": "2024-11-11 22:58:26"
+    },
+    {
+      "text_input": "When should I consider using alternative sources of human breast milk?",
+      "output": "In certain situations, parents may explore alternative sources of human breast milk to feed their babies, but only after consulting with a healthcare provider.",
+      "index": 190,
+      "timestamp": "2024-11-11 22:58:26"
+    },
+    {
+      "text_input": "What are the potential safety risks associated with using human milk from a source other than the baby's mother?",
+      "output": "Using human milk from an alternate source poses potential health and safety risks for the baby, including exposure to infectious diseases, chemical contaminants, and improper handling or storage.",
+      "index": 190,
+      "timestamp": "2024-11-11 22:58:26"
+    }
+  ]
+}

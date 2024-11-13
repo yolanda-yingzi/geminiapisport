@@ -1,0 +1,25 @@
+{
+  "index": 173,
+  "timestamp": "2024-11-11 22:56:58",
+  "original_text": "For Immediate Release: April 09, 2019 Español The U.S. Food and Drug Administration today approved Evenity (romosozumab-aqqg) to treat osteoporosis in postmenopausal women at high risk of breaking a b...",
+  "qa_pairs": [
+    {
+      "text_input": "What is Evenity used to treat?",
+      "output": "Evenity is used to treat osteoporosis in postmenopausal women who have a high risk of bone fracture.",
+      "index": 173,
+      "timestamp": "2024-11-11 22:56:58"
+    },
+    {
+      "text_input": "What are the potential side effects of Evenity?",
+      "output": "Common side effects of Evenity include joint pain, headache, and injection site reactions.",
+      "index": 173,
+      "timestamp": "2024-11-11 22:56:58"
+    },
+    {
+      "text_input": "Can Evenity increase the risk of heart attack or stroke?",
+      "output": "Yes, Evenity has been associated with an increased risk of cardiovascular death, heart attack, and stroke, particularly in those with pre-existing heart disease risk factors.",
+      "index": 173,
+      "timestamp": "2024-11-11 22:56:58"
+    }
+  ]
+}

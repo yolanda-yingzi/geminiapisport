@@ -1,0 +1,25 @@
+{
+  "index": 12,
+  "timestamp": "2024-11-11 22:43:44",
+  "original_text": "Image Download English PDF (2.13 MB) En Español On this page: 4 basic steps for food safety Think you have a food illness? Who is at risk? Download Food Safety at Home fact sheet in other languages Ea...",
+  "qa_pairs": [
+    {
+      "text_input": "What are the four basic steps for food safety?",
+      "output": "The four basic steps for food safety are: 1) Clean, 2) Separate, 3) Cook, and 4) Chill.",
+      "index": 12,
+      "timestamp": "2024-11-11 22:43:44"
+    },
+    {
+      "text_input": "Who is more likely to get sick from eating spoiled food?",
+      "output": "The people who are more likely to get sick from eating spoiled food are pregnant women, older adults, and people with certain health conditions such as cancer, HIV/AIDS, diabetes, and kidney disease.",
+      "index": 12,
+      "timestamp": "2024-11-11 22:43:44"
+    },
+    {
+      "text_input": "How long is food safe to be out of the fridge?",
+      "output": "According to the 2-Hour Rule, food should be put in the fridge or freezer within 2 hours after cooking or buying from the store. Within 1 hour if outside temp is 90 degrees or hotter.",
+      "index": 12,
+      "timestamp": "2024-11-11 22:43:44"
+    }
+  ]
+}

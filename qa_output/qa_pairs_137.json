@@ -1,0 +1,25 @@
+{
+  "index": 137,
+  "timestamp": "2024-11-11 22:54:01",
+  "original_text": "For Immediate Release: July 07, 2016 Español The U.S. Food and Drug Administration today approved the Roche cobas HPV Test as the first test for Human Papilloma Virus (HPV) that can be used with cervi...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the approved use for the Roche cobas HPV Test?",
+      "output": "The Roche cobas HPV Test is approved for use with cervical cell samples obtained for a Pap test to screen women age 30 and older for HPV in order to determine whether additional follow-up and diagnostic procedures are needed. It is also approved for women age 21 and older who have already had an abnormal Pap test result (borderline cellular cytology) in order to determine whether additional follow-up and diagnostic procedures are needed.",
+      "index": 137,
+      "timestamp": "2024-11-11 22:54:01"
+    },
+    {
+      "text_input": "Why was the use of other HPV tests with SurePath Preservative Fluid a concern?",
+      "output": "Prior to the FDA's approval of the Roche cobas HPV Test, the manufacturer of SurePath Preservative Fluid warned laboratories that using cervical cell samples in their product with a specific HPV test may lead to false negative results.",
+      "index": 137,
+      "timestamp": "2024-11-11 22:54:01"
+    },
+    {
+      "text_input": "What is the benefit of the Roche cobas HPV Test with SurePath Preservative Fluid over previous tests?",
+      "output": "The Roche cobas HPV Test with SurePath Preservative Fluid provides specific instructions for laboratories to process cervical samples collected in SurePath Preservative Fluid to minimize the risk of false negative results.",
+      "index": 137,
+      "timestamp": "2024-11-11 22:54:01"
+    }
+  ]
+}

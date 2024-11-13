@@ -1,0 +1,25 @@
+{
+  "index": 16,
+  "timestamp": "2024-11-11 22:44:04",
+  "original_text": "Image Download English PDF (2.35 MB) En Español HPV (human papillomavirus) is a sexually transmitted virus. It is passed on through genital contact (such as vaginal and anal sex). It is also passed on...",
+  "qa_pairs": [
+    {
+      "text_input": "Who is at a higher risk of getting HPV?",
+      "output": "Individuals who engage in sexual activity at a young age, have numerous sexual partners, or have a partner with multiple sexual partners are more susceptible to acquiring HPV.",
+      "index": 16,
+      "timestamp": "2024-11-11 22:44:04"
+    },
+    {
+      "text_input": "What is the benefit of getting the HPV test?",
+      "output": "The HPV test screens for strains of HPV that may lead to cervical cancer. It can detect HPV even before cervical abnormalities develop. Note that women who undergo the HPV test still require regular Pap tests.",
+      "index": 16,
+      "timestamp": "2024-11-11 22:44:04"
+    },
+    {
+      "text_input": "Is there a definitive cure for HPV?",
+      "output": "While there is currently no cure for the HPV virus itself, treatments are available for the health issues it may cause, such as genital warts, cervical changes, and cervical cancer.",
+      "index": 16,
+      "timestamp": "2024-11-11 22:44:04"
+    }
+  ]
+}

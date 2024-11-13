@@ -1,0 +1,25 @@
+{
+  "index": 193,
+  "timestamp": "2024-11-11 22:58:41",
+  "original_text": "Download in PDF (1 MB) en español (Spanish) | العربية (Arabic) | دری (Dari) | नेपाली (Nepali) | Soomaali (Somali) | မြန်မာ (Burmese) Experts strongly recommend breastfeeding for infants. If that isn’t...",
+  "qa_pairs": [
+    {
+      "text_input": "Is it recommended to breastfeed infants?",
+      "output": "Yes, experts strongly recommend breastfeeding for infants.",
+      "index": 193,
+      "timestamp": "2024-11-11 22:58:41"
+    },
+    {
+      "text_input": "What organization oversees infant formula manufacturers in the United States?",
+      "output": "The U.S. Food and Drug Administration (FDA).",
+      "index": 193,
+      "timestamp": "2024-11-11 22:58:41"
+    },
+    {
+      "text_input": "Can Cronobacter be found in powdered infant formula?",
+      "output": "Yes, Cronobacter can live in powdered infant formula.",
+      "index": 193,
+      "timestamp": "2024-11-11 22:58:41"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 54,
+  "timestamp": "2024-11-11 22:47:09",
+  "original_text": "OWH offers easy-to-read publications on a variety of health topics. Download or order free copies in English and Spanish, and download select materials in additional languages. Sub-Topic Paragraphs FR...",
+  "qa_pairs": [
+    {
+      "text_input": "How can I access women's health publications offered by OWH?",
+      "output": "You can download or order free easy-to-read copies of women's health publications in English and Spanish from the OWH website.",
+      "index": 54,
+      "timestamp": "2024-11-11 22:47:09"
+    },
+    {
+      "text_input": "In what languages are OWH's women's health materials available?",
+      "output": "OWH's women's health materials are available in English, Spanish, and select other languages.",
+      "index": 54,
+      "timestamp": "2024-11-11 22:47:09"
+    },
+    {
+      "text_input": "How can I stay up-to-date on women's health news and alerts from OWH?",
+      "output": "You can subscribe to receive the OWH monthly newsletter and important women's health news alerts by email.",
+      "index": 54,
+      "timestamp": "2024-11-11 22:47:09"
+    }
+  ]
+}

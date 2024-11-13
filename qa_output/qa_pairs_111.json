@@ -1,0 +1,25 @@
+{
+  "index": 111,
+  "timestamp": "2024-11-11 22:52:00",
+  "original_text": "Imprimir y Compartir (PDF 2448 KB) In English Consejos para las mujeres Preguntas que hacer sobre sus suplementos Cómo le ayuda la FDA Sea un consumidor inteligente Los suplementos dietéticos son prod...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Qué deben hacer las mujeres embarazadas para garantizar su seguridad al tomar suplementos?",
+      "output": "Las mujeres embarazadas deben consultar con su médico sobre las vitaminas prenatales que deben tomar y la cantidad de ácido fólico que necesitan antes y durante el embarazo.",
+      "index": 111,
+      "timestamp": "2024-11-11 22:52:00"
+    },
+    {
+      "text_input": "¿Cuándo es importante informar a un médico sobre los suplementos?",
+      "output": "Es importante informar a un médico sobre cualquier hierba, vitamina o suplemento que se esté tomando, ya que pueden afectar la eficacia de los medicamentos recetados.",
+      "index": 111,
+      "timestamp": "2024-11-11 22:52:00"
+    },
+    {
+      "text_input": "¿Qué medidas debe tomar la FDA después de que se comercializan los productos?",
+      "output": "La FDA toma medidas contra los productos inseguros después de su comercialización, revisa y toma medidas contra las afirmaciones falsas en las etiquetas y otra información del producto, y permite que los consumidores denuncien problemas graves después de tomar un suplemento dietético.",
+      "index": 111,
+      "timestamp": "2024-11-11 22:52:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 38,
+  "timestamp": "2024-11-11 22:45:48",
+  "original_text": "Image Imprimir y compartir PDF (2.14 MB) English Posiblemente crea que la enfermedad cardíaca solo afecta a los hombres; sin embargo, esto no es cierto. La enfermedad cardíaca es la causa de muerte pr...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Cuál es la principal causa de muerte en mujeres?",
+      "output": "Enfermedad cardíaca",
+      "index": 38,
+      "timestamp": "2024-11-11 22:45:48"
+    },
+    {
+      "text_input": "¿Qué consejo da la FDA para limitar el riesgo de enfermedad cardíaca?",
+      "output": "Controlar problemas de salud como presión arterial alta, diabetes y colesterol alto",
+      "index": 38,
+      "timestamp": "2024-11-11 22:45:48"
+    },
+    {
+      "text_input": "¿Qué medicamento puede ayudar a prevenir un ataque cardíaco o un derrame cerebral?",
+      "output": "Aspirina (consultar con el médico para uso apropiado)",
+      "index": 38,
+      "timestamp": "2024-11-11 22:45:48"
+    }
+  ]
+}

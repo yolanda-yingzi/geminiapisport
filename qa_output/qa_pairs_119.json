@@ -1,0 +1,25 @@
+{
+  "index": 119,
+  "timestamp": "2024-11-11 22:52:34",
+  "original_text": "Spanish Language version - Medicamentos Genéricos: Preguntas y Respuestas (PDF - 213 KB) What are generic drugs? How does FDA ensure generic medicines work the same as brand-name medicines? Why does a...",
+  "qa_pairs": [
+    {
+      "text_input": "What defines generic medicines?",
+      "output": "Generic medicines are duplicates of existing brand-name drugs, manufactured to have the same dosage, form, safety, efficacy, strength, administration route, quality, performance, and intended use as their branded counterparts.",
+      "index": 119,
+      "timestamp": "2024-11-11 22:52:33"
+    },
+    {
+      "text_input": "How does the FDA guarantee the efficacy of generic medicines?",
+      "output": "The FDA conducts rigorous evaluations to ensure that generic medicines meet the same standards as brand-name counterparts in terms of dosage, form, safety, efficacy, strength, and labeling, and they undergo inspections of manufacturing facilities and ongoing monitoring of drug safety post-approval.",
+      "index": 119,
+      "timestamp": "2024-11-11 22:52:33"
+    },
+    {
+      "text_input": "What accounts for the cost difference between generic and brand-name medicines?",
+      "output": "Generic medicines incur lower production costs because they don't have to undergo the same extensive research and clinical trials as brand-name drugs, leading to substantial price reductions (typically 80-85%) compared to their branded counterparts.",
+      "index": 119,
+      "timestamp": "2024-11-11 22:52:33"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 68,
+  "timestamp": "2024-11-11 22:48:21",
+  "original_text": "What's New In October 2021, FDA and EPA issued updated advice about eating fish that incorporates the recommendations of the Dietary Guidelines for Americans, 2020-2025. Visit Advice about Eating Fish...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some key recommendations from the Dietary Guidelines for Americans for pregnant women and children?",
+      "output": "The updated advice recommends eating a variety of fish, including fatty fish like salmon, tuna, and mackerel, to support the growth and development of unborn babies and young children.",
+      "index": 68,
+      "timestamp": "2024-11-11 22:48:21"
+    },
+    {
+      "text_input": "Why are pregnant women at high risk of developing foodborne illness?",
+      "output": "Pregnant women have a high risk of developing food poisoning because pregnancy affects their immune system's ability to fight foodborne infections.",
+      "index": 68,
+      "timestamp": "2024-11-11 22:48:21"
+    },
+    {
+      "text_input": "Which organism can cause serious health complications for pregnant women and their unborn babies?",
+      "output": "Listeriosis, caused by the bacterium Listeria monocytogenes, can lead to miscarriage, premature delivery, stillbirth, and serious sickness or death for a newborn baby.",
+      "index": 68,
+      "timestamp": "2024-11-11 22:48:21"
+    }
+  ]
+}

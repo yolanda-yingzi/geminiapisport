@@ -1,0 +1,25 @@
+{
+  "index": 159,
+  "timestamp": "2024-11-11 22:55:51",
+  "original_text": "Image Español Cannabis and Cannabis-derived products have become increasingly available in recent years, with new and different types of products appearing all the time. These products raise questions...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the difference between cannabis, marijuana, and hemp?",
+      "output": "Cannabis is a plant that contains over eighty biologically active chemical compounds, including THC and CBD. Marijuana is a type of cannabis plant that contains varying levels of THC, the compound that produces the \"high\" associated with marijuana use. Hemp is another type of cannabis plant that contains extremely low amounts of THC.",
+      "index": 159,
+      "timestamp": "2024-11-11 22:55:51"
+    },
+    {
+      "text_input": "What are the potential health risks of using marijuana during pregnancy and while breastfeeding?",
+      "output": "Using marijuana and other products containing THC during pregnancy and while breastfeeding may lead to negative health effects, including fetal brain development issues, low birth weight, premature birth, and stillbirth. Marijuana smoke also contains harmful components similar to tobacco smoke.",
+      "index": 159,
+      "timestamp": "2024-11-11 22:55:51"
+    },
+    {
+      "text_input": "Has the FDA approved any CBD products and are there any benefits?",
+      "output": "The FDA has only approved one prescription drug containing CBD for treating rare, severe forms of seizure disorders in children. Other than this approved drug, CBD products have not been evaluated or approved for use as drug products by the FDA. The safety, effectiveness, and potential interactions of these products are still unclear.",
+      "index": 159,
+      "timestamp": "2024-11-11 22:55:51"
+    }
+  ]
+}

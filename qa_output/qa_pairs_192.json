@@ -1,0 +1,25 @@
+{
+  "index": 192,
+  "timestamp": "2024-11-11 22:58:36",
+  "original_text": "en español (Spanish) Many infants in the U.S. rely on infant formula for some or all of their nutrition. Ensuring that the youngest and most vulnerable individuals have access to safe and nutritionall...",
+  "qa_pairs": [
+    {
+      "text_input": "¿Cómo supervisa la FDA la seguridad y la calidad nutricional de las fórmulas infantiles?",
+      "output": "La FDA supervisa la seguridad y la calidad nutricional de las fórmulas infantiles regulando su producción, notificando nuevos productos, revisando su cumplimiento con los requisitos federales y tomando medidas de cumplimiento si es necesario. También establece requisitos nutricionales, especifica ingredientes seguros, exige controles sanitarios y realiza pruebas para garantizar la seguridad y la calidad.",
+      "index": 192,
+      "timestamp": "2024-11-11 22:58:36"
+    },
+    {
+      "text_input": "¿Qué agencia establece los estándares de seguridad para el agua utilizada en la fabricación de fórmulas infantiles?",
+      "output": "La Agencia de Protección Ambiental de los Estados Unidos (U.S. Environmental Protection Agency) establece los estándares de seguridad para el agua utilizada en la fabricación de fórmulas infantiles.",
+      "index": 192,
+      "timestamp": "2024-11-11 22:58:36"
+    },
+    {
+      "text_input": "¿Qué tipo de fórmulas están diseñadas para abordar necesidades digestivas específicas?",
+      "output": "Existen fórmulas infantiles especializadas para abordar necesidades digestivas específicas, como fórmulas parcialmente hidrolizadas para una digestión más fácil, fórmulas espesas para reducir el reflujo ácido y fórmulas sin lactosa para bebés con dificultades para digerirla.",
+      "index": 192,
+      "timestamp": "2024-11-11 22:58:36"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "index": 60,
+  "timestamp": "2024-11-11 22:47:40",
+  "original_text": "Image En Inglés Descargar/Ver hoja informativa en PDF (1.51 MB) El cuidado es el acto de brindar apoyo a alguien con una enfermedad crónica, lesión, discapacidad o necesidades relacionadas con la edad...",
+  "qa_pairs": [
+    {
+      "text_input": "What is caregiving?",
+      "output": "Caregiving is the act of providing support to someone with a chronic illness, injury, disability, or age-related needs.",
+      "index": 60,
+      "timestamp": "2024-11-11 22:47:40"
+    },
+    {
+      "text_input": "What are some common challenges of caregiving?",
+      "output": "Common challenges of caregiving include caregiver stress, and women, in particular, are at risk for experiencing the detrimental health effects of caregiver stress.",
+      "index": 60,
+      "timestamp": "2024-11-11 22:47:40"
+    },
+    {
+      "text_input": "What are some tips for managing medications and medical devices safely in a home setting?",
+      "output": "- Keep a medication list for each person you care for and bring it with you to medical appointments.\n- Administer the correct amount of medication as prescribed by the healthcare provider.\n- Store medications under lock and key to prevent accidental poisoning by children or misuse by teens.\n- Talk to the healthcare provider about how to use medical devices safely and ask them to demonstrate how to use the device correctly.",
+      "index": 60,
+      "timestamp": "2024-11-11 22:47:40"
+    }
+  ]
+}

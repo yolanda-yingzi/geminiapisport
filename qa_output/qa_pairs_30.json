@@ -1,0 +1,25 @@
+{
+  "index": 30,
+  "timestamp": "2024-11-11 22:45:13",
+  "original_text": "Download in PDF (2 MB) | en español (Spanish) Making healthy dietary choices can help you feel your best and stay active. It can also help you lower your risk of developing some health conditions that...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the Nutrition Facts label used for?",
+      "output": "The Nutrition Facts label provides information about the nutritional content of packaged foods and beverages, helping consumers make informed food choices.",
+      "index": 30,
+      "timestamp": "2024-11-11 22:45:13"
+    },
+    {
+      "text_input": "What nutrient is crucial for bone health?",
+      "output": "Calcium is a crucial nutrient for bone health, as it helps maintain strong and healthy bones.",
+      "index": 30,
+      "timestamp": "2024-11-11 22:45:13"
+    },
+    {
+      "text_input": "What type of fat is generally found in higher amounts in animal products?",
+      "output": "Saturated fat is typically found in higher amounts in animal products, except for seafood, which is generally low in saturated fat.",
+      "index": 30,
+      "timestamp": "2024-11-11 22:45:13"
+    }
+  ]
+}

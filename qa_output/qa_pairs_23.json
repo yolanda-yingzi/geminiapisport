@@ -1,0 +1,25 @@
+{
+  "index": 23,
+  "timestamp": "2024-11-11 22:44:38",
+  "original_text": "Image Are you pregnant or planning to become pregnant? Having a baby can be a joyous time that comes with changes as you go through each stage of pregnancy. The FDA has lots of resources to help you m...",
+  "qa_pairs": [
+    {
+      "text_input": "What should I do before getting pregnant?",
+      "output": "Make a plan, discuss and keep up with your annual health exams with your health care provider.",
+      "index": 23,
+      "timestamp": "2024-11-11 22:44:38"
+    },
+    {
+      "text_input": "What are some foods to avoid during pregnancy?",
+      "output": "You should avoid raw or undercooked meat, poultry, fish, shellfish, and eggs; unpasteurized milk and cheese; and raw sprouts.",
+      "index": 23,
+      "timestamp": "2024-11-11 22:44:38"
+    },
+    {
+      "text_input": "What should I do if I need to take medicine during pregnancy?",
+      "output": "Always talk with your health care provider, nurse, or pharmacist before taking any medicines, vitamins or herbs.",
+      "index": 23,
+      "timestamp": "2024-11-11 22:44:38"
+    }
+  ]
+}

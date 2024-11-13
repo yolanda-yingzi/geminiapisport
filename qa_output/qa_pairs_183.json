@@ -1,0 +1,25 @@
+{
+  "index": 183,
+  "timestamp": "2024-11-11 22:57:51",
+  "original_text": "[12/3/14] The FDA published the Content and Format of Labeling for Human Prescription Drug and Biological Products; Requirements for Pregnancy and Lactation Labeling, referred to as the “Pregnancy and...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the main purpose of the Pregnancy and Lactation Labeling Rule (PLLR)?",
+      "output": "The PLLR aims to provide health care providers and pregnant or breastfeeding women with detailed information about prescription drugs' benefits and risks to assist them in making informed decisions regarding their health.",
+      "index": 183,
+      "timestamp": "2024-11-11 22:57:51"
+    },
+    {
+      "text_input": "What are some of the key changes in prescription drug labeling under the PLLR?",
+      "output": "The PLLR removes pregnancy letter categories (A, B, C, D, X) and instead includes a Risk Summary, Clinical considerations, and Data sections in the Pregnancy subsection.",
+      "index": 183,
+      "timestamp": "2024-11-11 22:57:51"
+    },
+    {
+      "text_input": "When do the labeling changes under the PLLR go into effect?",
+      "output": "The PLLR labeling changes took effect on June 30, 2015.",
+      "index": 183,
+      "timestamp": "2024-11-11 22:57:51"
+    }
+  ]
+}

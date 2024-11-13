@@ -1,0 +1,25 @@
+{
+  "index": 117,
+  "timestamp": "2024-11-11 22:52:23",
+  "original_text": "Buy, Store & Serve Safe Food FDA provides educational resources related to food safety, including how you can safely buy, store, prepare and serve food. People at Risk of Foodborne Illness Are you or ...",
+  "qa_pairs": [
+    {
+      "text_input": "What organization provides resources on food safety?",
+      "output": "FDA (Food and Drug Administration)",
+      "index": 117,
+      "timestamp": "2024-11-11 22:52:23"
+    },
+    {
+      "text_input": "How many Americans are estimated to get foodborne illness annually?",
+      "output": "48 million",
+      "index": 117,
+      "timestamp": "2024-11-11 22:52:23"
+    },
+    {
+      "text_input": "What is the purpose of the Nutrition Facts Label?",
+      "output": "To help people maintain healthy dietary practices",
+      "index": 117,
+      "timestamp": "2024-11-11 22:52:23"
+    }
+  ]
+}

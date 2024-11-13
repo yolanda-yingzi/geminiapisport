@@ -1,0 +1,25 @@
+{
+  "index": 73,
+  "timestamp": "2024-11-11 22:48:47",
+  "original_text": "Español Bogus product! Danger! Health fraud alert! You’ll never see these warnings on health products, but that’s what you ought to be thinking when you see claims like “miracle cure,” “guaranteed res...",
+  "qa_pairs": [
+    {
+      "text_input": "What are some common tip-offs that a health product may be fraudulent?",
+      "output": "Six tip-offs to identify rip-offs include: One product that claims to cure a wide range of diseases; Personal \"success\" testimonials; Quick fixes; \"All natural\" cures or treatments; \"Miracle cure\" claims; and Conspiracy theories.",
+      "index": 73,
+      "timestamp": "2024-11-11 22:48:47"
+    },
+    {
+      "text_input": "How can fraudulent health products cause harm?",
+      "output": "Fraudulent products can delay potentially life-saving diagnosis and scientifically tested and proven treatments, and they sometimes contain hidden drug ingredients that can be harmful when unknowingly taken by consumers.",
+      "index": 73,
+      "timestamp": "2024-11-11 22:48:47"
+    },
+    {
+      "text_input": "What are some examples of health conditions that health fraud scams often target?",
+      "output": "Health fraud scams often target people with Alzheimer's, arthritis, cancer, diabetes, memory loss, sexual performance issues, and weight loss concerns.",
+      "index": 73,
+      "timestamp": "2024-11-11 22:48:47"
+    }
+  ]
+}

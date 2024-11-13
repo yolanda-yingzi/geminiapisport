@@ -1,0 +1,25 @@
+{
+  "index": 222,
+  "timestamp": "2024-11-11 23:01:04",
+  "original_text": "July 1, 2022 The Power of Your Story: Meet La-Anna Tell us a bit about yourself – Who is La-Anna Douglas? I am 40 years old and for over four years I have been using my platform as well as my voice to...",
+  "qa_pairs": [
+    {
+      "text_input": "What is a laparoscopic myomectomy?",
+      "output": "A laparoscopic myomectomy is a surgical procedure performed to remove fibroids from the uterus using a laparoscope, a small instrument inserted through an incision in the abdomen.",
+      "index": 222,
+      "timestamp": "2024-11-11 23:01:04"
+    },
+    {
+      "text_input": "What are the symptoms of fibroids?",
+      "output": "Fibroids can cause a range of symptoms, including heavy menstrual bleeding, pelvic pain, urinary incontinence, and constipation.",
+      "index": 222,
+      "timestamp": "2024-11-11 23:01:04"
+    },
+    {
+      "text_input": "What are the treatment options for fibroids?",
+      "output": "Treatment options for fibroids include medication, minimally invasive procedures such as uterine artery embolization or radiofrequency ablation, and surgery, such as a hysterectomy or myomectomy.",
+      "index": 222,
+      "timestamp": "2024-11-11 23:01:04"
+    }
+  ]
+}

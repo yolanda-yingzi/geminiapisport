@@ -1,0 +1,25 @@
+{
+  "index": 218,
+  "timestamp": "2024-11-11 23:00:44",
+  "original_text": "Image Español Sometimes people get a permanent tattoo then later decide they no longer want it. Life situations change or maybe the tattoo just didn’t come out as hoped. Removing a tattoo isn’t as eas...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the safest and most effective method of tattoo removal?",
+      "output": "Laser tattoo removal is the most common and safest method of tattoo removal performed by trained healthcare professionals.",
+      "index": 218,
+      "timestamp": "2024-11-11 23:00:44"
+    },
+    {
+      "text_input": "Can all tattoo colors be effectively removed using a laser?",
+      "output": "No, certain colors like green, red, and yellow are harder to remove with lasers, while dark blue and black are easier.",
+      "index": 218,
+      "timestamp": "2024-11-11 23:00:44"
+    },
+    {
+      "text_input": "Are there any risks associated with laser tattoo removal?",
+      "output": "Yes, potential risks include scarring, infection, pinpoint bleeding, redness, or soreness. However, these side effects should not last for an extended period.",
+      "index": 218,
+      "timestamp": "2024-11-11 23:00:44"
+    }
+  ]
+}

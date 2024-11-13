@@ -1,0 +1,25 @@
+{
+  "index": 172,
+  "timestamp": "2024-11-11 22:56:54",
+  "original_text": "The FDA issued new information about this safety issue, see the FDA Drug Safety Communication issued on 1-19-2024. En Español In Chinese Drug Safety Communication (PDF - 166 KB) 11-22-2022 FDA Drug Sa...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the medication that is being investigated for severe hypocalcemia?",
+      "output": "Prolia (denosumab)",
+      "index": 172,
+      "timestamp": "2024-11-11 22:56:54"
+    },
+    {
+      "text_input": "Which group of patients is at an increased risk of hypocalcemia with Prolia?",
+      "output": "Patients with advanced kidney disease, particularly those on dialysis",
+      "index": 172,
+      "timestamp": "2024-11-11 22:56:54"
+    },
+    {
+      "text_input": "What is one symptom of low blood calcium levels?",
+      "output": "Unusual tingling or numbness in the hands, arms, legs, or feet",
+      "index": 172,
+      "timestamp": "2024-11-11 22:56:54"
+    }
+  ]
+}

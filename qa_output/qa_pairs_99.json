@@ -1,0 +1,25 @@
+{
+  "index": 99,
+  "timestamp": "2024-11-11 22:50:54",
+  "original_text": "The Food and Drug Administration Office of Women’s Health (OWH) was established by Congressional mandate in 1994, as part of the Office of the FDA Commissioner. The mission of the office is to: Serve ...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the mission of the FDA Office of Women's Health (OWH)?",
+      "output": "The mission of the FDA Office of Women's Health (OWH) is to serve as the principal advisor to the Commissioner and other key Agency officials on scientific, ethical, and policy issues relating to women's health.",
+      "index": 99,
+      "timestamp": "2024-11-11 22:50:54"
+    },
+    {
+      "text_input": "What does OWH support to achieve its mission?",
+      "output": "OWH supports FDA’s regulatory mission by engaging in scientific research and collaborating with stakeholders to engage in scientific and educational projects.",
+      "index": 99,
+      "timestamp": "2024-11-11 22:50:54"
+    },
+    {
+      "text_input": "How does OWH promote research and development?",
+      "output": "OWH promotes and conducts research initiatives that facilitate FDA regulatory decision-making and advance the understanding of sex differences and health conditions unique to women.",
+      "index": 99,
+      "timestamp": "2024-11-11 22:50:54"
+    }
+  ]
+}

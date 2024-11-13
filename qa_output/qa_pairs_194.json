@@ -1,0 +1,25 @@
+{
+  "index": 194,
+  "timestamp": "2024-11-11 22:58:45",
+  "original_text": "Español The Food and Drug Administration (FDA) oversees manufacturers of infant formulas and helps ensure that these products are safe and support healthy growth in infants who consume them. Don’t Mak...",
+  "qa_pairs": [
+    {
+      "text_input": "Who regulates infant formula?",
+      "output": "The Food and Drug Administration (FDA)",
+      "index": 194,
+      "timestamp": "2024-11-11 22:58:45"
+    },
+    {
+      "text_input": "Why is it dangerous to use homemade infant formula?",
+      "output": "Homemade infant formula recipes have not been evaluated by the FDA and may lack nutrients vital to an infant's growth.",
+      "index": 194,
+      "timestamp": "2024-11-11 22:58:45"
+    },
+    {
+      "text_input": "What can the FDA do if an infant formula is adulterated?",
+      "output": "The FDA can take action to remove adulterated formula from the marketplace.",
+      "index": 194,
+      "timestamp": "2024-11-11 22:58:45"
+    }
+  ]
+}

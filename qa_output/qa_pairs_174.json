@@ -1,0 +1,25 @@
+{
+  "index": 174,
+  "timestamp": "2024-11-11 22:57:04",
+  "original_text": "Las mujeres y el dolor Las mujeres experimentan el dolor de manera diferente que los hombres Las mujeres reportan tener más dolor que los hombres. Algunos tipos de dolor prolongado (crónico), como las...",
+  "qa_pairs": [
+    {
+      "text_input": "How do women experience pain differently from men?",
+      "output": "Women are more likely to report experiencing pain, with certain types of chronic pain being more prevalent among women, such as migraines and back pain.",
+      "index": 174,
+      "timestamp": "2024-11-11 22:57:04"
+    },
+    {
+      "text_input": "What type of pain medications are commonly prescribed for women and why?",
+      "output": "Women are prescribed pain medications at higher rates than men, with higher doses and longer durations of use. Common pain medications prescribed include nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen and opioids such as oxycodone and hydrocodone.",
+      "index": 174,
+      "timestamp": "2024-11-11 22:57:04"
+    },
+    {
+      "text_input": "What precautions should women take when using pain medications?",
+      "output": "Women should consult with healthcare providers before taking opioids, follow prescription instructions carefully, avoid sharing medications, store medications securely, limit duration of use, inform providers of any history of substance use disorders, and properly dispose of unused medications.",
+      "index": 174,
+      "timestamp": "2024-11-11 22:57:04"
+    }
+  ]
+}

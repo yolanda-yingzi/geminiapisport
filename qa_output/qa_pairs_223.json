@@ -1,0 +1,25 @@
+{
+  "index": 223,
+  "timestamp": "2024-11-11 23:01:09",
+  "original_text": "For Immediate Release: May 29, 2020 Español The U.S. Food and Drug Administration today granted approval to Oriahnn (an estrogen and progestin combination product consisting of elagolix, estradiol and...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the purpose of Oriahnn?",
+      "output": "Oriahnn is a medication used to manage heavy menstrual bleeding caused by uterine fibroids in premenopausal women.",
+      "index": 223,
+      "timestamp": "2024-11-11 23:01:09"
+    },
+    {
+      "text_input": "What are the most common side effects of Oriahnn?",
+      "output": "The most common side effects of Oriahnn are hot flushes, headache, fatigue and irregular vaginal bleeding.",
+      "index": 223,
+      "timestamp": "2024-11-11 23:01:09"
+    },
+    {
+      "text_input": "Who should not take Oriahnn?",
+      "output": "Oriahnn should not be taken by women with a history of or current blood clots, women at increased risk for blood clots, women with osteoporosis, women with a history of or current breast cancer or other hormonally-sensitive cancer, women with liver disease or undiagnosed abnormal uterine bleeding.",
+      "index": 223,
+      "timestamp": "2024-11-11 23:01:09"
+    }
+  ]
+}

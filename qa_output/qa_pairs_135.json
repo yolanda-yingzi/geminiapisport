@@ -1,0 +1,25 @@
+{
+  "index": 135,
+  "timestamp": "2024-11-11 22:53:51",
+  "original_text": "Dosing Information for Pregnant Patients *Please refer to the most current drug label for adult patients with renal impairment. For all drugs, adults formulation only provided. Filter by Drug Class CD...",
+  "qa_pairs": [
+    {
+      "text_input": "What is the recommended dosage of Atripla for pregnant patients?",
+      "output": "Continue the once daily dosage if already virologically suppressed.",
+      "index": 135,
+      "timestamp": "2024-11-11 22:53:51"
+    },
+    {
+      "text_input": "Is it safe to use Genvoya during pregnancy?",
+      "output": "No, Genvoya is not recommended for use during pregnancy due to lower exposures of cobicistat and elvitegravir.",
+      "index": 135,
+      "timestamp": "2024-11-11 22:53:51"
+    },
+    {
+      "text_input": "What is the recommended dosage of KALETRA for pregnant patients with no documented lopinavir-associated resistance substitutions?",
+      "output": "400/100 mg twice daily.",
+      "index": 135,
+      "timestamp": "2024-11-11 22:53:51"
+    }
+  ]
+}
